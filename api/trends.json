@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T20:26:32.585674+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2025-12-23T21:31:47.294517+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 90,
+      "match_count": 93,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,23 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 21时31分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11,
+            13,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[10时08分 ~ 20时26分]"
+          "time_info": "[13时48分 ~ 21时31分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -40,20 +55,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 20时26分]"
         },
         {
           "title": "泰国外长：柬埔寨或用“电诈园区”作控制中心",
@@ -131,6 +132,17 @@
           "time_info": "[10时08分 ~ 17时18分]"
         },
         {
+          "title": "泰国：感谢中方推动冲突降温",
+          "url": "https://www.douyin.com/hot/2345384",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普：美国“必须得到格陵兰岛”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
@@ -152,11 +164,12 @@
           "ranks": [
             4,
             2,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -179,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "泰国：感谢中方推动冲突降温",
-          "url": "https://www.douyin.com/hot/2345384",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -415,6 +417,18 @@
           "time_info": "[15时18分 ~ 16时19分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时31分]"
+        },
+        {
           "title": "据福克斯新闻：一位官员证实，特朗普政府正召回约30名大使。",
           "url": "https://flash.jin10.com/detail/20251223005847511800",
           "source": "金十数据",
@@ -437,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时25分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时31分]"
         },
         {
           "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
@@ -499,30 +525,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时48分 ~ 15时18分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时26分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
@@ -621,6 +623,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 17时18分]"
+        },
+        {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
@@ -755,6 +769,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "美国司法部：爱泼斯坦案文件包含一些针对特朗普的不实指控。",
+          "url": "https://wallstreetcn.com/livenews/3025606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
           "url": "https://flash.jin10.com/detail/20251223070109720800",
           "source": "金十数据",
@@ -775,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：核聚变企业高管对特朗普媒体科技集团(DJT.O)表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251223210625693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "美国总统特朗普：（谈柬埔寨-泰国关系）我认为我们在这方面控制得相当不错。",
@@ -898,15 +934,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "专家：特朗普战列舰政治意义大于实战",
-          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "title": "特朗普的“PPT战列舰”有多魔幻",
+          "url": "https://www.toutiao.com/trending/7587001068819582510/",
           "source": "今日头条",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时31分"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
@@ -992,7 +1028,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1082,11 +1118,12 @@
             13,
             14,
             18,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 19时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 21时31分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -1096,8 +1133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时08分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 21时31分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -1107,8 +1144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时08分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 21时31分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -1118,8 +1155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时08分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 21时31分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -1185,17 +1222,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "钉钉推出全球首个为AI打造的工作智能操作系统Agent OS",
-          "url": "https://wallstreetcn.com/livenews/3025584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
           "url": "https://www.cls.cn/detail/2236998",
           "source": "财联社热门",
@@ -1207,6 +1233,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时08分 ~ 14时22分]"
+        },
+        {
+          "title": "钉钉推出全球首个为AI打造的工作智能操作系统Agent OS",
+          "url": "https://wallstreetcn.com/livenews/3025584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时31分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
@@ -1421,7 +1459,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -1443,8 +1481,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时25分 ~ 20时26分]"
+          "appearance_count": 21,
+          "time_info": "[01时25分 ~ 21时31分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
