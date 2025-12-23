@@ -1,25 +1,22 @@
+AI
 DeepSeek
-梁文锋
+StableDiffusion
+chatgpt
+openai
 
 谷歌
 google
 gemini
 
-chatgpt
-openai
-
-金价
-
 黄金
 +价格
 
-美债
-
-美股
+A股
++指数
 
 美元
 +指数
 
 特朗普
-
-伊朗
+泰国
+柬埔寨
