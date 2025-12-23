@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:19:59.152177+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2025-12-23T17:18:46.161381+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -19,6 +19,17 @@
           "time_info": "[00时35分 ~ 07时26分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
           "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
           "source": "凤凰网",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
         },
         {
           "title": "泰国外长：柬埔寨或用“电诈园区”作控制中心",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 17时18分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -100,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -111,8 +111,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
+        },
+        {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -135,6 +146,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 17时18分]"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -245,32 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 16时19分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -497,6 +510,18 @@
           "time_info": "[01时25分 ~ 02时40分]"
         },
         {
+          "title": "泰柬冲突泰国出动航母起到多大作用",
+          "url": "https://www.toutiao.com/trending/7586911937900842547/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时18分]"
+        },
+        {
           "title": "“特朗普级”战列舰性能如何",
           "url": "https://www.toutiao.com/trending/7586915482419072538/",
           "source": "今日头条",
@@ -507,6 +532,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普为何要造战列舰",
+          "url": "https://www.toutiao.com/trending/7586940405795524115/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时18分]"
         },
         {
           "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
@@ -608,6 +645,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "泰铢升至四年高位 泰国在考虑限制部分黄金交易",
+          "url": "https://wallstreetcn.com/livenews/3025503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "美国总统特朗普：本周将与医疗保险公司会面。",
           "url": "https://flash.jin10.com/detail/20251223070148000800",
           "source": "金十数据",
@@ -685,17 +733,6 @@
           "time_info": "02时40分"
         },
         {
-          "title": "泰柬冲突泰国出动航母起到多大作用",
-          "url": "https://www.toutiao.com/trending/7586911937900842547/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
           "url": "https://flash.jin10.com/detail/20251223054417820800",
           "source": "金十数据",
@@ -705,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "特朗普为何要造战列舰",
-          "url": "https://www.toutiao.com/trending/7586940405795524115/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "克里姆林宫：俄罗斯需要弄清楚美国与乌克兰及欧洲就和平计划开展的合作，在多大程度上符合此前普京与特朗普在阿拉斯加峰会所体现的精神。",
@@ -944,11 +970,12 @@
             15,
             12,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 16时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 17时18分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -997,8 +1024,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -1008,8 +1035,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -1019,8 +1046,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时18分]"
         },
         {
           "title": "春晚AI冠名落定：火山引擎将登台、豆包也会参与",
@@ -1110,6 +1137,17 @@
           "time_info": "[05时25分 ~ 06时28分]"
         },
         {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 17时18分]"
+        },
+        {
           "title": "用AI造谣中国女篮两男子被刑拘",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "bilibili 热搜",
@@ -1132,17 +1170,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
           "title": "deepseek崩了",
           "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1160,17 +1187,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
           "url": "https://wallstreetcn.com/livenews/3025071",
           "source": "华尔街见闻-快讯",
@@ -1183,6 +1199,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 04时31分]"
+        },
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时18分]"
         },
         {
           "title": "周一（12月22日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨0.58%，报88575美元。 CME以太币期货DCR主力合约跌0.03%，报2997.50美元。 美股加密货币与加密货币关联指数涨1.41%，报63.84点，高开之后在北京时间23:10刷新日高至66.30点，随后逐步回吐涨幅。 最近24小时，MarketVector数字资产100小盘指数涨2.30%，暂报3579.08点。 MarketVector数字资产100指数涨0.12%，暂报18093.84点。",
@@ -1203,7 +1231,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1258,8 +1286,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时25分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[01时25分 ~ 17时18分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
