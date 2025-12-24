@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T17:18:16.590698+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-12-24T18:14:56.116562+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 17时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时00分 ~ 18时14分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -76,18 +89,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时16分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时00分 ~ 17时18分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -125,11 +126,12 @@
             20,
             21,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 17时18分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 18时14分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -210,8 +212,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时14分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -425,7 +427,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -620,7 +622,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -709,6 +711,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时21分]"
+        },
+        {
+          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3026145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "欧洲媒体巨头面临AI冲击与广告需求疲软的双重压力",
+          "url": "https://flash.jin10.com/detail/20251224173958645800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "投行2026关键词系列：汇丰看多元投资与AI生态丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251224173523204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
