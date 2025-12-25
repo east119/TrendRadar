@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T06:13:44.633759+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-26T07:13:27.213561+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 07时13分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -45,18 +45,6 @@
           "time_info": "[02时19分 ~ 06时13分]"
         },
         {
-          "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
-          "url": "https://flash.jin10.com/detail/20251226042403042800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
-        },
-        {
           "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
           "url": "https://flash.jin10.com/detail/20251226025244857800",
           "source": "金十数据",
@@ -64,11 +52,47 @@
             2,
             5,
             10,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 07时13分]"
+        },
+        {
+          "title": "美国总统特朗普：战争部执行了无数次完美打击。",
+          "url": "https://flash.jin10.com/detail/20251226070310001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
+          "url": "https://flash.jin10.com/detail/20251226042403042800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时13分]"
+        },
+        {
+          "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
+          "url": "https://flash.jin10.com/detail/20251226070308886800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -105,11 +129,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时13分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -124,12 +149,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 04时15分]"
+        },
+        {
+          "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
+          "url": "https://flash.jin10.com/detail/20251226065412046800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -139,8 +175,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -151,8 +187,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
+          "url": "https://flash.jin10.com/detail/20251226064520664800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
@@ -168,8 +215,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时13分]"
         }
       ]
     }
