@@ -1,61 +1,22 @@
 {
-  "generated_at": "2025-12-26T23:14:24.109565+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-12-27T00:15:33.135810+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 51,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
-          "url": "https://www.zhihu.com/question/1987453622598985713",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 13时16分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
-        },
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
           "url": "https://wallstreetcn.com/articles/3762107",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时54分 ~ 23时14分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 16时18分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -65,928 +26,86 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
-          "url": "https://wallstreetcn.com/livenews/3026815",
+          "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3027395",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            5,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
-          "url": "https://flash.jin10.com/detail/20251226025244857800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            10,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 07时13分]"
-        },
-        {
-          "title": "美国总统特朗普：战争部执行了无数次完美打击。",
-          "url": "https://flash.jin10.com/detail/20251226070310001800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251226104958577800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "汪文斌谈柬埔寨遣返电诈嫌犯",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E8%B0%88%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%A3%E8%BF%94%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            7,
-            22,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 13时16分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
-          "url": "https://flash.jin10.com/detail/20251226042403042800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时13分]"
-        },
-        {
-          "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
-          "url": "https://flash.jin10.com/detail/20251226070308886800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
-          "url": "https://www.zhihu.com/question/1987470779722522743",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 17时15分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
-          "url": "https://flash.jin10.com/detail/20251226013420505800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            15,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 06时13分]"
-        },
-        {
-          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3026784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时15分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥与柬埔寨首相洪玛奈通话，就柬埔寨与泰国之间持续的暴力事件表达关切。",
-          "url": "https://flash.jin10.com/detail/20251226042354479800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时13分]"
-        },
-        {
-          "title": "泰国商务部：预计2025年大米出口量将超过750万公吨。",
-          "url": "https://flash.jin10.com/detail/20251226114258036800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时16分]"
-        },
-        {
-          "title": "据“中国驻柬埔寨大使馆”公众号消息，中国驻外使领馆延长阶段性调减来华签证费政策至2026年12月31日。",
-          "url": "https://wallstreetcn.com/livenews/3027288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时25分]"
-        },
-        {
-          "title": "泰国商务部：预计2026年大米出口量将达到700万吨。",
-          "url": "https://flash.jin10.com/detail/20251226114223101800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时16分]"
-        },
-        {
-          "title": "泰国商务部：泰铢应保持竞争力和稳定性。",
-          "url": "https://flash.jin10.com/detail/20251226122031939800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时21分]"
-        },
-        {
-          "title": "泰国商务部：2025年大米出口量有望达到800万吨。",
-          "url": "https://flash.jin10.com/detail/20251226120205617800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时16分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251226001306612800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时15分]"
-        },
-        {
-          "title": "泰国外贸部：泰国2025年大米出口预计为750万吨，2026年预计为700万吨。",
-          "url": "https://wallstreetcn.com/livenews/3027030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时21分]"
-        },
-        {
-          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
-          "url": "https://wallstreetcn.com/livenews/3027347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 23时14分]"
-        },
-        {
-          "title": "泰国商务部：泰铢的走强正影响大米的出口。",
-          "url": "https://flash.jin10.com/detail/20251226115326041800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时16分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
-          "url": "https://flash.jin10.com/detail/20251226205730248800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时14分]"
-        },
-        {
-          "title": "特朗普人事强震引爆新争议",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时15分]"
-        },
-        {
-          "title": "据AXIOS记者：乌克兰官员透露，美国总统特朗普将于周日在海湖庄园会见乌克兰总统泽连斯基。",
-          "url": "https://flash.jin10.com/detail/20251226175327901800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "00时15分"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
           "url": "https://flash.jin10.com/detail/20251226230113914800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
-          "url": "https://wallstreetcn.com/livenews/3026898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
-          "url": "https://flash.jin10.com/detail/20251226065412046800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "泽连斯基：已同意在近期与特朗普会面。 很多事情可以在年底前决定。",
-          "url": "https://wallstreetcn.com/livenews/3027103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
-          "url": "https://wallstreetcn.com/articles/3762069",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
-          "url": "https://flash.jin10.com/detail/20251226130524809800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基表示，他与美国总统特朗普已同意在不久的将来会面。",
-          "url": "https://flash.jin10.com/detail/20251226144841803800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "据当地媒体报道，泰国与柬埔寨之间的停火将于当地时间12月27日开始，随后进入为期72小时的监测期。",
-          "url": "https://flash.jin10.com/detail/20251226212841612800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "泰国央行：银行须将金额超过20万美元的交易申报。",
-          "url": "https://wallstreetcn.com/livenews/3027142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "柬埔寨：泰战机轰炸柬边境村庄",
-          "url": "https://flash.jin10.com/detail/20251226153251530800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "泰国央行行长：泰国央行已采取“大规模”干预措施缓解泰铢波动",
-          "url": "https://flash.jin10.com/detail/20251226172442341800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "泰国12月19日外汇储备为2779.7亿美元，而12月12日为2775亿美元。",
-          "url": "https://flash.jin10.com/detail/20251226153221143800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
-          "url": "https://flash.jin10.com/detail/20251226205149177800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "泰国总理：国防部长将于周六出席与柬埔寨就潜在停火举行的会谈。",
-          "url": "https://flash.jin10.com/detail/20251226181021707800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
-          "url": "https://flash.jin10.com/detail/20251226204831614800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
-          "url": "https://flash.jin10.com/detail/20251226075028232800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20251226204630246800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "柬埔寨：泰战机轰炸柬边境村庄",
-          "url": "https://wallstreetcn.com/livenews/3027129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "专家：特朗普或在2026“压榨”美联储",
-          "url": "https://www.toutiao.com/trending/7587727738132270635/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
-          "url": "https://flash.jin10.com/detail/20251226204553454800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "浙江荣泰：与伟创电气拟在泰国设立合资公司 共同开发应用于智能机器人机电一体化市场",
-          "url": "https://wallstreetcn.com/livenews/3027165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
-          "url": "https://flash.jin10.com/detail/20251226203140257800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "泽连斯基称近期将与美总统特朗普会面",
-          "url": "https://wallstreetcn.com/livenews/3027103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
-          "url": "https://www.cls.cn/detail/2240453",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时21分]"
-        },
-        {
-          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
-          "url": "https://www.cls.cn/detail/2240534",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 17时15分]"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            8,
-            10,
-            16,
-            18,
-            13,
-            14,
-            26,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时54分 ~ 23时14分]"
-        },
-        {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            17,
-            20,
-            22,
-            23,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时15分]"
-        },
-        {
-          "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
-          "url": "https://wallstreetcn.com/livenews/3027114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "谷歌将允许用户更改Gmail邮箱地址",
-          "url": "https://flash.jin10.com/detail/20251226220031392800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
-          "url": "https://www.zhihu.com/question/1987780060753719586",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时16分]"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时28分]"
-        },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
           "url": "https://www.cls.cn/detail/2241363",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 23时14分]"
-        },
-        {
-          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
-          "url": "https://wallstreetcn.com/livenews/3027011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时16分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
           "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
           "source": "百度热搜",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "UP主用AI挑战肉鸽游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
           "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时14分]"
-        },
-        {
-          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
-          "url": "https://flash.jin10.com/detail/20251226064520664800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "联想将推出超级AI智能体，对标豆包手机助手",
-          "url": "https://wallstreetcn.com/livenews/3026959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美股开盘，道指跌0.04%，标普500指数涨0.04%，纳指涨0.1%，英伟达(NVDA.O)涨0.8%，公司与Groq达成一项非独家技术许可协议。矿业股跟随近期金属涨势，科尔黛伦矿业(CDE.N)涨3.4%， 泛美白银(PAAS.O)涨1.9%。存储概念股上涨，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨3.5%，Omdia预期AI需求推动NAND明年涨价40%。",
-          "url": "https://flash.jin10.com/detail/20251226223046972800",
-          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
-          "url": "https://wallstreetcn.com/livenews/3027117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "天禧AI从助手到队友",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%A6%A7AI%E4%BB%8E%E5%8A%A9%E6%89%8B%E5%88%B0%E9%98%9F%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "2025年度AI好用工具",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
           "url": "https://wallstreetcn.com/articles/3762115",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 23时14分]"
-        },
-        {
-          "title": "A股三大指数集体跳水翻绿。",
-          "url": "https://wallstreetcn.com/livenews/3027015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时16分]"
-        },
-        {
-          "title": "国投白银LOF再次跌停，A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，商业航天活跃，算力硬件领跌，碳酸锂涨超6%",
-          "url": "https://wallstreetcn.com/articles/3762115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "A股三大指数集体收涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "A股三大指数全线翻红。",
-          "url": "https://wallstreetcn.com/livenews/3026943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "A股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7587841353141403711/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 18时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
-          "url": "https://flash.jin10.com/detail/20251226074230487800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY向上触及98，日内涨0.04%。",
-          "url": "https://flash.jin10.com/detail/20251226143852951800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
+          "time_info": "00时15分"
         }
       ]
     }
