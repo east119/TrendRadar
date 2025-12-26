@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T17:15:55.731887+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2025-12-26T18:14:49.918166+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 18时14分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -280,6 +280,17 @@
           "time_info": "[12时31分 ~ 14时21分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时14分]"
+        },
+        {
           "title": "泰国商务部：泰铢的走强正影响大米的出口。",
           "url": "https://flash.jin10.com/detail/20251226115326041800",
           "source": "金十数据",
@@ -303,15 +314,15 @@
           "time_info": "[16时18分 ~ 17时15分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
+          "title": "据AXIOS记者：乌克兰官员透露，美国总统特朗普将于周日在海湖庄园会见乌克兰总统泽连斯基。",
+          "url": "https://flash.jin10.com/detail/20251226175327901800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时14分"
         },
         {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
@@ -402,6 +413,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "泰国央行行长：泰国央行已采取“大规模”干预措施缓解泰铢波动",
+          "url": "https://flash.jin10.com/detail/20251226172442341800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "泰国12月19日外汇储备为2779.7亿美元，而12月12日为2775亿美元。",
           "url": "https://flash.jin10.com/detail/20251226153221143800",
           "source": "金十数据",
@@ -452,7 +474,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -471,7 +493,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -514,8 +536,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 18时14分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -588,22 +610,24 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时14分]"
         },
         {
           "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
           "url": "https://www.cls.cn/detail/2239926",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时14分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -637,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "天禧AI从助手到队友",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%A6%A7AI%E4%BB%8E%E5%8A%A9%E6%89%8B%E5%88%B0%E9%98%9F%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
@@ -664,9 +699,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时14分]"
         },
         {
           "title": "国投白银LOF再次跌停，A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，商业航天活跃，算力硬件领跌，碳酸锂涨超6%",
@@ -717,8 +752,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时15分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时14分]"
         }
       ]
     },
