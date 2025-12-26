@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:16:48.947250+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2025-12-26T16:18:49.306646+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -239,6 +239,19 @@
           "time_info": "[12时31分 ~ 13时16分]"
         },
         {
+          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
+          "url": "https://www.zhihu.com/question/1987470779722522743",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时18分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -264,18 +277,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 14时21分]"
-        },
-        {
-          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
-          "url": "https://www.zhihu.com/question/1987470779722522743",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时16分]"
         },
         {
           "title": "泰国商务部：泰铢的走强正影响大米的出口。",
@@ -318,7 +319,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -329,7 +330,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -351,9 +352,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "泰国央行：银行须将金额超过20万美元的交易申报。",
+          "url": "https://wallstreetcn.com/livenews/3027142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "柬埔寨：泰战机轰炸柬边境村庄",
+          "url": "https://flash.jin10.com/detail/20251226153251530800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "泰国12月19日外汇储备为2779.7亿美元，而12月12日为2775亿美元。",
+          "url": "https://flash.jin10.com/detail/20251226153221143800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
@@ -367,6 +401,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "柬埔寨：泰战机轰炸柬边境村庄",
+          "url": "https://wallstreetcn.com/livenews/3027129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "专家：特朗普或在2026“压榨”美联储",
           "url": "https://www.toutiao.com/trending/7587727738132270635/",
           "source": "今日头条",
@@ -376,12 +421,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "泽连斯基称近期将与美总统特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "特朗普人事强震引爆新争议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -418,11 +485,12 @@
             20,
             22,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 16时18分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -434,8 +502,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -447,11 +515,12 @@
             10,
             16,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
@@ -460,7 +529,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -510,12 +579,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
+          "url": "https://wallstreetcn.com/livenews/3027117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股三大指数集体跳水翻绿。",
@@ -529,6 +609,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时16分]"
+        },
+        {
+          "title": "国投白银LOF再次跌停，A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，商业航天活跃，算力硬件领跌，碳酸锂涨超6%",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "A股三大指数集体收涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "A股三大指数全线翻红。",
@@ -557,8 +659,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 16时18分]"
         }
       ]
     },
@@ -590,7 +692,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
