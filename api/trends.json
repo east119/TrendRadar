@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:16:28.630688+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-26T14:21:06.776788+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
@@ -42,8 +42,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 14时21分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -136,28 +147,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时16分]"
-        },
-        {
-          "title": "泰国商务部：泰铢应保持竞争力和稳定性。",
-          "url": "https://flash.jin10.com/detail/20251226122031939800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
@@ -226,6 +215,18 @@
           "time_info": "[11时56分 ~ 13时16分]"
         },
         {
+          "title": "泰国商务部：泰铢应保持竞争力和稳定性。",
+          "url": "https://flash.jin10.com/detail/20251226122031939800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时21分]"
+        },
+        {
           "title": "泰国商务部：2025年大米出口量有望达到800万吨。",
           "url": "https://flash.jin10.com/detail/20251226120205617800",
           "source": "金十数据",
@@ -257,11 +258,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时21分]"
         },
         {
           "title": "泰国商务部：泰铢的走强正影响大米的出口。",
@@ -274,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时16分]"
+        },
+        {
+          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
+          "url": "https://www.zhihu.com/question/1987470779722522743",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
@@ -296,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
@@ -335,8 +359,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 14时21分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -358,11 +382,12 @@
             14,
             17,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -374,8 +399,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 14时21分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -385,11 +410,23 @@
             28,
             8,
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 14时21分]"
+        },
+        {
+          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
+          "url": "https://www.zhihu.com/question/1987780060753719586",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时21分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -403,17 +440,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时16分]"
-        },
-        {
-          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
-          "url": "https://www.zhihu.com/question/1987780060753719586",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时16分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -483,8 +509,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 14时21分]"
         }
       ]
     },
