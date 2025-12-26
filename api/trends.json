@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T11:56:07.504205+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2025-12-26T12:31:27.231412+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 11时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 12时31分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -59,6 +59,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时10分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时31分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -107,26 +119,29 @@
           "time_info": "07时13分"
         },
         {
-          "title": "泰国商务部：预计2025年大米出口量将超过750万公吨。",
-          "url": "https://flash.jin10.com/detail/20251226114258036800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "泰国商务部：预计2026年大米出口量将达到700万吨。",
-          "url": "https://flash.jin10.com/detail/20251226114223101800",
+          "title": "泰国商务部：2025年大米出口量有望达到800万吨。",
+          "url": "https://flash.jin10.com/detail/20251226120205617800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "汪文斌谈柬埔寨遣返电诈嫌犯",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E8%B0%88%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%A3%E8%BF%94%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时31分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -171,17 +186,39 @@
           "time_info": "[05时13分 ~ 07时13分]"
         },
         {
-          "title": "汪文斌谈柬埔寨遣返电诈嫌犯",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E8%B0%88%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%A3%E8%BF%94%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF",
-          "source": "百度热搜",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            7,
-            22
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时01分 ~ 11时56分]"
+          "time_info": "[10时54分 ~ 12时31分]"
+        },
+        {
+          "title": "泰国商务部：预计2025年大米出口量将超过750万公吨。",
+          "url": "https://flash.jin10.com/detail/20251226114258036800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时31分]"
+        },
+        {
+          "title": "泰国商务部：预计2026年大米出口量将达到700万吨。",
+          "url": "https://flash.jin10.com/detail/20251226114223101800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时31分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -198,26 +235,26 @@
           "time_info": "[01时12分 ~ 04时15分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "泰国外贸部：泰国2025年大米出口预计为750万吨，2026年预计为700万吨。",
+          "url": "https://wallstreetcn.com/livenews/3027030",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 11时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
+          "title": "泰国商务部：泰铢的走强正影响大米的出口。",
+          "url": "https://flash.jin10.com/detail/20251226115326041800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 11时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
@@ -267,7 +304,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -291,8 +328,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时31分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -303,8 +340,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时31分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -315,8 +352,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时31分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -324,22 +361,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时31分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
           "url": "https://wallstreetcn.com/livenews/3027011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时31分]"
+        },
+        {
+          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
+          "url": "https://www.zhihu.com/question/1987780060753719586",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时31分"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -374,11 +424,12 @@
           "url": "https://wallstreetcn.com/livenews/3027015",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时31分]"
         },
         {
           "title": "A股三大指数全线翻红。",
@@ -407,8 +458,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时31分]"
         }
       ]
     },
