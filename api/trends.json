@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T11:53:00.562778+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-12-27T12:26:37.837189+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 12时26分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -58,38 +70,49 @@
           "time_info": "[01时12分 ~ 07时13分]"
         },
         {
-          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
-          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 11时53分]"
-        },
-        {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
           "url": "https://wallstreetcn.com/livenews/3027528",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时26分]"
+        },
+        {
+          "title": "柬埔寨说柬泰同意27日中午开始停火",
+          "url": "https://flash.jin10.com/detail/20251227115550762800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时26分"
         },
         {
-          "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
-          "url": "https://flash.jin10.com/detail/20251227111701825800",
+          "title": "泰柬联合声明：如果停火持续72小时，泰国将遣返18名柬埔寨士兵。",
+          "url": "https://flash.jin10.com/detail/20251227115326428800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时26分"
+        },
+        {
+          "title": "柬埔寨说柬泰同意27日中午开始停火",
+          "url": "https://wallstreetcn.com/livenews/3027529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
@@ -103,17 +126,6 @@
           "time_info": "08时59分"
         },
         {
-          "title": "泰国与柬埔寨就停火问题签署联合声明",
-          "url": "https://flash.jin10.com/detail/20251227111239558800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -123,6 +135,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "柬埔寨国防部声明：泰国与柬埔寨签署停火协议。",
+          "url": "https://flash.jin10.com/detail/20251227114058054800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
+          "url": "https://flash.jin10.com/detail/20251227111701825800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时26分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -136,6 +171,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 03时11分]"
+        },
+        {
+          "title": "泰国与柬埔寨就停火问题签署联合声明",
+          "url": "https://flash.jin10.com/detail/20251227111239558800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时26分]"
         },
         {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
@@ -155,11 +202,38 @@
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 12时26分]"
+        },
+        {
+          "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
+          "url": "https://wallstreetcn.com/livenews/3027513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 12时26分]"
+        },
+        {
+          "title": "泰国看守总理阿努廷：泰柬27日或签停火声明",
+          "url": "https://wallstreetcn.com/livenews/3027500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 12时26分]"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
@@ -174,18 +248,6 @@
           "time_info": "[00时15分 ~ 01时12分]"
         },
         {
-          "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
-          "url": "https://wallstreetcn.com/livenews/3027513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时53分]"
-        },
-        {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -198,16 +260,15 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
-          "title": "泰国看守总理阿努廷：泰柬27日或签停火声明",
-          "url": "https://wallstreetcn.com/livenews/3027500",
-          "source": "华尔街见闻-快讯",
+          "title": "泽连斯基将与特朗普会晤",
+          "url": "https://www.toutiao.com/trending/7588308891545649194/",
+          "source": "今日头条",
           "ranks": [
-            23,
             28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时53分]"
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
@@ -269,8 +330,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 11时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时26分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -288,8 +349,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 11时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时26分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -342,11 +403,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 12时26分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -373,6 +435,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格突破1400元黄金回收遇冷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 1,
       "titles": [
@@ -386,8 +465,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 11时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时26分]"
         }
       ]
     },
