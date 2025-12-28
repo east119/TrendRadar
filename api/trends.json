@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T16:17:54.077477+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-12-28T17:14:50.247962+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "泰国与柬埔寨就停火问题签署联合声明，双方会彻底停火吗？",
@@ -160,11 +160,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 17时14分]"
         },
         {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
@@ -172,11 +173,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 17时14分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时17分]"
+          "time_info": "[16时17分 ~ 17时14分]"
         },
         {
           "title": "泰国女子把女儿骗到日本卖淫",
@@ -216,15 +230,15 @@
           "time_info": "[11时31分 ~ 13时18分]"
         },
         {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
+          "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
+          "url": "https://flash.jin10.com/detail/20251228160258413800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "17时14分"
         },
         {
           "title": "泰国12岁女孩被亲妈哄骗到日本卖淫",
@@ -269,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "泰柬签署停火协议 柬埔寨让步了吗",
+          "url": "https://www.toutiao.com/trending/7588799569241050633/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -343,11 +368,12 @@
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时14分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -358,8 +384,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 17时14分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
