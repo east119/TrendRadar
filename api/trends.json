@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T18:13:33.509302+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-12-28T19:12:05.974411+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "泰国与柬埔寨就停火问题签署联合声明，双方会彻底停火吗？",
@@ -115,6 +115,20 @@
           "time_info": "[00时15分 ~ 09时07分]"
         },
         {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 19时12分]"
+        },
+        {
           "title": "中国电视剧在外国热度怎么样，接受度如何？例如韩国、泰国、越南等等？",
           "url": "https://www.zhihu.com/question/486710914",
           "source": "知乎",
@@ -142,19 +156,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -194,6 +195,19 @@
           "time_info": "[15时14分 ~ 17时14分]"
         },
         {
+          "title": "泰柬签署停火协议 柬埔寨让步了吗",
+          "url": "https://www.toutiao.com/trending/7588799569241050633/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时12分]"
+        },
+        {
           "title": "泰国女子把女儿骗到日本卖淫",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%8A%8A%E5%A5%B3%E5%84%BF%E9%AA%97%E5%88%B0%E6%97%A5%E6%9C%AC%E5%8D%96%E6%B7%AB%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -207,6 +221,17 @@
           "time_info": "[11时31分 ~ 13时18分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
+        },
+        {
           "title": "中国电视剧在外国热度怎么样，接受度如何，例如韩国，泰国，越南等等？",
           "url": "https://www.zhihu.com/question/486710914",
           "source": "知乎",
@@ -216,6 +241,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 01时11分]"
+        },
+        {
+          "title": "中国援柬埔寨紧急人道主义物资运抵",
+          "url": "https://www.toutiao.com/trending/7588728400999792683/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -231,6 +268,18 @@
           "time_info": "[11时31分 ~ 13时18分]"
         },
         {
+          "title": "“柬埔寨政府和人民感谢中方”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%94%BF%E5%BA%9C%E5%92%8C%E4%BA%BA%E6%B0%91%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
+        },
+        {
           "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
           "url": "https://flash.jin10.com/detail/20251228160258413800",
           "source": "金十数据",
@@ -243,27 +292,15 @@
           "time_info": "[17时14分 ~ 18时13分]"
         },
         {
-          "title": "泰柬签署停火协议 柬埔寨让步了吗",
-          "url": "https://www.toutiao.com/trending/7588799569241050633/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
+          "url": "https://flash.jin10.com/detail/20251228180224795800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时13分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时12分"
         },
         {
           "title": "泰国12岁女孩被亲妈哄骗到日本卖淫",
@@ -275,17 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "中国援柬埔寨紧急人道主义物资运抵",
-          "url": "https://www.toutiao.com/trending/7588728400999792683/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -308,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        },
-        {
-          "title": "“柬埔寨政府和人民感谢中方”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%94%BF%E5%BA%9C%E5%92%8C%E4%BA%BA%E6%B0%91%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
@@ -387,6 +402,19 @@
           "time_info": "[09时07分 ~ 13时18分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 19时12分]"
+        },
+        {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
           "url": "https://wallstreetcn.com/articles/3762183",
           "source": "华尔街见闻",
@@ -406,24 +434,12 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时13分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
