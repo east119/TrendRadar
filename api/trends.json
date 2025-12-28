@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T07:13:22.527185+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-12-28T09:07:38.827810+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时07分]"
         },
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
           "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时07分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -37,11 +39,50 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 09时07分]"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "time_info": "[00时15分 ~ 09时07分]"
+        },
+        {
+          "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
+          "url": "https://wallstreetcn.com/livenews/3027569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            10,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时07分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时07分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南会晤",
@@ -60,39 +101,30 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
+          "url": "https://flash.jin10.com/detail/20251227204708263800",
           "source": "金十数据",
           "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时07分]"
+        },
+        {
+          "title": "中国电视剧在外国热度怎么样，接受度如何？例如韩国、泰国、越南等等？",
+          "url": "https://www.zhihu.com/question/486710914",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
             8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
-          "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
-          "url": "https://wallstreetcn.com/livenews/3027569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
-          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
-          "url": "https://flash.jin10.com/detail/20251227213217547800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "time_info": "[02时18分 ~ 09时07分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -108,31 +140,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
-          "url": "https://flash.jin10.com/detail/20251227204708263800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
-          "title": "中国电视剧在外国热度怎么样，接受度如何？例如韩国、泰国、越南等等？",
-          "url": "https://www.zhihu.com/question/486710914",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 07时13分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -171,7 +178,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -180,22 +187,35 @@
           "ranks": [
             20,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时07分]"
         },
         {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
           "url": "https://wallstreetcn.com/articles/3762183",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 09时07分]"
+        },
+        {
+          "title": "原告出示证据 右下角写着“AI生成”",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "09时07分"
         }
       ]
     },
