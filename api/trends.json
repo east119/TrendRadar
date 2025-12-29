@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T18:16:25.170042+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2025-12-29T19:13:40.535401+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
@@ -47,6 +47,22 @@
           "time_info": "[00时15分 ~ 15时20分]"
         },
         {
+          "title": "国女流落柬埔寨,境外诈骗太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 19时13分]"
+        },
+        {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
           "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
           "source": "凤凰网",
@@ -56,21 +72,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "国女流落柬埔寨,境外诈骗太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 18时16分]"
         },
         {
           "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
@@ -359,17 +360,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3028074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
           "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
           "source": "凤凰网",
@@ -393,15 +383,16 @@
           "time_info": "13时22分"
         },
         {
-          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3028086",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            15,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时13分]"
         },
         {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆",
@@ -476,6 +467,30 @@
           "time_info": "[12时42分 ~ 13时22分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
+        },
+        {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://wallstreetcn.com/livenews/3027687",
           "source": "华尔街见闻-快讯",
@@ -487,18 +502,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时15分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时16分]"
         },
         {
           "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
@@ -634,7 +637,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -667,7 +670,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -681,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "德国政府发言人：我们欢迎美国总统特朗普为在乌克兰实现持久而公正的和平所作的努力。",
+          "url": "https://flash.jin10.com/detail/20251229185121695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -733,7 +747,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -848,6 +862,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229182839575800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：与特朗普、泽连斯基及多位欧洲领导人进行了长达一小时的友好通话，讨论今日关于和平谈判的会议。",
           "url": "https://flash.jin10.com/detail/20251229061934654800",
           "source": "金十数据",
@@ -887,7 +912,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1052,7 +1077,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1071,7 +1096,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -1102,11 +1127,12 @@
             13,
             20,
             25,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 18时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 19时13分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1165,6 +1191,19 @@
           "time_info": "[12时42分 ~ 14时23分]"
         },
         {
+          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
+          "url": "https://www.cls.cn/detail/2242491",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时13分]"
+        },
+        {
           "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
           "url": "https://wallstreetcn.com/livenews/3027884",
           "source": "华尔街见闻-快讯",
@@ -1175,18 +1214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时22分]"
-        },
-        {
-          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
-          "url": "https://www.cls.cn/detail/2242491",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时16分]"
         },
         {
           "title": "美媒开嘲：中国电网是AI的重要助力，而英国电网60年没升级了",
@@ -1211,13 +1238,24 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "“AI教父”警告2026年将迎失业潮",
           "url": "https://www.toutiao.com/trending/7588750168670748713/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
