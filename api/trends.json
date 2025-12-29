@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-29T09:06:10.486942+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-29T11:42:53.586486+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
-        {
-          "title": "中国援柬埔寨物资运抵金边",
-          "url": "https://www.douyin.com/hot/2350186",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时06分]"
-        },
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
           "url": "https://news.ifeng.com/c/8pSVDYFTMdI",
@@ -29,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 05时12分]"
+        },
+        {
+          "title": "中国援柬埔寨物资运抵金边",
+          "url": "https://www.douyin.com/hot/2350186",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时42分]"
         },
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -113,6 +114,18 @@
           "time_info": "[00时15分 ~ 05时12分]"
         },
         {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时42分]"
+        },
+        {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
           "url": "https://flash.jin10.com/detail/20251228224005794800",
           "source": "金十数据",
@@ -124,17 +137,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普：不排除亲自前往乌克兰",
-          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
@@ -300,6 +302,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "国女流落柬埔寨,境外诈骗太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆",
           "url": "https://flash.jin10.com/detail/20251228194835429800",
           "source": "金十数据",
@@ -361,6 +374,18 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时42分]"
+        },
+        {
           "title": "柬埔寨为何延迟十多天停火",
           "url": "https://www.toutiao.com/trending/7588891113503591977/",
           "source": "今日头条",
@@ -411,17 +436,6 @@
           "title": "特朗普称俄乌“接近达成协议”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
           "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
-          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
-          "source": "凤凰网",
           "ranks": [
             10
           ],
@@ -513,9 +527,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "特朗普与泽连斯基开始会晤",
@@ -590,7 +615,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -634,7 +659,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -672,6 +697,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "柬泰停火生效后 柬埔寨向泰方提议明年1月召开紧急特别会议",
+          "url": "https://wallstreetcn.com/livenews/3027832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "美国总统特朗普：我们与俄乌双方的关系可能比以往任何时候都更加密切。",
           "url": "https://flash.jin10.com/detail/20251229061136902800",
           "source": "金十数据",
@@ -681,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美媒：特朗普政府启动对企业多元化招聘举措的调查",
+          "url": "https://flash.jin10.com/detail/20251229101231773800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
@@ -700,9 +747,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普称，若有助于达成俄乌和平协议，不排除访问乌克兰的可能性",
+          "url": "https://wallstreetcn.com/livenews/3027824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "美国总统特朗普：俄乌问题工作组人员包括威特科夫、库什纳、凯恩和鲁比奥；赫格塞斯也应该加入工作组。",
@@ -714,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普政府正在调查美国大型企业在招聘和晋升方面的相关举措。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3027820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "特朗普见泽连斯基前后均与普京通话",
@@ -755,20 +824,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时06分]"
-        },
-        {
           "title": "用一个字证明自己不是AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
@@ -780,6 +835,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时06分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            4,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时42分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -811,8 +881,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时42分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
@@ -824,6 +894,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货白银周一开盘暴力拉升至83.8美元/盎司后迅速回吐涨幅，日内宽幅震荡；现货黄金亚盘走低，但价格得以维持在4500美元上方，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251229104659948800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大指数集体翻红，创业板指此前一度跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3027838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     }
