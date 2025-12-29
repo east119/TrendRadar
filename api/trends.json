@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T14:23:34.272003+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-29T15:20:29.556531+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
@@ -19,21 +19,6 @@
           "time_info": "[00时15分 ~ 05时12分]"
         },
         {
-          "title": "中国援柬埔寨物资运抵金边",
-          "url": "https://www.douyin.com/hot/2350186",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            21,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普：不排除亲自前往乌克兰",
           "url": "https://news.ifeng.com/c/8pTDPPdlvje",
           "source": "凤凰网",
@@ -42,8 +27,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 15时20分]"
+        },
+        {
+          "title": "中国援柬埔寨物资运抵金边",
+          "url": "https://www.douyin.com/hot/2350186",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            21,
+            20,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时20分]"
         },
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 06时13分]"
+        },
+        {
+          "title": "国女流落柬埔寨,境外诈骗太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 15时20分]"
         },
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -126,17 +139,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时12分]"
-        },
-        {
-          "title": "国女流落柬埔寨,境外诈骗太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时23分]"
         },
         {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
@@ -338,6 +340,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 15时20分]"
+        },
+        {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆",
           "url": "https://flash.jin10.com/detail/20251228194835429800",
           "source": "金十数据",
@@ -423,28 +436,18 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普当众施压泽连斯基",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
           "source": "百度热搜",
           "ranks": [
             29,
             24,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 15时20分]"
         },
         {
           "title": "柬埔寨为何延迟十多天停火",
@@ -503,6 +506,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32269222",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时20分]"
         },
         {
           "title": "美国将在特朗普任期内重返月球",
@@ -604,6 +618,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "俄总统特别代表德米特里耶夫：“全世界”都赞赏美国总统特朗普及其团队的和平努力。",
           "url": "https://flash.jin10.com/detail/20251229063730645800",
           "source": "金十数据",
@@ -637,17 +662,6 @@
           "time_info": "06时13分"
         },
         {
-          "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32269222",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "美国总统特朗普：认为我们正越来越接近达成俄乌协议，与泽连斯基举行了精彩的会晤；已与欧洲领导人通话，进行了非常棒的交流。",
           "url": "https://flash.jin10.com/detail/20251229055418733800",
           "source": "金十数据",
@@ -657,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
@@ -882,7 +907,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -909,11 +934,12 @@
             16,
             23,
             28,
-            22
+            22,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时20分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -936,6 +962,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "千亿私募景林最新发声：2026年或成AI Agent真正普及的元年",
+          "url": "https://wallstreetcn.com/livenews/3027976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "ChatGPT帮他杀死83岁母亲？",
