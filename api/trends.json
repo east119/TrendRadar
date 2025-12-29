@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T05:12:48.104518+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-12-30T06:13:25.320253+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 67,
+      "match_count": 80,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -15,8 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 06时13分]"
+        },
+        {
+          "title": "国女流落柬埔寨,境外诈骗太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -36,32 +59,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "国女流落柬埔寨,境外诈骗太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -70,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -86,13 +86,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
+          "url": "https://wallstreetcn.com/livenews/3028346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
           "url": "https://flash.jin10.com/detail/20251230045611670800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -134,6 +145,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时12分]"
+        },
+        {
+          "title": "柬埔寨否认柬无人机侵犯泰国",
+          "url": "https://wallstreetcn.com/livenews/3028313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时13分]"
         },
         {
           "title": "特朗普和内塔尼亚胡进入海湖庄园，开始双边会谈。",
@@ -210,18 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "柬埔寨否认柬无人机侵犯泰国",
-          "url": "https://wallstreetcn.com/livenews/3028313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时12分]"
         },
         {
           "title": "美国总统特朗普：我对从普京处获悉的消息感到非常愤怒。但乌克兰方面的袭击事件可能并未发生。",
@@ -428,6 +440,18 @@
           "time_info": "[04时15分 ~ 05时12分]"
         },
         {
+          "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
+          "url": "https://wallstreetcn.com/livenews/3028316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
           "title": "特朗普：伊朗可能“重新集结”，必要时将出手",
           "url": "https://wallstreetcn.com/livenews/3028303",
           "source": "华尔街见闻-快讯",
@@ -632,13 +656,25 @@
           "time_info": "[03时11分 ~ 04时15分]"
         },
         {
+          "title": "国足再不比赛 排名就要被泰国反超了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E5%86%8D%E4%B8%8D%E6%AF%94%E8%B5%9B+%E6%8E%92%E5%90%8D%E5%B0%B1%E8%A6%81%E8%A2%AB%E6%B3%B0%E5%9B%BD%E5%8F%8D%E8%B6%85%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们在大多数事情上都达成一致，我们谈到了哈马斯和解除武装，将给予哈马斯短暂时间解除武装。",
           "url": "https://flash.jin10.com/detail/20251230045602577800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -660,7 +696,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -671,7 +707,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -682,18 +718,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
-          "url": "https://wallstreetcn.com/livenews/3028316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -704,9 +729,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
+          "url": "https://wallstreetcn.com/livenews/3028340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普：正考虑以无能为由起诉鲍威尔",
+          "url": "https://wallstreetcn.com/livenews/3028336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：沙特有伟大的领导人，该国与以色列关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3028335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗“可能”表现不好，但不确定。 将支持与伊朗的双边会谈。",
+          "url": "https://wallstreetcn.com/livenews/3028333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "特朗普会晤内塔尼亚胡，就伊朗核问题再次发出威胁",
@@ -715,9 +784,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：考虑向土耳其出售F-35战斗机。",
+          "url": "https://flash.jin10.com/detail/20251230052443235800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普及其关键顾问向俄罗斯总统普京详细通报了与乌克兰的谈判情况。",
@@ -731,6 +811,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国联邦住房金融局局长、“反美联储先锋”普尔特：特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
+          "url": "https://flash.jin10.com/detail/20251230052220933800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：当俄罗斯总统普京向美国总统特朗普提及针对俄罗斯总统府的无人机袭击时，特朗普感到震惊。",
           "url": "https://flash.jin10.com/detail/20251230001529676800",
           "source": "金十数据",
@@ -740,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普：考虑起诉鲍威尔 还是可能炒了他",
+          "url": "https://flash.jin10.com/detail/20251230051943479800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告诉美国总统特朗普，乌克兰对俄罗斯总统府发动了无人机袭击。",
@@ -753,15 +855,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "国足再不比赛 排名就要被泰国反超了",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E5%86%8D%E4%B8%8D%E6%AF%94%E8%B5%9B+%E6%8E%92%E5%90%8D%E5%B0%B1%E8%A6%81%E8%A2%AB%E6%B3%B0%E5%9B%BD%E5%8F%8D%E8%B6%85%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：在某个时刻，沙特阿拉伯将签署亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20251230051343979800",
+          "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "以色列总理内塔尼亚胡进入海湖庄园会见特朗普。",
@@ -773,6 +875,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美国总统特朗普：亚伯拉罕协议将被扩大。",
+          "url": "https://flash.jin10.com/detail/20251230051237992800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的权力和威望已大大削弱，我们不能让他们再次壮大。",
+          "url": "https://flash.jin10.com/detail/20251230051234021800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "以色列总理内塔尼亚胡离开酒店前往海湖庄园会见美国总统特朗普。",
@@ -806,6 +930,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "美国总统特朗普：愿意与伊朗展开对话。",
+          "url": "https://flash.jin10.com/detail/20251230050747641800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：我们拭目以待黎巴嫩解除真主党武装的努力，真主党一直表现得很糟糕。伊朗的行为或许有些不当，但这尚未得到证实。",
+          "url": "https://flash.jin10.com/detail/20251230050729543800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -822,8 +968,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -833,8 +979,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -845,8 +991,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -857,11 +1003,12 @@
             13,
             10,
             9,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -872,8 +1019,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时13分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -887,8 +1034,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时13分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -926,11 +1073,12 @@
           "url": "https://wallstreetcn.com/livenews/3028317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
         }
       ]
     }
