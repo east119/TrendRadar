@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T09:01:22.665638+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-12-30T10:57:46.554985+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 88,
+      "match_count": 92,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -23,11 +23,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时57分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -37,11 +38,12 @@
             17,
             18,
             20,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时57分]"
         },
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -50,9 +52,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时57分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -83,9 +85,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "柬埔寨实施无人机飞行禁令",
+          "url": "https://wallstreetcn.com/livenews/3028479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -116,18 +129,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "得知普京官邸遭袭 特朗普：很生气",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -308,6 +310,18 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时57分]"
+        },
+        {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
           "url": "https://flash.jin10.com/detail/20251230030508660800",
           "source": "金十数据",
@@ -485,6 +499,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时12分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时57分]"
         },
         {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
@@ -727,6 +753,17 @@
           "time_info": "[05时12分 ~ 06时13分]"
         },
         {
+          "title": "解放军围岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们在大多数事情上都达成一致，我们谈到了哈马斯和解除武装，将给予哈马斯短暂时间解除武装。",
           "url": "https://flash.jin10.com/detail/20251230045602577800",
           "source": "金十数据",
@@ -771,15 +808,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589288606792581163/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "10时57分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
@@ -843,7 +880,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -876,9 +913,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普级战列舰会是闹剧吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E4%BC%9A%E6%98%AF%E9%97%B9%E5%89%A7%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普及其关键顾问向俄罗斯总统普京详细通报了与乌克兰的谈判情况。",
@@ -1008,7 +1056,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1049,8 +1097,34 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时57分]"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时57分]"
+        },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
           "url": "https://www.cls.cn/detail/2242969",
@@ -1062,30 +1136,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时13分]"
-        },
-        {
-          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
-          "url": "https://wallstreetcn.com/articles/3762071",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时01分]"
-        },
-        {
-          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2243270",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时01分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1102,8 +1152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时57分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -1115,8 +1165,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 09时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 10时57分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -1161,6 +1211,17 @@
           "time_info": "[07时13分 ~ 09时01分]"
         },
         {
+          "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
           "url": "https://flash.jin10.com/detail/20251230062733774800",
           "source": "金十数据",
@@ -1189,9 +1250,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
+          "url": "https://www.zhihu.com/question/1987934900884637667",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "泰柬与AI如何影响全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
@@ -1203,6 +1297,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大指数集体翻绿，创业板指跌超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3028469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
