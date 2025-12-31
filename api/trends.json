@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:19:44.185518+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-31T17:18:14.130850+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,21 @@
           "time_info": "[00时17分 ~ 15时18分]"
         },
         {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时20分 ~ 17时18分]"
+        },
+        {
           "title": "AI造假当庭露馅,法官严斥伪造者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
           "source": "贴吧",
@@ -92,21 +107,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时12分]"
-        },
-        {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时19分]"
         },
         {
           "title": "国家广播电视总局部署开展“AI魔改”视频专项治理。",
@@ -155,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时18分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -228,18 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时19分]"
         },
         {
           "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
@@ -468,7 +468,7 @@
     },
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -584,6 +584,18 @@
           "time_info": "[12时33分 ~ 14时21分]"
         },
         {
+          "title": "指责柬埔寨“挑衅”后，泰国还是放人了",
+          "url": "https://news.ifeng.com/c/8pX4Emqq34D",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时18分]"
+        },
+        {
           "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
           "url": "https://flash.jin10.com/detail/20251231130723991800",
           "source": "金十数据",
@@ -632,17 +644,6 @@
           "time_info": "[14时21分 ~ 16时19分]"
         },
         {
-          "title": "指责柬埔寨“挑衅”后，泰国还是放人了",
-          "url": "https://news.ifeng.com/c/8pX4Emqq34D",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时19分]"
-        },
-        {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
           "url": "https://wallstreetcn.com/livenews/3028928",
           "source": "华尔街见闻-快讯",
@@ -677,6 +678,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时20分]"
+        },
+        {
+          "title": "特朗普关于伊朗的强硬表态释放何信号",
+          "url": "https://www.toutiao.com/trending/7589843589102833215/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "美媒：特朗普正试图让世界MAGA化",
