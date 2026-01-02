@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:34:08.553858+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-01-02T13:19:45.475523+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时19分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -40,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时19分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -53,8 +54,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时19分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -88,11 +89,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -100,11 +102,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -148,8 +151,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时19分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -180,6 +183,19 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
+        },
+        {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
           "url": "https://www.zhihu.com/question/638067126",
           "source": "知乎",
@@ -190,18 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时13分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时34分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -252,8 +256,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
