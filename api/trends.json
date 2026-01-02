@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-01-02T22:14:35.326035+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-01-02T23:14:36.545880+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "儿子被卖柬埔寨,单亲妈孤身救人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348631&amp;topic_name=%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8D%96%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%8D%95%E4%BA%B2%E5%A6%88%E5%AD%A4%E8%BA%AB%E6%95%91%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时24分 ~ 22时14分]"
-        },
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
           "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
@@ -31,6 +17,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "儿子被卖柬埔寨,单亲妈孤身救人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348631&amp;topic_name=%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8D%96%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%8D%95%E4%BA%B2%E5%A6%88%E5%AD%A4%E8%BA%AB%E6%95%91%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时24分 ~ 23时14分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -72,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
+          "url": "https://wallstreetcn.com/livenews/3029871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
@@ -240,6 +252,30 @@
           "time_info": "[20时25分 ~ 21时28分]"
         },
         {
+          "title": "高市早苗与特朗普商定将于春季访美。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时14分]"
+        },
+        {
+          "title": "如何看待特朗普回应健康质疑",
+          "url": "https://www.toutiao.com/trending/7590742092725358143/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普的“和平”为何总是显得脆弱",
           "url": "https://www.toutiao.com/trending/7590664118328102443/",
           "source": "今日头条",
@@ -273,6 +309,17 @@
           "time_info": "21时28分"
         },
         {
+          "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
+          "url": "https://www.zhihu.com/question/1990382764189508847",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
           "url": "https://flash.jin10.com/detail/20260102155924046800",
           "source": "金十数据",
@@ -295,15 +342,15 @@
           "time_info": "20时25分"
         },
         {
-          "title": "高市早苗与特朗普商定将于春季访美。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029839",
+          "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3029858",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "23时14分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-02）",
@@ -317,6 +364,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "沃旭能源就特朗普暂停50亿美元海上风电项目提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3029856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
@@ -328,15 +386,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "如何看待特朗普回应健康质疑",
-          "url": "https://www.toutiao.com/trending/7590742092725358143/",
+          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
+          "url": "https://www.toutiao.com/trending/7590436761429049350/",
           "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "23时14分"
         },
         {
           "title": "据日本共同社：日本首相高市早苗与美国总统特朗普通话。",
@@ -348,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "新加坡总理黄循财于1月2日与美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260102222623337800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "伊朗最高领袖顾问拉里贾尼：美国总统特朗普应当明白，美国干涉伊朗抗议问题无异于在整个地区引发混乱。",
@@ -383,6 +452,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "特朗普称美国已做好准备",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "土耳其总统埃尔多安：将于下周一与美国总统特朗普讨论乌克兰和加沙问题。",
           "url": "https://flash.jin10.com/detail/20260102201629888800",
           "source": "金十数据",
@@ -408,7 +488,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -461,11 +541,12 @@
             12,
             19,
             25,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时24分 ~ 22时14分]"
+          "appearance_count": 17,
+          "time_info": "[11时24分 ~ 23时14分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -478,8 +559,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 29,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -492,8 +573,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时24分 ~ 22时14分]"
+          "appearance_count": 17,
+          "time_info": "[11时24分 ~ 23时14分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -510,8 +591,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 28,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -523,11 +604,12 @@
             18,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 29,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -566,8 +648,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时14分]"
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -580,8 +662,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时14分 ~ 22时14分]"
+          "appearance_count": 8,
+          "time_info": "[18时14分 ~ 23时14分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -630,6 +712,18 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时25分 ~ 23时14分]"
+        },
+        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -644,16 +738,15 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
-          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
-          "url": "https://www.cls.cn/detail/2246292",
-          "source": "财联社热门",
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时25分 ~ 22时14分]"
+          "time_info": "[21时27分 ~ 23时14分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -666,17 +759,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时13分]"
-        },
-        {
-          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
-          "url": "https://wallstreetcn.com/articles/3762454",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时14分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -700,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
+          "url": "https://flash.jin10.com/detail/20260102223809652800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
