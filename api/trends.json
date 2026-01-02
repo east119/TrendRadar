@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:10:16.139034+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-01-03T04:14:57.439090+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时10分]"
-        },
-        {
-          "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
-          "url": "https://wallstreetcn.com/livenews/3029913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时14分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -37,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -48,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -59,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -71,8 +60,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            13,
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -82,21 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
@@ -106,8 +96,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -117,8 +107,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
+        },
+        {
+          "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
+          "url": "https://wallstreetcn.com/livenews/3029913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -131,6 +133,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
+          "url": "https://flash.jin10.com/detail/20260103013040455800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时14分]"
         },
         {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
@@ -159,18 +174,6 @@
           "time_info": "[01时12分 ~ 03时10分]"
         },
         {
-          "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
-          "url": "https://flash.jin10.com/detail/20260103013040455800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时10分]"
-        },
-        {
           "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
           "url": "https://flash.jin10.com/detail/20260102223809652800",
           "source": "金十数据",
@@ -195,8 +198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -206,8 +209,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -218,8 +221,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "特朗普称美国已做好准备",
@@ -230,8 +233,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -252,11 +255,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时14分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
