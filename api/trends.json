@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T11:24:42.505763+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-01-02T12:34:08.553858+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时34分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时34分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 12时34分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -49,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时34分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -81,6 +82,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时34分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时34分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -115,26 +139,17 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
+          "url": "https://wallstreetcn.com/articles/3762433",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时34分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -177,16 +192,16 @@
           "time_info": "[00时16分 ~ 01时13分]"
         },
         {
-          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
-          "url": "https://wallstreetcn.com/articles/3762433",
-          "source": "华尔街见闻",
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时34分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -199,17 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 11时24分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -240,6 +244,18 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
+          "title": "儿子被卖柬埔寨,单亲妈孤身救人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348631&amp;topic_name=%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8D%96%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%8D%95%E4%BA%B2%E5%A6%88%E5%AD%A4%E8%BA%AB%E6%95%91%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时34分]"
+        },
+        {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
           "url": "https://wallstreetcn.com/livenews/3029639",
           "source": "华尔街见闻-快讯",
@@ -254,17 +270,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 07时13分]"
-        },
-        {
-          "title": "儿子被卖柬埔寨,单亲妈孤身救人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348631&amp;topic_name=%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8D%96%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%8D%95%E4%BA%B2%E5%A6%88%E5%AD%A4%E8%BA%AB%E6%95%91%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
