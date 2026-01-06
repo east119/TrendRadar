@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T11:23:41.274995+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-01-06T12:33:45.998741+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -95,8 +95,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时33分]"
         },
         {
           "title": "23岁中国女导演在柬埔寨坠楼身亡",
@@ -163,6 +163,17 @@
           "time_info": "[01时16分 ~ 07时13分]"
         },
         {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "特朗普对印度买俄石油发出最后通牒",
           "url": "https://www.toutiao.com/trending/7591650384435888171/",
           "source": "今日头条",
@@ -196,15 +207,15 @@
           "time_info": "07时13分"
         },
         {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
+          "title": "泰国陆军：柬方说无意向泰方境内开火",
+          "url": "https://wallstreetcn.com/livenews/3031356",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "12时33分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -342,8 +353,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 12时33分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -358,6 +369,17 @@
           "time_info": "[09时01分 ~ 11时23分]"
         },
         {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "特朗普涉印度表态让印网民不满",
           "url": "https://www.toutiao.com/trending/7591321463978868742/",
           "source": "今日头条",
@@ -367,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
@@ -379,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -404,6 +448,18 @@
           "time_info": "[03时16分 ~ 04时16分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -416,6 +472,18 @@
           "time_info": "[03时16分 ~ 04时16分]"
         },
         {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "同学回应23岁中国女导演柬埔寨坠亡",
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%AD%A6%E5%9B%9E%E5%BA%9423%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%BC%E6%BC%94%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1",
           "source": "百度热搜",
@@ -425,28 +493,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -471,15 +517,26 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
+          "title": "市场消息：泰国据悉考虑应对柬埔寨违反停火协议的措施。",
+          "url": "https://flash.jin10.com/detail/20260106113557539800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "12时33分"
+        },
+        {
+          "title": "流落柬埔寨街头女子毒品检测呈阳性",
+          "url": "https://www.toutiao.com/trending/7591562053618384950/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
@@ -537,15 +594,26 @@
           "time_info": "06时14分"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "泰国央行：1%-3%的通胀目标仍然合适。 将确保通胀率回归目标水平，避免通缩。",
+          "url": "https://wallstreetcn.com/livenews/3031343",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
@@ -592,6 +660,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "流落柬埔寨女网红近期有望回家",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%91%E6%9C%9F%E6%9C%89%E6%9C%9B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思想向每一位退役军人传达这样的信息——如果他们说了什么他或唐纳德·特朗普不喜欢的话，他们就会遭到同样的报复。",
           "url": "https://flash.jin10.com/detail/20260106004351865800",
           "source": "金十数据",
@@ -609,7 +688,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -620,7 +699,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -642,7 +721,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -653,7 +732,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -667,17 +746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
@@ -697,7 +765,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -716,7 +784,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -728,8 +796,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时33分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -758,11 +826,12 @@
             17,
             28,
             19,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 11时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 12时33分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -774,8 +843,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 12时33分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -802,6 +871,18 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 12时33分]"
+        },
+        {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
@@ -815,16 +896,28 @@
           "time_info": "[03时16分 ~ 05时13分]"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            26
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时23分]"
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -861,17 +954,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
           "url": "https://flash.jin10.com/detail/20260106055327542800",
           "source": "金十数据",
@@ -892,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -982,17 +1075,6 @@
           "time_info": "02时21分"
         },
         {
-          "title": "黄仁勋新年第一场演讲提了DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
           "url": "https://flash.jin10.com/detail/20260106062543527800",
           "source": "金十数据",
@@ -1002,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
@@ -1046,6 +1139,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
+          "url": "https://wallstreetcn.com/livenews/3031328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3031327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
