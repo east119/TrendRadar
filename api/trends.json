@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T09:02:52.840068+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-01-07T11:23:34.871438+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 71,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -43,11 +43,12 @@
             17,
             15,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 11时23分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -85,9 +86,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -96,9 +97,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普政府正讨论获取格陵兰岛方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时23分"
+        },
+        {
+          "title": "泰国央行：预计2025年下半年GDP增长率为1.3%，预计2025年下半年出口将增长9.1%。",
+          "url": "https://flash.jin10.com/detail/20260107105948492800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "特朗普：将与国防承包商对话。",
@@ -184,6 +207,18 @@
           "time_info": "[00时18分 ~ 01时18分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
+        },
+        {
           "title": "据华尔街日报：美国国务卿鲁比奥向议员们透露，特朗普有意购买格陵兰岛，并淡化了军事行动的可能性。鲁比奥称，白宫正利用言辞向丹麦施压，促使其展开谈判。",
           "url": "https://flash.jin10.com/detail/20260107055329321800",
           "source": "金十数据",
@@ -206,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时14分]"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
         },
         {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
@@ -256,6 +303,17 @@
           "time_info": "[04时15分 ~ 05时14分]"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
+        },
+        {
           "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260107043813100800",
           "source": "金十数据",
@@ -278,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
+          "url": "https://www.cls.cn/detail/2249866",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
         },
         {
           "title": "据白宫声明，美国总统特朗普已明确表示，获取格陵兰岛是“国家安全优先事项”。",
@@ -327,15 +396,37 @@
           "time_info": "01时18分"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "title": "泰国央行：泰铢走强正收紧中小企业出口商的流动性，并拖累出口。",
+          "url": "https://flash.jin10.com/detail/20260107105046911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
           "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时23分"
+        },
+        {
+          "title": "泰国央行：经济面临挑战，竞争力持续下降；由于美国进口关税措施以及面临国际竞争力的挑战，预计出口将放缓。",
+          "url": "https://flash.jin10.com/detail/20260107105037147800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -344,31 +435,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
         {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时23分"
         },
         {
           "title": "特朗普：若输中期选举 我可能被弹劾",
@@ -377,7 +457,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -388,7 +468,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -410,20 +490,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
         {
-          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
-          "url": "https://www.cls.cn/detail/2249866",
-          "source": "财联社热门",
+          "title": "洪森承诺全面执行与泰国停火协议",
+          "url": "https://wallstreetcn.com/livenews/3032058",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时23分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -520,7 +600,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -531,7 +611,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -553,7 +633,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -586,7 +666,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -641,7 +721,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -655,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周三下午2:30（北京时间次日凌晨3:30）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260107102154678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "特朗普称加州现已成为欺诈调查的目标",
@@ -674,7 +765,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -696,7 +787,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -721,6 +812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "母亲借钱买机票接回流落柬埔寨网红",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E5%80%9F%E9%92%B1%E4%B9%B0%E6%9C%BA%E7%A5%A8%E6%8E%A5%E5%9B%9E%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%BD%91%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
@@ -825,7 +927,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -861,8 +963,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 11时23分]"
         },
         {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
@@ -911,6 +1013,19 @@
           "time_info": "[04时15分 ~ 05时14分]"
         },
         {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 11时23分]"
+        },
+        {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3031787",
           "source": "华尔街见闻-快讯",
@@ -921,18 +1036,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时18分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 09时02分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -958,6 +1061,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
+          "url": "https://www.zhihu.com/question/1991159352690762378",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "xAI在E轮融资募集200亿美元，英伟达和思科战略投资",
           "url": "https://wallstreetcn.com/livenews/3031871",
           "source": "华尔街见闻-快讯",
@@ -967,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -1130,6 +1255,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌与XREAL宣布达成深度长期战略合作",
+          "url": "https://wallstreetcn.com/livenews/3032063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
