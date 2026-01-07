@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T22:17:26.948374+08:00",
-  "total_titles_processed": 2109,
+  "generated_at": "2026-01-07T23:17:00.125256+08:00",
+  "total_titles_processed": 2210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 114,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -45,8 +45,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时02分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[09时02分 ~ 23时17分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -58,6 +58,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时02分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时23分 ~ 23时17分]"
         },
         {
           "title": "“除掉马杜罗”，特朗普早就下了决心",
@@ -72,17 +84,6 @@
           "time_info": "[17时21分 ~ 20时28分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时23分 ~ 22时17分]"
-        },
-        {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
@@ -93,6 +94,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时17分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时28分 ~ 23时17分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -110,6 +123,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 11时23分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时16分 ~ 23时17分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -206,18 +233,6 @@
           "time_info": "[13时19分 ~ 16时20分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时17分]"
-        },
-        {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
           "url": "https://www.cls.cn/detail/2249902",
           "source": "财联社热门",
@@ -229,20 +244,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 14时22分]"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时16分 ~ 22时17分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -300,6 +301,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国总统特朗普：我们将永远支持北约，即使他们不会支持我们。",
+          "url": "https://flash.jin10.com/detail/20260107224637978800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普重申对国防承包商的批评。",
           "url": "https://flash.jin10.com/detail/20260107000144682800",
           "source": "金十数据",
@@ -333,6 +345,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 14时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我怀疑如果我们真的需要北约，他们是否会站在我们这边。",
+          "url": "https://flash.jin10.com/detail/20260107224624939800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -680,6 +703,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "Critical Metals(CRML.O)一度涨15%，股价创下去年10月以来的最高水平。此前美国总统特朗普考虑收购格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260107223834328800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8D%B0%E5%BA%A6%E5%8F%91%E5%87%BA%E6%96%B0%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
@@ -821,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国总统特朗普：我怀疑，在我们需要的时候北约是否会提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3032555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：我老婆讨厌我跳舞。她跟我说，你能想象罗斯福（FDR）跳舞吗？",
@@ -972,7 +1017,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1214,7 +1259,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1228,6 +1273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "Critical Metals一度涨15%，股价创去年10月以来盘中最高，此前美国总统特朗普声称考虑收购格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3032543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
@@ -1358,8 +1414,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时20分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[16时20分 ~ 23时17分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -1387,6 +1443,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 05时14分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时21分 ~ 23时17分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -1431,18 +1499,6 @@
           "time_info": "[07时13分 ~ 14时22分]"
         },
         {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 22时17分]"
-        },
-        {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
           "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
@@ -1471,13 +1527,26 @@
           "time_info": "[15时19分 ~ 19时14分]"
         },
         {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时28分 ~ 23时17分]"
+        },
+        {
           "title": "直播电商新规强化AI内容监管",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1538,19 +1607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时18分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时17分]"
         },
         {
           "title": "荣耀高管再度回应Air手机争议",
@@ -1724,7 +1780,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数6日上涨",
@@ -1772,6 +1828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美股开盘，道指涨0.1%，标普500指数涨0.03%，纳指涨0.02%。游戏驿站(GME.N)涨3.97%，公司宣布针对CEO瑞安·科恩的绩效薪酬计划。Ventyx(VTYX.O)飙升49%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
+          "url": "https://flash.jin10.com/detail/20260107223026847800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
