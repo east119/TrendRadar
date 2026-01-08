@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:20:24.194314+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-01-08T17:21:27.947018+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 91,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -51,11 +51,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时21分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -86,6 +87,20 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 17时21分]"
+        },
+        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
@@ -108,6 +123,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时18分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时21分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -135,31 +162,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时23分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时20分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -201,7 +203,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -325,6 +327,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时16分]"
+        },
+        {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时21分]"
         },
         {
           "title": "哥伦比亚总统与特朗普通电话",
@@ -519,18 +533,6 @@
           "time_info": "[02时21分 ~ 03时15分]"
         },
         {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时20分]"
-        },
-        {
           "title": "泰国投资委员：泰国的目标是在2050年前吸引790亿美元投资于半导体和先进电子产业。",
           "url": "https://flash.jin10.com/detail/20260108113142985800",
           "source": "金十数据",
@@ -564,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
@@ -654,6 +667,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "陈志被从柬埔寨押解回国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E8%A2%AB%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "美国总统特朗普：这些采购将包括但不限于美国农产品，以及美国制造的药品、医疗设备和器械。",
           "url": "https://flash.jin10.com/detail/20260108060546493800",
           "source": "金十数据",
@@ -718,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
@@ -825,7 +860,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -861,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "泰国SET指数下跌2%，至1,255.03点。",
+          "url": "https://wallstreetcn.com/livenews/3033139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
@@ -913,7 +959,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -990,7 +1036,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1012,7 +1058,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1034,7 +1080,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1059,12 +1105,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
+          "url": "https://wallstreetcn.com/livenews/3033129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -1092,6 +1149,19 @@
           "time_info": "[00时19分 ~ 12时33分]"
         },
         {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 17时21分]"
+        },
+        {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
@@ -1103,19 +1173,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 09时02分]"
-        },
-        {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 16时20分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -1237,6 +1294,17 @@
           "time_info": "[04时16分 ~ 05时13分]"
         },
         {
+          "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
+          "url": "https://www.cls.cn/detail/2251507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3032785",
           "source": "华尔街见闻-快讯",
@@ -1246,6 +1314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
+          "url": "https://wallstreetcn.com/livenews/3033147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "阿里云推出面向AI硬件的多模态交互开发套件",
@@ -1347,11 +1426,12 @@
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时21分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
@@ -1427,6 +1507,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     }
