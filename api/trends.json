@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T06:13:18.150625+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-11T07:13:09.381720+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
-          "url": "https://wallstreetcn.com/livenews/3034570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -42,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "柬埔寨国王颁令：撤销陈志国籍",
@@ -53,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -66,8 +55,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
+          "url": "https://wallstreetcn.com/livenews/3034570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -77,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -89,8 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -102,8 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
@@ -116,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "柬埔寨国王颁令：撤销陈志国籍",
@@ -129,8 +130,43 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
+          "url": "https://wallstreetcn.com/livenews/3034552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -142,39 +178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时12分]"
-        },
-        {
-          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
-          "url": "https://wallstreetcn.com/livenews/3034552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "G7峰会据悉系为特朗普而改期",
-          "url": "https://flash.jin10.com/detail/20260110203044449800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "特朗普：很快打击墨境内",
@@ -200,6 +203,17 @@
           "time_info": "[00时15分 ~ 03时10分]"
         },
         {
+          "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
+          "url": "https://wallstreetcn.com/livenews/3034575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "特朗普：很快打击墨西哥境内",
           "url": "https://wallstreetcn.com/articles/3763023",
           "source": "华尔街见闻",
@@ -207,8 +221,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[04时14分 ~ 07时13分]"
+        },
+        {
+          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32359856",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 07时13分]"
         }
       ]
     },
@@ -222,74 +247,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "DeepSeek能否第二次震惊全世界",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -302,8 +265,72 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 07时13分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "DeepSeek能否第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -313,19 +340,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
           "url": "https://wallstreetcn.com/livenews/3034560",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -335,11 +363,29 @@
             24,
             22,
             28,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 07时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
+          "url": "https://wallstreetcn.com/livenews/3034579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
@@ -356,8 +402,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         }
       ]
     }
