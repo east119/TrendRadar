@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T09:08:58.563871+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-11T11:44:00.490907+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -82,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -104,11 +105,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
@@ -136,6 +138,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 09时08分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时14分 ~ 11时44分]"
+        },
+        {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 11时44分]"
         },
         {
           "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
@@ -184,6 +210,18 @@
           "time_info": "[00时15分 ~ 01时12分]"
         },
         {
+          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32359856",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 11时44分]"
+        },
+        {
           "title": "特朗普：很快打击墨境内",
           "url": "https://wallstreetcn.com/livenews/3034537",
           "source": "华尔街见闻-快讯",
@@ -207,71 +245,26 @@
           "time_info": "[00时15分 ~ 03时10分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 09时08分]"
-        },
-        {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         },
         {
-          "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
-          "url": "https://flash.jin10.com/detail/20260111084513676800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
-          "url": "https://flash.jin10.com/detail/20260111084158477800",
+          "title": "泰国南部边境多处加油站遭袭 有警察受伤",
+          "url": "https://flash.jin10.com/detail/20260111105229124800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/livenews/3034596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
-          "url": "https://flash.jin10.com/detail/20260111083436451800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时44分"
         },
         {
           "title": "特朗普再次威胁干涉伊朗，称准备提供“帮助”",
@@ -280,7 +273,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -291,21 +284,57 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
         {
-          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32359856",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
+          "url": "https://flash.jin10.com/detail/20260111084513676800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            4
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 09时08分]"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
+        },
+        {
+          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
+          "url": "https://flash.jin10.com/detail/20260111084158477800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/livenews/3034596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
+          "url": "https://flash.jin10.com/detail/20260111083436451800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -324,33 +353,91 @@
           "url": "https://wallstreetcn.com/articles/3763006",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
+          "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
+          "url": "https://wallstreetcn.com/articles/3763014",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         },
         {
           "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
           "url": "https://flash.jin10.com/detail/20260111081229064800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
         },
         {
           "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
           "url": "https://flash.jin10.com/detail/20260110232001539800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32362509",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
+          "title": "泰国南部边境多处加油站遭袭，有警察受伤",
+          "url": "https://wallstreetcn.com/livenews/3034609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时44分"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://wallstreetcn.com/livenews/3034603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "特朗普称没必要抓普京",
@@ -359,7 +446,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -370,7 +457,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -378,7 +465,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -403,11 +490,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时11分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时11分 ~ 11时44分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -419,8 +507,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -433,8 +521,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时44分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -451,6 +539,17 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时44分]"
+        },
+        {
           "title": "DeepSeek能否第二次震惊全世界",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
@@ -459,17 +558,6 @@
             22,
             23,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时08分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -519,22 +607,35 @@
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 11时44分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
           "url": "https://wallstreetcn.com/livenews/3034587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时44分]"
         }
       ]
     },
