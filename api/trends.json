@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T13:24:02.718114+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-12T14:25:12.216188+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[01时11分 ~ 07时13分]"
         },
         {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 14时25分]"
+        },
+        {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
@@ -42,19 +53,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时25分]"
         },
         {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时05分 ~ 13时24分]"
+          "time_info": "[12时43分 ~ 14时25分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -69,6 +80,19 @@
           "time_info": "[00时15分 ~ 09时05分]"
         },
         {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 14时25分]"
+        },
+        {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
           "url": "https://wallstreetcn.com/livenews/3034755",
           "source": "华尔街见闻-快讯",
@@ -81,17 +105,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时24分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -129,17 +142,29 @@
           "time_info": "[01时11分 ~ 07时13分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            6,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时25分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -167,17 +192,6 @@
           "time_info": "[00时15分 ~ 05时12分]"
         },
         {
-          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
-          "url": "https://wallstreetcn.com/livenews/3034991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3034760",
           "source": "华尔街见闻-快讯",
@@ -190,6 +204,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时15分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普对台问题表态引岛内热议",
+          "url": "https://www.douyin.com/hot/2364980",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 14时25分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -252,40 +278,29 @@
           "time_info": "[05时12分 ~ 07时13分]"
         },
         {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时24分]"
-        },
-        {
           "title": "泰国船运商协会：预计泰国2026年出口增长2%至4%。",
           "url": "https://wallstreetcn.com/livenews/3034977",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时25分]"
+        },
+        {
+          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3034991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时24分]"
+          "time_info": "[13时24分 ~ 14时25分]"
         },
         {
           "title": "分析师：特朗普攻击美联储动摇市场信心",
@@ -337,15 +352,16 @@
           "time_info": "[05时12分 ~ 07时13分]"
         },
         {
-          "title": "特朗普对台问题表态引岛内热议",
-          "url": "https://www.douyin.com/hot/2364980",
-          "source": "抖音",
+          "title": "泰国船运商协会：泰铢走强正影响出口。",
+          "url": "https://flash.jin10.com/detail/20260112123525078800",
+          "source": "金十数据",
           "ranks": [
-            16
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时24分]"
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时25分]"
         },
         {
           "title": "特朗普发图自称委内瑞拉代总统",
@@ -360,6 +376,18 @@
           "time_info": "[11时42分 ~ 12时43分]"
         },
         {
+          "title": "泰国船运商协会：预计泰国2026年出口增长2%至4%。",
+          "url": "https://flash.jin10.com/detail/20260112122345942800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时25分]"
+        },
+        {
           "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
           "url": "https://flash.jin10.com/detail/20260112111415549800",
           "source": "金十数据",
@@ -369,28 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "泰国船运商协会：泰铢走强正影响出口。",
-          "url": "https://flash.jin10.com/detail/20260112123525078800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "泰国船运商协会：预计泰国2026年出口增长2%至4%。",
-          "url": "https://flash.jin10.com/detail/20260112122345942800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
@@ -572,7 +578,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -592,11 +598,26 @@
           "ranks": [
             3,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时25分]"
+        },
+        {
+          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2254168",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 14时25分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -609,8 +630,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时25分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -651,19 +672,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 11时42分]"
-        },
-        {
-          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2254168",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 13时24分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -727,6 +735,31 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
+          "url": "https://www.cls.cn/detail/2254504",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 14时25分]"
+        },
+        {
+          "title": "用户与AI聊黄开发者获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 14时25分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -741,15 +774,15 @@
           "time_info": "[09时05分 ~ 13时24分]"
         },
         {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
+          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3035027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "14时25分"
         },
         {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
@@ -766,18 +799,6 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
-          "title": "用户与AI聊黄开发者获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时24分]"
-        },
-        {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
           "url": "https://wallstreetcn.com/livenews/3034956",
           "source": "华尔街见闻-快讯",
@@ -791,15 +812,28 @@
           "time_info": "[11时42分 ~ 13时24分]"
         },
         {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "time_info": "[13时24分 ~ 14时25分]"
+        },
+        {
+          "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
+          "url": "https://flash.jin10.com/detail/20260112123157179800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时25分]"
         },
         {
           "title": "深成指涨超1%，北证50涨近4%，沪指涨0.52%，创业板指涨0.63%，商业航天、AI应用两大方向领涨市场，沪深京三市上涨个股超3400只。",
@@ -835,17 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
-          "url": "https://flash.jin10.com/detail/20260112123157179800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
