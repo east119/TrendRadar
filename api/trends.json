@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T20:29:30.825342+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-12T21:38:03.913990+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时43分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时43分 ~ 21时38分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -43,6 +43,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时05分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时38分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时38分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -83,30 +107,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时05分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时29分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时29分]"
         },
         {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
@@ -271,6 +271,19 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时38分]"
+        },
+        {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
           "url": "https://wallstreetcn.com/livenews/3034734",
           "source": "华尔街见闻-快讯",
@@ -403,6 +416,17 @@
           "time_info": "[00时15分 ~ 03时10分]"
         },
         {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时38分]"
+        },
+        {
           "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3034951",
           "source": "华尔街见闻-快讯",
@@ -429,18 +453,6 @@
           "time_info": "[05时12分 ~ 07时13分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时29分]"
-        },
-        {
           "title": "特朗普称正考虑对伊的非常强硬选项",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%AD%A3%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E7%9A%84%E9%9D%9E%E5%B8%B8%E5%BC%BA%E7%A1%AC%E9%80%89%E9%A1%B9",
           "source": "bilibili 热搜",
@@ -462,6 +474,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时25分]"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
@@ -543,15 +566,15 @@
           "time_info": "17时24分"
         },
         {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
+          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3035370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时38分"
         },
         {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
@@ -607,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "美国总统特朗普：是我拯救了北约。",
+          "url": "https://flash.jin10.com/detail/20260112205617931800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
@@ -708,6 +742,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：不知道美国总统特朗普是否批准了对美联储的调查。",
+          "url": "https://flash.jin10.com/detail/20260112204637863800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "美国总统特朗普：美国正密切关注伊朗，并考虑可能的应对方案。",
           "url": "https://flash.jin10.com/detail/20260112082810573800",
           "source": "金十数据",
@@ -752,6 +797,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：估计美国总统特朗普尚未获悉司法部美联储案件的简报。",
+          "url": "https://flash.jin10.com/detail/20260112204030119800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "美国总统特朗普：我不喜欢埃克森美孚的回应，可能会将埃克森美孚拒之门外。",
           "url": "https://flash.jin10.com/detail/20260112082340589800",
           "source": "金十数据",
@@ -788,7 +844,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -800,6 +856,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 11时42分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时20分 ~ 21时38分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -816,16 +884,30 @@
           "time_info": "[13时23分 ~ 19时14分]"
         },
         {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            10,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[16时20分 ~ 21时38分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 21时38分]"
         },
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -842,19 +924,6 @@
           "time_info": "[09时05分 ~ 15时21分]"
         },
         {
-          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
-          "url": "https://www.cls.cn/detail/2254695",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 20时29分]"
-        },
-        {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
           "source": "贴吧",
@@ -866,11 +935,24 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 20时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 21时38分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时21分 ~ 21时38分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -888,29 +970,45 @@
           "time_info": "[00时15分 ~ 18时17分]"
         },
         {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            2,
-            1
+            11,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时21分 ~ 21时38分]"
         },
         {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7
+            22,
+            20,
+            28,
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 21时38分]"
+        },
+        {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时38分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -953,17 +1051,18 @@
           "time_info": "[00时15分 ~ 11时42分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            13,
-            12
+            10,
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 20时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时38分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -1016,21 +1115,6 @@
           "time_info": "[00时15分 ~ 09时05分]"
         },
         {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            20,
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 19时14分]"
-        },
-        {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -1042,17 +1126,17 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            5
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时29分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 21时38分]"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -1082,20 +1166,6 @@
           "time_info": "[09时05分 ~ 13时24分]"
         },
         {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时29分]"
-        },
-        {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
           "url": "https://wallstreetcn.com/livenews/3034762",
           "source": "华尔街见闻-快讯",
@@ -1110,17 +1180,16 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
           "source": "财联社热门",
           "ranks": [
             10,
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时29分]"
+          "time_info": "[19时13分 ~ 21时38分]"
         },
         {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
@@ -1173,18 +1242,6 @@
           "time_info": "[12时43分 ~ 17时24分]"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时29分]"
-        },
-        {
           "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
           "url": "https://www.cls.cn/detail/2254251",
           "source": "财联社热门",
@@ -1194,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时21分]"
+        },
+        {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时38分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -1231,6 +1299,17 @@
           "time_info": "[11时42分 ~ 12时43分]"
         },
         {
+          "title": "AI 生成图像的技术毫无疑问已经领先见习画师的画技了。那为什么单稿 2k 以下的约稿市场依然存在？",
+          "url": "https://www.zhihu.com/question/1976469254736991813",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
           "title": "目前围绕 AI 的软件工程领域主要有 mlops，mlsys，AI infra，他们三者的区别是什么呢？",
           "url": "https://www.zhihu.com/question/650309846",
           "source": "知乎",
@@ -1252,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
@@ -1309,17 +1399,6 @@
           "time_info": "17时24分"
         },
         {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
           "title": "机构扎堆盯上7只AI零售概念股",
           "url": "https://www.toutiao.com/trending/7593448756495024178/",
           "source": "今日头条",
@@ -1337,7 +1416,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
