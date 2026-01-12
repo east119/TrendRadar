@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T07:13:25.571062+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-12T09:05:29.654115+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 17,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时05分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -39,8 +40,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时05分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时05分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -57,18 +70,6 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
           "title": "全美抗议 特朗普“后院”失火",
           "url": "https://www.toutiao.com/trending/7594088610216361990/",
           "source": "今日头条",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时13分]"
+        },
+        {
+          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
+          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -103,6 +115,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -203,6 +237,61 @@
           "time_info": "[05时12分 ~ 07时13分]"
         },
         {
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
+          "url": "https://wallstreetcn.com/livenews/3034828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "关于委内瑞拉，特朗普称，一切进展顺利。 不喜欢埃克森美孚对委内瑞拉问题的回应。 倾向于让埃克森美孚排除在外。",
+          "url": "https://wallstreetcn.com/livenews/3034824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普谈伊朗：非常严肃地关注局势。正在考虑强硬选项。我们会做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3034823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们谈论的是获取（格陵兰岛），而不是短期拥有。",
+          "url": "https://flash.jin10.com/detail/20260112083009294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "泰国南部边境多处加油站遭袭",
           "url": "https://www.douyin.com/hot/2364060",
           "source": "抖音",
@@ -212,12 +301,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛应该达成协议。",
+          "url": "https://flash.jin10.com/detail/20260112082857634800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：美国正密切关注伊朗，并考虑可能的应对方案。",
+          "url": "https://flash.jin10.com/detail/20260112082810573800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我听说周二或周三将与委内瑞拉的马查多会面。",
+          "url": "https://flash.jin10.com/detail/20260112082604426800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们可能会让互联网（在伊朗）恢复运行，会与马斯克沟通。",
+          "url": "https://flash.jin10.com/detail/20260112082447101800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢埃克森美孚的回应，可能会将埃克森美孚拒之门外。",
+          "url": "https://flash.jin10.com/detail/20260112082340589800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在研究针对伊朗非常强硬的选项。军方正在研究此事。",
+          "url": "https://flash.jin10.com/detail/20260112082316526800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -227,8 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时05分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -238,8 +393,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时05分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -270,6 +425,18 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
+          "url": "https://wallstreetcn.com/articles/3763040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 09时05分]"
+        },
+        {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
@@ -287,18 +454,6 @@
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
-          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
-          "url": "https://wallstreetcn.com/articles/3763040",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -328,6 +483,22 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            26,
+            28,
+            25,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 09时05分]"
+        },
+        {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -339,19 +510,15 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            26,
-            28,
-            25,
-            20
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
@@ -368,15 +535,43 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
+          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2254168",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
           "url": "https://wallstreetcn.com/livenews/3034780",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20260112083545120800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     }
