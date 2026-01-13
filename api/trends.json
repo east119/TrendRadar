@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T13:19:55.366400+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-01-13T14:22:10.958581+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -31,6 +31,18 @@
           "time_info": "[00时19分 ~ 07时11分]"
         },
         {
+          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
+          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时11分 ~ 14时22分]"
+        },
+        {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
           "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
           "source": "凤凰网",
@@ -43,16 +55,26 @@
           "time_info": "[00时19分 ~ 07时11分]"
         },
         {
-          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
-          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
           "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
+          "url": "https://news.ifeng.com/c/8prryx4FgQx",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时11分 ~ 13时19分]"
+          "time_info": "[10时56分 ~ 14时22分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -64,19 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时19分]"
-        },
-        {
-          "title": "伊朗局势突然反转，特朗普又心生一计",
-          "url": "https://news.ifeng.com/c/8psBaLzCORr",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -93,17 +104,6 @@
           "time_info": "[00时19分 ~ 13时19分]"
         },
         {
-          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
-          "url": "https://news.ifeng.com/c/8prryx4FgQx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 13时19分]"
-        },
-        {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
           "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
           "source": "澎湃新闻",
@@ -114,6 +114,70 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 08时59分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 14时22分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://www.cls.cn/detail/2255560",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 14时22分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -129,16 +193,15 @@
           "time_info": "[01时17分 ~ 06时13分]"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
-          "source": "华尔街见闻",
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
+          "time_info": "[12时00分 ~ 14时22分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -163,18 +226,17 @@
           "time_info": "05时13分"
         },
         {
-          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
           "source": "澎湃新闻",
           "ranks": [
-            19,
             17,
-            16,
-            14
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
+          "time_info": "[12时00分 ~ 14时22分]"
         },
         {
           "title": "特朗普称数据中心用电成本不应转嫁给消费者",
@@ -186,54 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 13时19分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://www.cls.cn/detail/2255560",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 13时19分]"
-        },
-        {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时00分 ~ 13时19分]"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -306,18 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时00分 ~ 13时19分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -688,6 +690,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "特朗普敦促支持《信用卡竞争法案》。",
+          "url": "https://wallstreetcn.com/livenews/3035828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
           "url": "https://wallstreetcn.com/livenews/3035595",
           "source": "华尔街见闻-快讯",
@@ -955,8 +968,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -979,8 +992,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -1019,8 +1032,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -1059,11 +1072,12 @@
             23,
             19,
             11,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1080,8 +1094,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -1102,11 +1116,12 @@
             22,
             23,
             25,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时22分]"
         },
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -1118,8 +1133,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
+        },
+        {
+          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
+          "url": "https://www.cls.cn/detail/2255512",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
         },
         {
           "title": "张文宏称拒绝把AI引入医院病历系统",
@@ -1134,6 +1162,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时59分 ~ 12时42分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 14时22分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -1174,43 +1215,6 @@
           "time_info": "[07时11分 ~ 13时19分]"
         },
         {
-          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
-          "url": "https://www.cls.cn/detail/2255512",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
-        },
-        {
-          "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3035821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 13时19分]"
-        },
-        {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
           "url": "https://wallstreetcn.com/livenews/3035759",
           "source": "华尔街见闻-快讯",
@@ -1222,6 +1226,44 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 12时42分]"
+        },
+        {
+          "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3035821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时22分]"
+        },
+        {
+          "title": "如何看待马斯克AI预言",
+          "url": "https://www.douyin.com/hot/2366116",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时22分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时22分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -1258,30 +1300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 03时16分]"
-        },
-        {
-          "title": "如何看待马斯克AI预言",
-          "url": "https://www.douyin.com/hot/2366116",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时19分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时19分]"
         },
         {
           "title": "苹果官宣iPhone将搭载最强AI",
@@ -1390,7 +1408,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1452,8 +1470,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1465,19 +1483,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -1489,8 +1496,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时22分]"
+        },
+        {
+          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "iPhone官宣接入Gemini",
