@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T05:14:34.496719+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-01-15T06:15:23.086857+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 43,
+      "match_count": 57,
       "titles": [
         {
           "title": "3D还原泰国在建铁路事故",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "U23 亚洲杯，U23 国足 0 比 0 泰国 U23，队史首次晋级淘汰赛，如何评价本场比赛？",
@@ -65,8 +65,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "泰国在建铁路事故造成重大伤亡",
@@ -81,8 +81,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
+        },
+        {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -102,7 +113,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -118,15 +129,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
-          "source": "凤凰网",
+          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
+          "url": "https://wallstreetcn.com/livenews/3037319",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时14分"
+          "time_info": "06时15分"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -178,6 +189,18 @@
           "time_info": "[01时21分 ~ 05时14分]"
         },
         {
+          "title": "特朗普称与委内瑞拉代总统通话",
+          "url": "https://wallstreetcn.com/livenews/3037292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
           "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
           "url": "https://wallstreetcn.com/livenews/3037268",
           "source": "华尔街见闻-快讯",
@@ -225,6 +248,18 @@
           "time_info": "[03时14分 ~ 04时13分]"
         },
         {
+          "title": "美国总统特朗普：与丹麦关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3037286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
           "url": "https://flash.jin10.com/detail/20260115040624036800",
           "source": "金十数据",
@@ -236,15 +271,26 @@
           "time_info": "04时13分"
         },
         {
-          "title": "特朗普称与委内瑞拉代总统通话",
-          "url": "https://wallstreetcn.com/livenews/3037292",
+          "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
+          "url": "https://flash.jin10.com/detail/20260115055337605800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
+          "url": "https://wallstreetcn.com/livenews/3037315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时14分"
+          "time_info": "06时15分"
         },
         {
           "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
@@ -256,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：与美国总统特朗普进行了长时间、富有成效且礼貌的电话通话。",
+          "url": "https://flash.jin10.com/detail/20260115055302201800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "柬埔寨：泰国要求推迟联合边界委员会特别会议",
@@ -291,6 +348,28 @@
           "time_info": "04时13分"
         },
         {
+          "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
+          "url": "https://flash.jin10.com/detail/20260115053554998800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
+          "url": "https://wallstreetcn.com/livenews/3037309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "美国总统特朗普签署关键矿物行政命令。",
           "url": "https://flash.jin10.com/detail/20260115040151639800",
           "source": "金十数据",
@@ -300,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "美国总统特朗普：与丹麦关系很好。",
-          "url": "https://wallstreetcn.com/livenews/3037286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
         },
         {
           "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
@@ -330,9 +398,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
+          "url": "https://flash.jin10.com/detail/20260115053341985800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
+          "url": "https://flash.jin10.com/detail/20260115053106355800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：已选定新助理司法部长人选",
@@ -341,9 +431,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
+          "url": "https://flash.jin10.com/detail/20260115052805367800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "未排除动武可能，特朗普称将“观望”伊朗局势发展",
+          "url": "https://wallstreetcn.com/livenews/3037300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
@@ -352,9 +475,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普政府拟让FTC主席负责司法部反欺诈新部门",
+          "url": "https://flash.jin10.com/detail/20260115052300801800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
@@ -363,7 +497,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -374,7 +508,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -385,7 +519,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -396,7 +530,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -407,7 +541,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -421,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普更名国防部可能需耗资1.25亿美元",
+          "url": "https://flash.jin10.com/detail/20260115051820833800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美最高法院未就特朗普政府关税合法性作出裁决",
@@ -440,9 +585,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普在周三的讲话中不同寻常地呼应了伊朗方面的一个主要论点。特朗普表示：“他们（伊朗）说有人用枪向他们开火，他们就还击了。你知道，这种事情就是这样。”",
+          "url": "https://flash.jin10.com/detail/20260115050626340800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
@@ -451,7 +607,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -473,7 +629,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -515,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -526,8 +682,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -539,8 +695,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -548,11 +704,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -562,8 +719,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -577,8 +734,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -592,8 +749,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -606,8 +763,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 06时15分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -618,8 +775,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 06时15分]"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "time_info": "[01时21分 ~ 06时15分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -633,16 +802,16 @@
           "time_info": "04时13分"
         },
         {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            19
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "time_info": "[02时22分 ~ 06时15分]"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
@@ -655,18 +824,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时14分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 05时14分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -693,6 +850,18 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
+          "title": "美国主要电网运营商因AI热潮过热调低用电需求预测",
+          "url": "https://wallstreetcn.com/livenews/3037291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
           "url": "https://wallstreetcn.com/livenews/3037229",
           "source": "华尔街见闻-快讯",
@@ -705,24 +874,13 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
-          "title": "美国主要电网运营商因AI热潮过热调低用电需求预测",
-          "url": "https://wallstreetcn.com/livenews/3037291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
           "url": "https://flash.jin10.com/detail/20260115045202393800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -810,7 +968,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -848,11 +1006,12 @@
           "url": "https://wallstreetcn.com/livenews/3037289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
         }
       ]
     },
