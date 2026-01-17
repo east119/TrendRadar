@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-17T17:13:48.940166+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-01-17T18:14:07.213767+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
-        {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 17时13分]"
-        },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
@@ -43,8 +31,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时00分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时00分 ~ 18时14分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -69,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 18时14分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -96,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时00分 ~ 18时14分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -174,11 +175,23 @@
             14,
             17,
             21,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时52分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
+          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
@@ -207,6 +220,28 @@
           "time_info": "01时19分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
+          "url": "https://flash.jin10.com/detail/20260117174453624800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
+          "url": "https://flash.jin10.com/detail/20260117174020851800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
           "url": "https://flash.jin10.com/detail/20260117004233862800",
           "source": "金十数据",
@@ -216,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
+          "url": "https://flash.jin10.com/detail/20260117173914674800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
@@ -307,6 +353,31 @@
           "time_info": "[09时01分 ~ 12时26分]"
         },
         {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://www.cls.cn/detail/2261084",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
           "url": "https://www.cls.cn/detail/2260775",
           "source": "财联社热门",
@@ -330,6 +401,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时14分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：将再次与委内瑞拉“反对派”人士Machado对话。",
@@ -454,18 +537,6 @@
           "time_info": "[00时19分 ~ 01时19分]"
         },
         {
-          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://www.cls.cn/detail/2261084",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时13分]"
-        },
-        {
           "title": "特朗普对明州示威者发出军事警告 动用军队执法仍是“备选项”",
           "url": "https://flash.jin10.com/detail/20260117022922204800",
           "source": "金十数据",
@@ -512,18 +583,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时19分]"
-        },
-        {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时13分]"
         },
         {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
@@ -664,17 +723,6 @@
           "time_info": "14时20分"
         },
         {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
           "url": "https://flash.jin10.com/detail/20260117002346672800",
           "source": "金十数据",
@@ -736,7 +784,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -854,7 +902,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -902,11 +950,12 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时00分 ~ 18时14分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -919,6 +968,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "美政府推动科技巨头为AI用电买单",
@@ -935,18 +996,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 14时20分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时13分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -1092,6 +1141,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 01时19分]"
+        },
+        {
+          "title": "Anthropic刚发布了一份「AI抢饭碗报告」：学历越高越「被抢」",
+          "url": "https://wallstreetcn.com/articles/3763484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
+          "url": "https://www.zhihu.com/question/1995200812075480347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
