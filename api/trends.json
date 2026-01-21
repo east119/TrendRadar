@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T16:21:59.450572+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-01-21T17:25:30.190259+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 137,
+      "match_count": 141,
       "titles": [
         {
           "title": "特朗普和马克龙，直接开干了",
@@ -61,11 +61,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时25分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -106,6 +107,19 @@
           "time_info": "[09时03分 ~ 13时23分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -117,17 +131,20 @@
           "time_info": "[09时03分 ~ 13时23分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7,
-            6
+            19,
+            16,
+            15,
+            12,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时25分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -139,21 +156,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时03分 ~ 12时38分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时21分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -192,6 +194,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 17时25分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -247,17 +263,15 @@
           "time_info": "[11时27分 ~ 15时22分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "特朗普回应不去G7峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%8E%BBG7%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            19,
-            17
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 16时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -326,6 +340,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
           "url": "https://flash.jin10.com/detail/20260121033913590800",
           "source": "金十数据",
@@ -335,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -615,6 +651,17 @@
           "time_info": "[01时22分 ~ 02时24分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普：对美真正威胁是联合国和北约",
           "url": "https://www.toutiao.com/trending/7596943244069011510/",
           "source": "今日头条",
@@ -687,7 +734,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -929,7 +976,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1242,17 +1289,6 @@
           "time_info": "11时27分"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "美国总统特朗普：不会前往巴黎参加G7会议。",
           "url": "https://flash.jin10.com/detail/20260121041942470800",
           "source": "金十数据",
@@ -1539,6 +1575,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国总统特朗普：我相信瑞士人民会热烈欢迎我的到来。",
           "url": "https://flash.jin10.com/detail/20260121025444478800",
           "source": "金十数据",
@@ -1575,7 +1622,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -1583,11 +1630,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 17时25分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -1598,11 +1646,12 @@
             6,
             7,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时25分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -1612,11 +1661,12 @@
             5,
             9,
             8,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 17时25分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -1626,8 +1676,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 17时25分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -1667,6 +1717,29 @@
           "time_info": "[04时07分 ~ 05时18分]"
         },
         {
+          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
+          "url": "https://www.cls.cn/detail/2264568",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时25分]"
+        },
+        {
+          "title": "郑钦文粉丝把AI天赋点满了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%B2%89%E4%B8%9D%E6%8A%8AAI%E5%A4%A9%E8%B5%8B%E7%82%B9%E6%BB%A1%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时25分]"
+        },
+        {
           "title": "拳头程序员分析人类对战AI胜算",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%B3%E5%A4%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E5%88%86%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%AF%B9%E6%88%98AI%E8%83%9C%E7%AE%97",
           "source": "bilibili 热搜",
@@ -1690,6 +1763,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3040577",
           "source": "华尔街见闻-快讯",
@@ -1699,17 +1783,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
-          "url": "https://www.cls.cn/detail/2264568",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "微软CEO纳德拉：能源成本将决定哪些国家能赢得AI竞赛",
@@ -1831,17 +1904,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "郑钦文粉丝把AI天赋点满了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%B2%89%E4%B8%9D%E6%8A%8AAI%E5%A4%A9%E8%B5%8B%E7%82%B9%E6%BB%A1%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         }
       ]
     },
@@ -1896,11 +1958,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
