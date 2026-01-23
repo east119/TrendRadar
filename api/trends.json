@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:22:12.016732+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-01-23T14:22:43.906425+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 98,
+      "match_count": 99,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时22分]"
         },
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -61,11 +61,12 @@
           "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 14时22分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -79,6 +80,17 @@
           "time_info": "[00时24分 ~ 13时22分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时22分]"
+        },
+        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -87,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时22分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -110,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时22分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -145,28 +157,6 @@
           "time_info": "[00时24分 ~ 09时04分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时22分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时22分]"
-        },
-        {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
           "url": "https://www.zhihu.com/question/1997263966708196399",
           "source": "知乎",
@@ -192,6 +182,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 06时15分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时22分]"
         },
         {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
@@ -276,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -396,8 +409,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时22分]"
         },
         {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
@@ -1136,7 +1149,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -1158,8 +1171,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 14时22分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -1247,6 +1260,18 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时22分]"
+        },
+        {
           "title": "咻咻满COS翻唱icantwait",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
@@ -1283,17 +1308,6 @@
           "time_info": "[03时19分 ~ 04时17分]"
         },
         {
-          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
-          "url": "https://www.zhihu.com/question/1997937872972505781",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        },
-        {
           "title": "王玉雯陈星旭撒糖给AI上了一课",
           "url": "https://www.douyin.com/hot/2376144",
           "source": "抖音",
@@ -1314,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -1358,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "马来西亚通信监管机构：在社交媒体平台X采取额外安全措施后，对Grok AI的访问已恢复。",
+          "url": "https://flash.jin10.com/detail/20260123131650409800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：上个月API业务新增了约10亿美元的年度经常性收入(ARR)。",
@@ -1460,6 +1496,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时22分]"
+        },
+        {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3042361",
           "source": "华尔街见闻-快讯",
@@ -1469,18 +1518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时22分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
