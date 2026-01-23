@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T20:29:04.193854+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2026-01-23T21:38:07.187618+08:00",
+  "total_titles_processed": 2070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 120,
+      "match_count": 122,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -67,6 +67,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 21时38分]"
         },
         {
           "title": "达沃斯后，特朗普狂发80条帖子…",
@@ -147,18 +159,6 @@
           "time_info": "[00时24分 ~ 13时22分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时29分]"
-        },
-        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -180,6 +180,31 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 09时04分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时38分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 21时38分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -251,6 +276,17 @@
           "time_info": "[00时24分 ~ 07时14分]"
         },
         {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 21时38分]"
+        },
+        {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
           "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
@@ -264,31 +300,6 @@
           "time_info": "[00时24分 ~ 06时15分]"
         },
         {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时29分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 20时29分]"
-        },
-        {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
           "source": "澎湃新闻",
@@ -299,6 +310,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时20分 ~ 09时04分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 21时38分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -339,15 +362,17 @@
           "time_info": "[09时03分 ~ 13时22分]"
         },
         {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
           "ranks": [
-            3
+            6,
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 21时38分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -407,28 +432,15 @@
           "time_info": "[15时19分 ~ 17时23分]"
         },
         {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
+          "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
+          "url": "https://flash.jin10.com/detail/20260123211920762800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时29分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -440,6 +452,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时19分 ~ 18时17分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 21时38分]"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -574,18 +598,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时36分 ~ 14时22分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
@@ -838,6 +850,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "据Politico：美国陆军部长Dan Driscoll已抵达阿联酋，与美国中东问题特使威特科夫以及特朗普的女婿贾里德·库什纳会合。",
+          "url": "https://flash.jin10.com/detail/20260123210516908800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
           "url": "https://flash.jin10.com/detail/20260123055953116800",
           "source": "金十数据",
@@ -1031,7 +1054,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1402,7 +1425,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -1425,8 +1448,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时03分 ~ 20时29分]"
+          "appearance_count": 20,
+          "time_info": "[09时03分 ~ 21时38分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -1443,6 +1466,19 @@
           "time_info": "[14时22分 ~ 19时15分]"
         },
         {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 21时38分]"
+        },
+        {
           "title": "AI发展会降低创作者存在意义吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%91%E5%B1%95%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%88%9B%E4%BD%9C%E8%80%85%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89%E5%90%97",
           "source": "bilibili 热搜",
@@ -1454,8 +1490,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时19分 ~ 20时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时19分 ~ 21时38分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -1469,19 +1505,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时14分]"
-        },
-        {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 20时29分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -1544,6 +1567,18 @@
           "time_info": "[16时19分 ~ 18时17分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时38分]"
+        },
+        {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
           "url": "https://wallstreetcn.com/livenews/3042270",
           "source": "华尔街见闻-快讯",
@@ -1593,17 +1628,6 @@
           "time_info": "[17时22分 ~ 18时17分]"
         },
         {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时29分]"
-        },
-        {
           "title": "咻咻满COS翻唱icantwait",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
@@ -1638,6 +1662,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时17分]"
+        },
+        {
+          "title": "刘润说终于有硅谷抄不来的AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%A6%E8%AF%B4%E7%BB%88%E4%BA%8E%E6%9C%89%E7%A1%85%E8%B0%B7%E6%8A%84%E4%B8%8D%E6%9D%A5%E7%9A%84AI%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "中国变压器掐住全球AI命门",
@@ -1879,11 +1914,12 @@
             20,
             19,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时26分 ~ 20时29分]"
+          "appearance_count": 18,
+          "time_info": "[11时26分 ~ 21时38分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
