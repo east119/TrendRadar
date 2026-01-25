@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:28:20.665812+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-01-25T22:13:17.773548+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 21时28分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 22时13分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -72,8 +72,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 22时13分]"
+        },
+        {
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 22时13分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
@@ -88,11 +101,12 @@
             13,
             19,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 21时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 22时13分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -130,8 +144,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时47分 ~ 22时13分]"
+        },
+        {
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 22时13分]"
         },
         {
           "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
@@ -156,21 +183,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 21时28分]"
-        },
-        {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 21时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 22时13分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -225,19 +239,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 21时28分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -312,6 +313,28 @@
           "time_info": "[12时46分 ~ 17时14分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时13分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
           "url": "https://news.ifeng.com/c/8qCTUGtfKG0",
           "source": "凤凰网",
@@ -362,6 +385,19 @@
           "time_info": "[11时47分 ~ 15时16分]"
         },
         {
+          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3043386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时13分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-25）",
           "url": "https://flash.jin10.com/detail/20260125175340876800",
           "source": "金十数据",
@@ -373,17 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时14分 ~ 20时25分]"
-        },
-        {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时28分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -399,27 +424,17 @@
           "time_info": "[06时13分 ~ 09时09分]"
         },
         {
-          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3043386",
-          "source": "华尔街见闻-快讯",
+          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
+          "url": "https://flash.jin10.com/detail/20260125194457069800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            7
+            2,
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 21时28分]"
-        },
-        {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时13分]"
         },
         {
           "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
@@ -432,18 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 11时47分]"
-        },
-        {
-          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
-          "url": "https://flash.jin10.com/detail/20260125194457069800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 21时28分]"
         },
         {
           "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
@@ -643,8 +646,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 21时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 22时13分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -671,8 +674,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时20分 ~ 22时13分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -688,19 +691,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时47分 ~ 22时13分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
           "url": "https://www.cls.cn/detail/2268582",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 21时28分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 22时13分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -845,11 +849,12 @@
             6,
             12,
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 22时13分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
