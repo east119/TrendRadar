@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:27:31.508041+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-01-28T18:20:39.650160+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -19,17 +19,6 @@
           "time_info": "[09时03分 ~ 17时27分]"
         },
         {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 15时20分]"
-        },
-        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -39,8 +28,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时29分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 18时20分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时20分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -82,6 +82,18 @@
           "time_info": "[11时29分 ~ 17时27分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普，两天内动手？",
           "url": "https://news.ifeng.com/c/8qGwey6pidp",
           "source": "凤凰网",
@@ -94,16 +106,15 @@
           "time_info": "[09时03分 ~ 14时25分]"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 17时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -137,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "泰国新出黄金交易限制措施",
+          "url": "https://wallstreetcn.com/livenews/3045502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
@@ -296,6 +318,18 @@
           "time_info": "[03时21分 ~ 04时17分]"
         },
         {
+          "title": "泰国一运毒车逃逸时坠河，470 万颗冰毒落水，会带来多大的影响？整条河的生态恢复需要多少年？",
+          "url": "https://www.zhihu.com/question/1999774552750778199",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时20分]"
+        },
+        {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
           "url": "https://wallstreetcn.com/livenews/3044943",
           "source": "华尔街见闻-快讯",
@@ -344,6 +378,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时20分]"
+        },
+        {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
           "url": "https://flash.jin10.com/detail/20260128024954908800",
           "source": "金十数据",
@@ -354,18 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时17分]"
-        },
-        {
-          "title": "泰国一运毒车逃逸时坠河，470 万颗冰毒落水，会带来多大的影响？整条河的生态恢复需要多少年？",
-          "url": "https://www.zhihu.com/question/1999774552750778199",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时27分]"
         },
         {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
@@ -467,17 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -656,6 +679,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "在美国总统特朗普（就美元疲软）发表评论后，美元期权交易者压倒性看空。",
+          "url": "https://flash.jin10.com/detail/20260128180558252800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "泰国央行行长：希望黄金交易规则将对泰铢有良好影响。泰国央行已持续介入以缓解泰铢波动。",
           "url": "https://wallstreetcn.com/livenews/3045194",
           "source": "华尔街见闻-快讯",
@@ -717,7 +751,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1044,7 +1078,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1057,8 +1091,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1074,18 +1108,6 @@
           "time_info": "[00时20分 ~ 14时25分]"
         },
         {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
           "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
           "url": "https://www.zhihu.com/question/1999186592472986900",
           "source": "知乎",
@@ -1097,8 +1119,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时29分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 18时20分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1163,8 +1197,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 18时20分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -1186,11 +1220,12 @@
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时20分]"
         },
         {
           "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
@@ -1199,11 +1234,23 @@
           "ranks": [
             13,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 18时20分]"
+        },
+        {
+          "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
+          "url": "https://flash.jin10.com/detail/20260128181506461800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -1242,6 +1289,19 @@
           "time_info": "[02时26分 ~ 04时17分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时20分]"
+        },
+        {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
           "url": "https://wallstreetcn.com/livenews/3044925",
           "source": "华尔街见闻-快讯",
@@ -1265,18 +1325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时26分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时27分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -1357,6 +1405,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
           "url": "https://wallstreetcn.com/livenews/3045264",
           "source": "华尔街见闻-快讯",
@@ -1418,7 +1477,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1454,6 +1513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "ASML第四季度订单额创新高 AI投资浪潮汹涌提振需求",
@@ -1624,7 +1694,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -1632,7 +1702,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -1643,8 +1713,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 18时20分]"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
+          "url": "https://flash.jin10.com/detail/20260128181314991800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "谷歌：为手机推出强大的防盗保护功能。",
@@ -1670,6 +1751,39 @@
           "time_info": "[16时21分 ~ 17时27分]"
         },
         {
+          "title": "英国竞争和市场管理局（CMA）提议在数字法下针对谷歌搜索设置监管“护栏”措施。管理局正调查谷歌的出版商控制、公平排名以及数据可移植性选择界面。",
+          "url": "https://flash.jin10.com/detail/20260128181301813800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（就英国竞争与市场管理局的搜索提案）任何新的监管措施都必须“避免导致用户搜索体验碎片化或混乱”。",
+          "url": "https://flash.jin10.com/detail/20260128181107541800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "谷歌对英国竞争与市场管理局的搜索提案持乐观态度，认为双方有望找到前进之路。",
+          "url": "https://flash.jin10.com/detail/20260128181013024800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
           "url": "https://wallstreetcn.com/livenews/3045359",
           "source": "华尔街见闻-快讯",
@@ -1679,6 +1793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）提出一系列措施，以改善谷歌在英国的搜索服务。",
+          "url": "https://flash.jin10.com/detail/20260128180359377800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -1696,8 +1821,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 17时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 18时20分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1718,11 +1843,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时20分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
