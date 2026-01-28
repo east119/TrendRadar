@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T20:31:54.743501+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-01-28T21:42:50.641876+08:00",
+  "total_titles_processed": 2009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 104,
+      "match_count": 112,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 21时42分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时14分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时42分]"
         },
         {
           "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
@@ -80,16 +92,18 @@
           "time_info": "[09时03分 ~ 13时22分]"
         },
         {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
+          "title": "泰国一运毒车逃逸时坠河，470 万颗冰毒落水，会带来多大的影响？整条河的生态恢复需要多少年？",
+          "url": "https://www.zhihu.com/question/1999774552750778199",
+          "source": "知乎",
           "ranks": [
-            1,
+            13,
+            9,
+            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时42分]"
         },
         {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
@@ -108,6 +122,17 @@
           "time_info": "[11时29分 ~ 17时27分]"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普，两天内动手？",
           "url": "https://news.ifeng.com/c/8qGwey6pidp",
           "source": "凤凰网",
@@ -118,30 +143,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时03分 ~ 14时25分]"
-        },
-        {
-          "title": "泰国一运毒车逃逸时坠河，470 万颗冰毒落水，会带来多大的影响？整条河的生态恢复需要多少年？",
-          "url": "https://www.zhihu.com/question/1999774552750778199",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时31分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -161,7 +162,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -194,9 +195,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://wallstreetcn.com/livenews/3045623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
@@ -239,7 +251,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -526,9 +538,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "禁空黄金！黄金交易已影响泰国命脉丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260128205604547800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "美国总统特朗普：许多人向我问及乙醇。",
@@ -553,6 +576,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -570,7 +604,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -606,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
+          "url": "https://flash.jin10.com/detail/20260128204309206800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -751,6 +796,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "特朗普左手戴手套",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%A6%E6%89%8B%E6%88%B4%E6%89%8B%E5%A5%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美国总统特朗普：古巴非常接近失败。",
           "url": "https://flash.jin10.com/detail/20260128044705003800",
           "source": "金十数据",
@@ -883,6 +939,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的通话中，多次提及俄罗斯总统普京与乌克兰总统泽连斯基会晤的问题。特朗普曾建议我们考虑这种可能性，我们并不拒绝接触。",
+          "url": "https://flash.jin10.com/detail/20260128202218221800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美国总统特朗普：美元的价值很棒，美元状况很好。",
           "url": "https://flash.jin10.com/detail/20260128044418133800",
           "source": "金十数据",
@@ -971,6 +1038,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "特朗普再发声威胁：希望伊朗能“回到谈判桌前”",
+          "url": "https://wallstreetcn.com/livenews/3045595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
           "url": "https://flash.jin10.com/detail/20260128002342619800",
           "source": "金十数据",
@@ -991,6 +1069,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普警告：对伊朗下一次袭击将更严重",
+          "url": "https://flash.jin10.com/detail/20260128202043461800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "英镑兑美元涨1.4%，刷新2021年9月以来高位至1.3868，特朗普称不担心美元下跌。",
@@ -1264,8 +1353,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时38分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时38分 ~ 21时42分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1335,6 +1424,20 @@
           "time_info": "[14时24分 ~ 20时31分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时42分]"
+        },
+        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -1362,20 +1465,6 @@
           "time_info": "[17时27分 ~ 18时20分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时31分]"
-        },
-        {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
           "url": "https://flash.jin10.com/detail/20260128181506461800",
           "source": "金十数据",
@@ -1385,6 +1474,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时42分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -1408,19 +1510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时21分]"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时31分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -1449,6 +1538,18 @@
           "time_info": "[02时26分 ~ 04时17分]"
         },
         {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时42分]"
+        },
+        {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
@@ -1461,16 +1562,27 @@
           "time_info": "[01时22分 ~ 02时26分]"
         },
         {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
           "ranks": [
-            13,
-            11
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时31分]"
+          "time_info": "[20时31分 ~ 21时42分]"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时42分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -1540,17 +1652,6 @@
           "time_info": "16时21分"
         },
         {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "消息人士称，软银就向OpenAI追加投资进行谈判，这是该初创公司寻求筹集高达1000亿美元新资本努力的一部分。",
           "url": "https://flash.jin10.com/detail/20260128082816677800",
           "source": "金十数据",
@@ -1582,17 +1683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
-        },
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -1878,11 +1968,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 21时42分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -2000,11 +2091,12 @@
             4,
             1,
             6,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时42分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
