@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:19:48.665655+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-01-29T09:12:25.424261+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -39,26 +40,12 @@
             6,
             5,
             4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "泰国一运毒车逃逸时坠河，470 万颗冰毒落水，会带来多大的影响？整条河的生态恢复需要多少年？",
-          "url": "https://www.zhihu.com/question/1999774552750778199",
-          "source": "知乎",
-          "ranks": [
             2,
-            3,
-            5,
-            7,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -70,6 +57,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 05时22分]"
+        },
+        {
+          "title": "泰国一运毒车逃逸时坠河，470 万颗冰毒落水，会带来多大的影响？整条河的生态恢复需要多少年？",
+          "url": "https://www.zhihu.com/question/1999774552750778199",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            5,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -92,11 +95,12 @@
             12,
             9,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -253,6 +257,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
+          "url": "https://wallstreetcn.com/livenews/3045953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004214872800",
           "source": "金十数据",
@@ -297,6 +312,28 @@
           "time_info": "02时27分"
         },
         {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
           "url": "https://wallstreetcn.com/livenews/3045847",
           "source": "华尔街见闻-快讯",
@@ -314,9 +351,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://wallstreetcn.com/livenews/3045946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -465,7 +513,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -474,11 +522,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -490,29 +539,14 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
           "url": "https://www.cls.cn/detail/2272560",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            15,
-            12,
             8,
             7
           ],
@@ -533,6 +567,22 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            15,
+            12,
+            8,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
+        },
+        {
           "title": "刘强东给老家建了间AI教室",
           "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
           "source": "凤凰网",
@@ -550,7 +600,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -575,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "SK海力士：Nand正在成为支持AI的存储解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3045947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
@@ -605,7 +666,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -660,9 +721,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉电话会要点总结：2026战略大转型，Model S/X“光荣退役”，200亿资本开支押注AI与机器人帝国",
+          "url": "https://wallstreetcn.com/livenews/3045930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
@@ -716,7 +788,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -736,8 +808,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时12分]"
         }
       ]
     }
