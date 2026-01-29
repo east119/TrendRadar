@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:54:12.848519+08:00",
-  "total_titles_processed": 2075,
+  "generated_at": "2026-01-29T22:34:39.904878+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -124,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时37分 ~ 21时54分]"
+          "appearance_count": 12,
+          "time_info": "[13时37分 ~ 22时34分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -141,6 +141,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时01分 ~ 18时28分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时34分]"
         },
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
@@ -187,19 +202,15 @@
           "time_info": "[18时28分 ~ 21时54分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14,
-            13,
-            12,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -321,6 +332,18 @@
           "time_info": "[01时27分 ~ 02时27分]"
         },
         {
+          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
+          "url": "https://wallstreetcn.com/livenews/3046514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时34分]"
+        },
+        {
           "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -401,6 +424,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004214872800",
           "source": "金十数据",
@@ -423,15 +457,15 @@
           "time_info": "02时27分"
         },
         {
-          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
-          "url": "https://wallstreetcn.com/livenews/3046514",
+          "title": "卡特彼勒：（美国总统特朗普挑起的）关税在2025年给公司造成17亿美元成本。 预计一季度关税成本8亿美元，形势可能会在二季度改善。",
+          "url": "https://wallstreetcn.com/livenews/3046531",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时54分"
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
@@ -572,7 +606,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -641,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "鲍威尔、特朗普罕见存在共识：美国经济比想象中要好",
+          "url": "https://flash.jin10.com/detail/20260129215024264800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
@@ -726,7 +771,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         }
@@ -734,7 +779,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -759,8 +804,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 21时54分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 22时34分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -799,8 +844,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 21时54分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 22时34分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -849,8 +894,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时54分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时34分]"
         },
         {
           "title": "阿里平头哥新款AI芯片正式亮相！",
@@ -925,8 +970,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时54分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时34分]"
+        },
+        {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时34分]"
         },
         {
           "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
@@ -941,15 +998,15 @@
           "time_info": "[16时29分 ~ 17时34分]"
         },
         {
-          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
-          "url": "https://www.cls.cn/detail/2274202",
-          "source": "财联社热门",
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
           "ranks": [
-            12
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时34分]"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -962,17 +1019,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时36分]"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
@@ -1006,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -1214,8 +1271,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 21时54分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 22时34分]"
         },
         {
           "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
@@ -1277,7 +1334,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数DXY日内大涨1.00%，现报96.72。",
@@ -1330,9 +1387,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
@@ -1352,8 +1420,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时34分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
