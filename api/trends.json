@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:02:14.625843+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-01-30T13:41:20.074327+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 90,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -88,6 +88,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "特朗普今夜将签署行政令并出席政策会议 是否涉及美联储新主席提名未明",
+          "url": "https://flash.jin10.com/detail/20260130130553138800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 13时41分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -180,18 +248,6 @@
           "time_info": "[01时31分 ~ 03时25分]"
         },
         {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 12时02分]"
-        },
-        {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
           "url": "https://flash.jin10.com/detail/20260130035139767800",
           "source": "金十数据",
@@ -229,17 +285,6 @@
           "time_info": "[01时31分 ~ 03时25分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 12时02分]"
-        },
-        {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
           "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
@@ -252,17 +297,6 @@
           "time_info": "[04时21分 ~ 05时20分]"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 12时02分]"
-        },
-        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
           "source": "凤凰网",
@@ -272,6 +306,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时41分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -365,17 +410,6 @@
           "time_info": "[02时32分 ~ 04时21分]"
         },
         {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
@@ -445,17 +479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
@@ -577,13 +600,24 @@
           "time_info": "09时12分"
         },
         {
+          "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
+          "url": "https://flash.jin10.com/detail/20260130130036264800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "特朗普听取多种打击伊朗方案",
           "url": "https://wallstreetcn.com/livenews/3046958",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -627,7 +661,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -641,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五上午11点（北京时间周六零点）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260130123131643800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -674,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260130123023173800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -737,7 +793,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1001,7 +1057,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1053,7 +1109,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -1081,8 +1137,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时41分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -1104,11 +1160,12 @@
           "ranks": [
             3,
             4,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时41分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -1143,8 +1200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 13时41分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -1178,6 +1235,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 13时41分]"
+        },
+        {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
@@ -1219,18 +1299,6 @@
           "time_info": "[01时31分 ~ 03时25分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 12时02分]"
-        },
-        {
           "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
           "url": "https://wallstreetcn.com/livenews/3046688",
           "source": "华尔街见闻-快讯",
@@ -1268,6 +1336,18 @@
           "time_info": "[03时25分 ~ 05时20分]"
         },
         {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时41分]"
+        },
+        {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
@@ -1301,17 +1381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
@@ -1357,6 +1426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
@@ -1483,8 +1563,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时41分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -1502,11 +1582,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时41分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
