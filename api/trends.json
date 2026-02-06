@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:41:41.267556+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-02-06T16:32:44.912974+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时32分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -49,11 +49,23 @@
           "ranks": [
             11,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 16时32分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -62,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -293,6 +305,17 @@
           "time_info": "[01时41分 ~ 02时38分]"
         },
         {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
           "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
@@ -313,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "泰国大选三足鼎立 政治分歧或拖累结构性改革步伐",
+          "url": "https://flash.jin10.com/detail/20260206160640171800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
@@ -469,6 +503,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "亚团赛：中国羽毛球男队险胜泰国队",
+          "url": "https://www.toutiao.com/trending/7602797838717501459/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
           "url": "https://flash.jin10.com/detail/20260206020251009800",
           "source": "金十数据",
@@ -531,8 +576,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 15时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 16时32分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -563,6 +608,18 @@
           "time_info": "[00时37分 ~ 06时19分]"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 16时32分]"
+        },
+        {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
           "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
@@ -575,17 +632,6 @@
           "time_info": "[07时17分 ~ 15时41分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 15时41分]"
-        },
-        {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
           "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
@@ -596,6 +642,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时11分 ~ 15时41分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 16时32分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -632,18 +690,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时19分 ~ 13时47分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时41分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -884,7 +930,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -974,7 +1020,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
