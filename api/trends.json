@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T22:37:14.559494+08:00",
-  "total_titles_processed": 2079,
+  "generated_at": "2026-02-06T23:33:11.497098+08:00",
+  "total_titles_processed": 2178,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时32分 ~ 22时37分]"
+          "appearance_count": 13,
+          "time_info": "[16时32分 ~ 23时33分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时11分 ~ 22时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时11分 ~ 23时33分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时07分 ~ 22时37分]"
+          "appearance_count": 18,
+          "time_info": "[12时07分 ~ 23时33分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -67,6 +67,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时07分 ~ 15时41分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 23时33分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-06）",
@@ -119,7 +132,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -195,18 +208,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时17分]"
-        },
-        {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 22时37分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -640,7 +641,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -692,8 +693,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时37分 ~ 22时37分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 23时33分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -720,8 +721,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时07分 ~ 22时37分]"
+          "appearance_count": 18,
+          "time_info": "[12时07分 ~ 23时33分]"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时27分 ~ 23时33分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -762,20 +778,6 @@
           "time_info": "[17时34分 ~ 20时38分]"
         },
         {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时27分 ~ 22时37分]"
-        },
-        {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
           "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
@@ -810,6 +812,18 @@
           "time_info": "09时11分"
         },
         {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时56分 ~ 23时33分]"
+        },
+        {
           "title": "唐宫奇案剧宣闯入ai赛道",
           "url": "https://www.douyin.com/hot/2390538",
           "source": "抖音",
@@ -830,7 +844,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -846,18 +860,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时21分]"
-        },
-        {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时56分 ~ 22时37分]"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
@@ -908,6 +910,28 @@
           "time_info": "[03时33分 ~ 04时24分]"
         },
         {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
+          "title": "AI 能救得了 SaaS 么？",
+          "url": "https://www.zhihu.com/question/658582077",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "实测AI点餐2块钱买三杯奶茶",
           "url": "https://www.toutiao.com/trending/7603575542419587108/",
           "source": "今日头条",
@@ -928,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "AI基建概念股反弹，英伟达涨5.6%，Sandisk涨超6%，CoreWeave涨超9%，中概指数涨2%",
+          "url": "https://wallstreetcn.com/livenews/3051518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
@@ -972,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "脉脉：AI红包大战烧至人才端，元宝、千问百万年薪挖人",
+          "url": "https://wallstreetcn.com/livenews/3051513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "十大奶咖品牌求AI翻牌",
@@ -1027,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "腾讯元宝AI生图日均调用飙升30倍",
+          "url": "https://wallstreetcn.com/livenews/3051507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
@@ -1130,6 +1187,49 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 09时11分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 12时07分]"
+        },
+        {
+          "title": "据Politico：美国议员就移民与海关执法局追踪应用调查司法部，寻求获取司法部与苹果、谷歌的通信记录。",
+          "url": "https://flash.jin10.com/detail/20260206225411078800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1166,38 +1266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 09时11分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 12时07分]"
         }
       ]
     },
