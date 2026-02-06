@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:07:29.011969+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-02-06T13:47:12.521136+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 13时47分]"
         },
         {
-          "title": "泰国期货交易所：暂停白银在线期货交易",
-          "url": "https://wallstreetcn.com/livenews/3051095",
-          "source": "华尔街见闻-快讯",
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时47分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -50,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "日本大选前，特朗普发文支持高市",
-          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
@@ -110,6 +99,18 @@
           "time_info": "[04时24分 ~ 05时21分]"
         },
         {
+          "title": "泰国期货交易所：暂停白银在线期货交易",
+          "url": "https://wallstreetcn.com/livenews/3051095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时47分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普与保险公司的会晤将会举行；暂未确定时间。",
           "url": "https://flash.jin10.com/detail/20260206034714536800",
           "source": "金十数据",
@@ -133,6 +134,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时17分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时47分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -310,17 +323,6 @@
           "time_info": "00时38分"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "美国总统特朗普：与其延长“新削减战略武器条约”，我们更应该让专家们着手制定一项全新、改进且现代化的条约，使其能够长久延续下去。",
           "url": "https://flash.jin10.com/detail/20260206025002718800",
           "source": "金十数据",
@@ -349,7 +351,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -360,7 +362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -467,7 +469,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -499,11 +501,12 @@
             2,
             3,
             5,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 12时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时47分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -534,6 +537,29 @@
           "time_info": "[00时37分 ~ 06时19分]"
         },
         {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 13时47分]"
+        },
+        {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -556,16 +582,18 @@
           "time_info": "09时11分"
         },
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
           "ranks": [
-            12,
-            2
+            25,
+            29,
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 13时47分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -581,20 +609,6 @@
           "time_info": "[03时33分 ~ 05时21分]"
         },
         {
-          "title": "唐宫奇案剧宣闯入ai赛道",
-          "url": "https://www.douyin.com/hot/2390538",
-          "source": "抖音",
-          "ranks": [
-            25,
-            29,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 12时07分]"
-        },
-        {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
           "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
@@ -603,8 +617,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 13时47分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时47分]"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
@@ -655,24 +681,13 @@
           "time_info": "[03时33分 ~ 04时24分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
           "url": "https://flash.jin10.com/detail/20260206113638095800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -694,7 +709,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
