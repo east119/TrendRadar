@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T17:23:29.353194+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-02-07T18:17:38.719871+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
@@ -48,11 +48,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -72,6 +73,23 @@
           "time_info": "[00时34分 ~ 07时18分]"
         },
         {
+          "title": "特朗普称美俄乌会谈“可能会有事发生”",
+          "url": "https://wallstreetcn.com/livenews/3051678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            11,
+            14,
+            19,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
+        },
+        {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
           "url": "https://flash.jin10.com/detail/20260207030824403800",
           "source": "金十数据",
@@ -82,6 +100,22 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时33分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
         },
         {
           "title": "舒默否认提议用特朗普命名宾州车站",
@@ -97,6 +131,47 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 16时21分]"
+        },
+        {
+          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
+          "url": "https://www.zhihu.com/question/2001670984583902597",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -115,22 +190,6 @@
           "time_info": "[09时10分 ~ 16时21分]"
         },
         {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://wallstreetcn.com/livenews/3051678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            11,
-            14,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
-        },
-        {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
           "url": "https://news.ifeng.com/c/8qXgc9osPZh",
           "source": "凤凰网",
@@ -140,22 +199,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时10分 ~ 16时21分]"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -180,36 +223,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
           "url": "https://wallstreetcn.com/livenews/3051670",
           "source": "华尔街见闻-快讯",
@@ -220,17 +233,6 @@
             21,
             26,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -418,6 +420,17 @@
           "time_info": "[09时10分 ~ 14时31分]"
         },
         {
+          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
+          "url": "https://wallstreetcn.com/articles/3765201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
           "url": "https://flash.jin10.com/detail/20260207095625549800",
           "source": "金十数据",
@@ -483,17 +496,6 @@
           "time_info": "[06时14分 ~ 09时10分]"
         },
         {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
           "url": "https://flash.jin10.com/detail/20260207095445721800",
           "source": "金十数据",
@@ -531,6 +533,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时24分]"
+        },
+        {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时17分]"
         },
         {
           "title": "美国总统特朗普：伊朗不得拥有核武器。",
@@ -641,15 +654,15 @@
           "time_info": "[12时01分 ~ 13时08分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "18时17分"
         },
         {
           "title": "美国总统特朗普谈奥巴马视频：我没把整个视频看完。",
@@ -696,6 +709,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普删除将奥巴马P成猴子视频",
+          "url": "https://www.toutiao.com/trending/7603630598771884073/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "美媒：特朗普将下令将从阿根廷进口的牛肉数量增至四倍",
           "url": "https://flash.jin10.com/detail/20260207022921075800",
           "source": "金十数据",
@@ -713,7 +737,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -753,11 +777,26 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 18时17分]"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 18时17分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -790,6 +829,21 @@
           "time_info": "[00时34分 ~ 09时10分]"
         },
         {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
+        },
+        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
@@ -802,20 +856,6 @@
           "time_info": "[00时34分 ~ 07时18分]"
         },
         {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 17时23分]"
-        },
-        {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
           "url": "https://flash.jin10.com/detail/20260207040949574800",
           "source": "金十数据",
@@ -825,21 +865,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 07时18分]"
-        },
-        {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -874,8 +899,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 18时17分]"
         },
         {
           "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
@@ -887,11 +912,39 @@
             15,
             18,
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 18时17分]"
+        },
+        {
+          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
+          "url": "https://wallstreetcn.com/livenews/3051704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时17分]"
+        },
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时17分]"
         },
         {
           "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
@@ -933,17 +986,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://wallstreetcn.com/livenews/3051704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -964,6 +1006,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -992,32 +1047,6 @@
           "time_info": "[00时34分 ~ 03时33分]"
         },
         {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时23分]"
-        },
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时23分]"
-        },
-        {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
           "url": "https://flash.jin10.com/detail/20260207032751728800",
           "source": "金十数据",
@@ -1040,6 +1069,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时36分]"
+        },
+        {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -1078,6 +1119,17 @@
           "time_info": "[06时14分 ~ 07时18分]"
         },
         {
+          "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550430",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时17分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3051568",
           "source": "华尔街见闻-快讯",
@@ -1107,7 +1159,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -1121,28 +1173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
-        },
-        {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550430",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
@@ -1184,7 +1214,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
