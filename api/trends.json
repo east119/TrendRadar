@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T18:49:22.736565+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-02-09T19:40:48.395541+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -115,6 +115,19 @@
           "time_info": "[00时20分 ~ 05时18分]"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 19时40分]"
+        },
+        {
           "title": "泰国总理阿努廷：（就联合政府表态）将等待选举结果明朗。",
           "url": "https://flash.jin10.com/detail/20260208232815298800",
           "source": "金十数据",
@@ -175,19 +188,6 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 18时49分]"
-        },
-        {
           "title": "泰国人民党宣布已准备好当反对党",
           "url": "https://flash.jin10.com/detail/20260208225354999800",
           "source": "金十数据",
@@ -218,6 +218,17 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时40分]"
+        },
+        {
           "title": "特朗普大骂美国冬奥运动员",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -235,7 +246,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -262,17 +273,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时18分]"
-        },
-        {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
@@ -303,7 +303,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -531,7 +531,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -564,7 +564,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -616,7 +616,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -626,8 +626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 19时40分]"
         },
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -675,8 +675,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 18时49分]"
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 19时40分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -691,6 +691,20 @@
           "time_info": "[00时20分 ~ 07时23分]"
         },
         {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 19时40分]"
+        },
+        {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
           "source": "澎湃新闻",
@@ -703,18 +717,17 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 19时40分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -752,21 +765,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 18时49分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 19时40分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -835,8 +835,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时49分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时40分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -844,11 +844,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时40分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -874,6 +875,18 @@
           "time_info": "[00时20分 ~ 03时19分]"
         },
         {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时40分]"
+        },
+        {
           "title": "UP主联合自制AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -885,18 +898,6 @@
           "time_info": "[00时20分 ~ 01时20分]"
         },
         {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时49分]"
-        },
-        {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
           "url": "https://wallstreetcn.com/articles/3765271",
           "source": "华尔街见闻",
@@ -905,8 +906,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时40分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时40分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
@@ -920,16 +933,15 @@
           "time_info": "[16时39分 ~ 16时40分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "这会是改变视频行业的AI吗",
@@ -952,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "吉利AI团队3篇论文入选ICLR 2026",
+          "url": "https://wallstreetcn.com/livenews/3052288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
@@ -998,6 +1021,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "全球AI领袖聚首新德里前夕 印度调整前沿科技投资规则以激励创新",
+          "url": "https://flash.jin10.com/detail/20260209190201666800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
           "url": "https://wallstreetcn.com/livenews/3052078",
           "source": "华尔街见闻-快讯",
@@ -1026,7 +1060,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -1034,7 +1068,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
@@ -1057,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
+          "url": "https://flash.jin10.com/detail/20260209184350182800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
