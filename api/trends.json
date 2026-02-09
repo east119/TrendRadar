@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:09:54.432423+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-02-09T23:46:18.566059+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "泰国走到十字路口：经济疲软政治碎片化，同日举行议会选举和宪法公投",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时02分 ~ 22时09分]"
+          "appearance_count": 11,
+          "time_info": "[14时02分 ~ 23时46分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -305,7 +305,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -387,11 +387,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 22时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 23时46分]"
         },
         {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
@@ -595,6 +596,28 @@
           "time_info": "12时18分"
         },
         {
+          "title": "据Punchbowl：特朗普将在美国众议院共和党全国委员会（NRCC）的年度三月筹款活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260209225427013800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "袁记云饺泰国二店开业，海外已落子15店",
+          "url": "https://wallstreetcn.com/livenews/3052395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "泰国期货交易所（TFEX）宣布暂停线上白银期货交易。",
           "url": "https://flash.jin10.com/detail/20260209105934900800",
           "source": "金十数据",
@@ -631,7 +654,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -666,8 +689,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 22时09分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 23时46分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -706,8 +729,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时02分 ~ 22时09分]"
+          "appearance_count": 11,
+          "time_info": "[14时02分 ~ 23时46分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -721,8 +744,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 22时09分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 23时46分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 23时46分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -747,20 +784,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时51分 ~ 22时09分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -866,11 +889,38 @@
             5,
             2,
             1,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 22时09分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 23时46分]"
+        },
+        {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 23时46分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 23时46分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -884,52 +934,28 @@
           "time_info": "14时03分"
         },
         {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 23时46分]"
+        },
+        {
           "title": "据The Information：阿波罗全球管理公司接近达成一笔与xAI相关的30亿美元芯片融资协议。",
           "url": "https://flash.jin10.com/detail/20260209220212097800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 22时09分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 22时09分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 22时09分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -1030,7 +1056,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1107,7 +1133,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1134,13 +1160,24 @@
           "time_info": "17时54分"
         },
         {
+          "title": "不要对AI说谢谢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "伊朗媒体发AI视频模拟打击美军舰队",
           "url": "https://wallstreetcn.com/livenews/3052357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1162,7 +1199,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1184,7 +1221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1195,7 +1232,91 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时18分]"
+        },
+        {
+          "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "美元指数DXY持续走低，日内跌幅扩大至0.7%。欧元兑美元EUR/USD突破1.19，创1月30日以来新高，日内涨0.74%。美元兑日元USD/JPY失守156，日内跌幅0.78%。",
+          "url": "https://flash.jin10.com/detail/20260209212804665800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "现货黄金短线走低13美元，报5012美元/盎司。美元指数DXY回落至97下方，日内跌0.59%。",
+          "url": "https://flash.jin10.com/detail/20260209212450505800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "美元指数持续走低，日内跌幅扩大至0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3052358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "美元指数日内跌幅达0.5%，报97.18。",
+          "url": "https://wallstreetcn.com/livenews/3052351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "美元指数DXY持续走低，日内跌幅扩大至0.6%。澳元兑美元AUD/USD日内涨幅扩大至0.50%，欧元兑美元EUR/USD涨0.6%，英镑兑美元GBP/USD涨0.4%，美元兑日元USD/JPY跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260209210644389800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         }
@@ -1234,7 +1355,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1256,7 +1377,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1270,79 +1391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3051817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时18分]"
-        },
-        {
-          "title": "美元指数DXY持续走低，日内跌幅扩大至0.7%。欧元兑美元EUR/USD突破1.19，创1月30日以来新高，日内涨0.74%。美元兑日元USD/JPY失守156，日内跌幅0.78%。",
-          "url": "https://flash.jin10.com/detail/20260209212804665800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "现货黄金短线走低13美元，报5012美元/盎司。美元指数DXY回落至97下方，日内跌0.59%。",
-          "url": "https://flash.jin10.com/detail/20260209212450505800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美元指数持续走低，日内跌幅扩大至0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3052358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美元指数日内跌幅达0.5%，报97.18。",
-          "url": "https://wallstreetcn.com/livenews/3052351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美元指数DXY持续走低，日内跌幅扩大至0.6%。澳元兑美元AUD/USD日内涨幅扩大至0.50%，欧元兑美元EUR/USD涨0.6%，英镑兑美元GBP/USD涨0.4%，美元兑日元USD/JPY跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260209210644389800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
         }
       ]
     }
