@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T07:23:08.497293+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-09T09:18:25.634853+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "泰国走到十字路口：经济疲软政治碎片化，同日举行议会选举和宪法公投",
@@ -267,6 +267,39 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
+          "title": "泰国大选：自豪泰党胜选，党首称欠选民一份人情",
+          "url": "https://news.ifeng.com/c/8qb3zfSz3K0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "泰国自豪泰党宣布胜选",
+          "url": "https://www.toutiao.com/trending/7604320385505640486/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "泰国自豪泰党宣布胜选",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32564141",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "柬埔寨抗议泰军“非法设置路障” 泰方称此举旨在“缓和紧张局势”",
           "url": "https://flash.jin10.com/detail/20260208213731462800",
           "source": "金十数据",
@@ -276,23 +309,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "特朗普被美国国鸟疯狂打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%B8%9F%E7%96%AF%E7%8B%82%E6%89%93%E8%84%B8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
           "url": "https://wallstreetcn.com/articles/3765241",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -314,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -347,11 +392,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -359,11 +405,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时18分]"
+        },
+        {
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -396,17 +455,6 @@
           "time_info": "[00时20分 ~ 07时23分]"
         },
         {
-          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
-          "url": "https://www.cls.cn/detail/2283872",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时23分]"
-        },
-        {
           "title": "UP主用AI做影游融合沉浸式科普",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
@@ -414,11 +462,23 @@
             19,
             14,
             13,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时18分]"
+        },
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -442,6 +502,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "这会是改变视频行业的AI吗",
+          "url": "https://www.douyin.com/hot/2394323",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日经指数创历史新高 AI等板块迎政策红利",
+          "url": "https://flash.jin10.com/detail/20260209084607777800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
+          "url": "https://www.cls.cn/detail/2283842",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "顶级域名“AI.com”以7000万美元转手 刷新历史交易纪录",
+          "url": "https://www.cls.cn/detail/2283808",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
