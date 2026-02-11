@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:49:36.724083+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-02-11T16:38:36.472827+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 15时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 16时38分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 16时38分]"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
@@ -62,40 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
-          "url": "https://wallstreetcn.com/livenews/3053536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 15时49分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 15时49分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -120,6 +109,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 05时36分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
+          "url": "https://wallstreetcn.com/livenews/3053536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时38分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -229,6 +230,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时38分]"
         },
         {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
@@ -455,17 +467,6 @@
           "time_info": "[12时23分 ~ 12时24分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
@@ -601,7 +602,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -614,6 +615,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时01分 ~ 12时24分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -654,22 +666,12 @@
             16,
             19,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 15时49分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时49分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 16时38分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -681,8 +683,34 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 16时38分]"
+        },
+        {
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时24分 ~ 15时49分]"
+          "time_info": "[12时23分 ~ 16时38分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -699,19 +727,6 @@
           "time_info": "[09时24分 ~ 15时49分]"
         },
         {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时49分]"
-        },
-        {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
@@ -724,16 +739,18 @@
           "time_info": "[01时01分 ~ 06时31分]"
         },
         {
-          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
-          "url": "https://www.cls.cn/detail/2286616",
-          "source": "财联社热门",
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
           "ranks": [
-            8,
-            5
+            12,
+            7,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "AI制图骗局",
@@ -747,19 +764,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时56分 ~ 05时36分]"
-        },
-        {
-          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
-          "url": "https://www.zhihu.com/question/2004629058894389561",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时49分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -817,8 +821,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时04分 ~ 15时49分]"
+          "appearance_count": 3,
+          "time_info": "[14时04分 ~ 16时38分]"
         },
         {
           "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
@@ -833,6 +837,18 @@
           "time_info": "[12时24分 ~ 14时04分]"
         },
         {
+          "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
+          "url": "https://www.cls.cn/detail/2286560",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时38分]"
+        },
+        {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
           "url": "https://flash.jin10.com/detail/20260211042006504800",
           "source": "金十数据",
@@ -843,6 +859,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时31分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时38分]"
+        },
+        {
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时38分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -900,17 +940,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
-          "url": "https://www.cls.cn/detail/2286560",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "消息人士：字节跳动自研AI芯片 与三星洽谈代工事宜",
           "url": "https://flash.jin10.com/detail/20260211125408785800",
           "source": "金十数据",
@@ -933,17 +962,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "华尔街AI恐慌蔓延 从寻找赢家转为逃离“输家”",
           "url": "https://flash.jin10.com/detail/20260211082044327800",
           "source": "金十数据",
@@ -955,17 +973,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
           "url": "https://www.zhihu.com/question/2003053229764732430",
           "source": "知乎",
@@ -975,6 +982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "马斯克酝酿在月球造AI卫星工厂",
+          "url": "https://wallstreetcn.com/livenews/3053545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -1055,7 +1073,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
