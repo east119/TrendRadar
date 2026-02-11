@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:39:09.335502+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-02-11T20:46:05.846943+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -40,8 +40,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时24分 ~ 19时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时24分 ~ 20时46分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 20时46分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 19时39分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -349,6 +349,17 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "释新闻｜特朗普威胁阻止一座美加跨境大桥开通，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582663",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
           "url": "https://flash.jin10.com/detail/20260211030331166800",
           "source": "金十数据",
@@ -546,6 +557,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "墨西哥比索跌至日内低点，此前报道称特朗普考虑退出美墨加协定。",
+          "url": "https://wallstreetcn.com/livenews/3053734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
           "url": "https://flash.jin10.com/detail/20260211181613310800",
           "source": "金十数据",
@@ -612,6 +634,17 @@
           "time_info": "12时24分"
         },
         {
+          "title": "墨西哥比索跌至日内低点，消息称特朗普据悉考虑退出美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20260211200850711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "约翰逊阻挠失败，美国众议院本周稍晚料推进针对特朗普关税的相关投票",
           "url": "https://wallstreetcn.com/livenews/3053410",
           "source": "华尔街见闻-快讯",
@@ -629,9 +662,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
@@ -670,7 +714,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -695,8 +739,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时24分 ~ 19时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时24分 ~ 20时46分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -720,8 +764,35 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时23分 ~ 20时46分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[12时23分 ~ 19时39分]"
+          "time_info": "[14时04分 ~ 20时46分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时49分 ~ 20时46分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -796,35 +867,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时01分 ~ 19时39分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时04分 ~ 19时39分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时49分 ~ 19时39分]"
+          "appearance_count": 23,
+          "time_info": "[01时01分 ~ 20时46分]"
         },
         {
           "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
@@ -865,6 +909,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时31分]"
+        },
+        {
+          "title": "T-Mobile：推出实时代理AI平台，将推出实时翻译服务。",
+          "url": "https://flash.jin10.com/detail/20260211203001283800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "AI制图骗局",
@@ -928,6 +983,18 @@
           "time_info": "[12时24分 ~ 14时04分]"
         },
         {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 20时46分]"
+        },
+        {
           "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
           "url": "https://wallstreetcn.com/livenews/3053429",
           "source": "华尔街见闻-快讯",
@@ -938,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 14时04分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
@@ -975,15 +1053,37 @@
           "time_info": "[17时43分 ~ 17时44分]"
         },
         {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
+          "title": "四川女生相亲焦虑获AI高能量安慰",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E7%84%A6%E8%99%91%E8%8E%B7AI%E9%AB%98%E8%83%BD%E9%87%8F%E5%AE%89%E6%85%B0",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
+          "title": "UP主自己的AI音乐春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%B7%B1%E7%9A%84AI%E9%9F%B3%E4%B9%90%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -995,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时36分]"
+        },
+        {
+          "title": "当奶奶遇见AI音乐",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%A5%B6%E5%A5%B6%E9%81%87%E8%A7%81AI%E9%9F%B3%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
@@ -1127,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
+          "url": "https://wallstreetcn.com/livenews/3053713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
