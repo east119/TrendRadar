@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T09:24:24.174204+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-02-11T12:24:13.892799+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -52,6 +52,18 @@
           "time_info": "05时36分"
         },
         {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
           "url": "https://wallstreetcn.com/livenews/3053222",
           "source": "华尔街见闻-快讯",
@@ -86,6 +98,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时36分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
         },
         {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
@@ -147,6 +193,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时31分 ~ 09时24分]"
+        },
+        {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
         },
         {
           "title": "特朗普表面祝贺高市私下大发雷霆",
@@ -374,48 +431,15 @@
           "time_info": "[03时56分 ~ 04时36分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
+          "title": "爱泼斯坦文件中特朗普出现超百万次",
+          "url": "https://www.toutiao.com/trending/7605393743562149395/",
+          "source": "今日头条",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
-          "url": "https://www.cls.cn/detail/2286509",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
@@ -451,15 +475,15 @@
           "time_info": "05时36分"
         },
         {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
+          "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
+          "url": "https://flash.jin10.com/detail/20260211111638705800",
+          "source": "金十数据",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "12时24分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -479,9 +503,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "据Punchbowl：美国众议院否决了一项旨在阻止议员提出挑战特朗普关税决议的规则。",
+          "url": "https://flash.jin10.com/detail/20260211110924095800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "约翰逊阻挠失败，美国众议院本周稍晚料推进针对特朗普关税的相关投票",
+          "url": "https://wallstreetcn.com/livenews/3053410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
@@ -504,12 +550,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
+          "url": "https://wallstreetcn.com/livenews/3053396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -520,8 +577,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时24分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17,
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时06分 ~ 12时24分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -544,25 +616,23 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时24分]"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            16,
-            9,
-            17,
-            20
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时06分 ~ 09时24分]"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -590,6 +660,29 @@
           "time_info": "[03时56分 ~ 05时36分]"
         },
         {
+          "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
+          "url": "https://wallstreetcn.com/livenews/3053432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
           "url": "https://wallstreetcn.com/livenews/3053191",
           "source": "华尔街见闻-快讯",
@@ -600,6 +693,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 04时36分]"
+        },
+        {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时24分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -626,6 +731,28 @@
           "time_info": "[04时36分 ~ 07时32分]"
         },
         {
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
           "url": "https://flash.jin10.com/detail/20260211042006504800",
           "source": "金十数据",
@@ -636,6 +763,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时31分]"
+        },
+        {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -649,17 +787,6 @@
           "time_info": "[03时56分 ~ 04时36分]"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
           "url": "https://flash.jin10.com/detail/20260211013915640800",
           "source": "金十数据",
@@ -671,15 +798,15 @@
           "time_info": "02时06分"
         },
         {
-          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
-          "url": "https://www.cls.cn/detail/2286559",
-          "source": "财联社热门",
+          "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+          "url": "https://wallstreetcn.com/livenews/3053429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "12时24分"
         },
         {
           "title": "银河证券：看好AI视频工具对影视院线行业的长期赋能",
@@ -688,7 +815,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -699,7 +826,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -732,7 +859,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
