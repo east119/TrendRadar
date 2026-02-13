@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:37:32.478648+08:00",
-  "total_titles_processed": 2027,
+  "generated_at": "2026-02-13T23:34:27.509245+08:00",
+  "total_titles_processed": 2131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 22时37分]"
+          "appearance_count": 16,
+          "time_info": "[09时20分 ~ 23时34分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -45,6 +45,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时20分 ~ 20时37分]"
+        },
+        {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 23时34分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -81,19 +94,6 @@
           "time_info": "[07时21分 ~ 15时44分]"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 22时37分]"
-        },
-        {
           "title": "Deepseek被指变冷淡了",
           "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -121,8 +121,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时12分 ~ 22时37分]"
+          "appearance_count": 15,
+          "time_info": "[12时12分 ~ 23时34分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时44分 ~ 23时34分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -147,8 +162,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 22时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 23时34分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -162,19 +177,16 @@
           "time_info": "[03时45分 ~ 06时23分]"
         },
         {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13,
-            8,
-            7,
-            4
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时44分 ~ 22时37分]"
+          "appearance_count": 10,
+          "time_info": "[15时44分 ~ 23时34分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -192,6 +204,23 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时47分 ~ 20时37分]"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            18,
+            17,
+            14,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时44分 ~ 23时34分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -222,16 +251,17 @@
           "time_info": "[00时47分 ~ 09时20分]"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9
+            5,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时44分 ~ 22时37分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 23时34分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -258,22 +288,6 @@
           "time_info": "[17时35分 ~ 19时25分]"
         },
         {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            18,
-            17,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时44分 ~ 22时37分]"
-        },
-        {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
           "url": "https://www.zhihu.com/question/2004603319558042744",
           "source": "知乎",
@@ -284,19 +298,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 07时21分]"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 22时37分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -320,6 +321,22 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时31分 ~ 19时25分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            18,
+            20,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 23时34分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月12日",
@@ -377,22 +394,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时48分 ~ 18时32分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            18,
-            20,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 22时37分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -454,15 +455,37 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
+          "url": "https://wallstreetcn.com/livenews/3055274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "据知情人士透露，Shield AI（护盾人工智能）洽谈按120亿美元估值融资10亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3055240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
+        },
+        {
+          "title": "美国劳工部寻求为工人提高AI培训。（Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3055273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
@@ -484,7 +507,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -818,6 +841,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
+          "url": "https://wallstreetcn.com/livenews/3055261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
           "url": "https://wallstreetcn.com/livenews/3054662",
           "source": "华尔街见闻-快讯",
@@ -931,7 +965,7 @@
     },
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -1008,8 +1042,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 22时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 23时34分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -1057,11 +1091,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 22时37分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 23时34分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -1136,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3055271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -1464,6 +1510,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国官员：特朗普将宣布，数个国家已承诺派遣数千名士兵加入维稳部队。",
           "url": "https://flash.jin10.com/detail/20260213023327754800",
           "source": "金十数据",
@@ -1506,6 +1563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
@@ -1796,7 +1864,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -1807,7 +1875,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
