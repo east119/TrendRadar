@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:56:38.177022+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-02-13T22:37:32.478648+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时20分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[09时20分 ~ 22时37分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -81,6 +81,19 @@
           "time_info": "[07时21分 ~ 15时44分]"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 22时37分]"
+        },
+        {
           "title": "Deepseek被指变冷淡了",
           "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -98,19 +111,6 @@
           "time_info": "[00时47分 ~ 09时20分]"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 21时56分]"
-        },
-        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
@@ -121,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时12分 ~ 21时56分]"
+          "appearance_count": 14,
+          "time_info": "[12时12分 ~ 22时37分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -147,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 21时56分]"
+          "appearance_count": 13,
+          "time_info": "[09时20分 ~ 22时37分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -160,6 +160,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时45分 ~ 06时23分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 22时37分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -207,19 +222,16 @@
           "time_info": "[00时47分 ~ 09时20分]"
         },
         {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13,
-            8,
-            7,
-            4
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 21时56分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 22时37分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -246,6 +258,22 @@
           "time_info": "[17时35分 ~ 19时25分]"
         },
         {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            18,
+            17,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 22时37分]"
+        },
+        {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
           "url": "https://www.zhihu.com/question/2004603319558042744",
           "source": "知乎",
@@ -256,6 +284,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 07时21分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时37分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -281,44 +322,19 @@
           "time_info": "[18时31分 ~ 19时25分]"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
+          "source": "澎湃新闻",
           "ranks": [
+            19,
+            16,
+            11,
             10,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 21时56分]"
-        },
-        {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 21时56分]"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 21时56分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时37分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -363,6 +379,22 @@
           "time_info": "[14时48分 ~ 18时32分]"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            18,
+            20,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 22时37分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -373,21 +405,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 05时26分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月12日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            11,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 21时56分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -426,21 +443,6 @@
           "time_info": "[00时47分 ~ 05时26分]"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            18,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 19时25分]"
-        },
-        {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
           "url": "https://flash.jin10.com/detail/20260213014349442800",
           "source": "金十数据",
@@ -450,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "据知情人士透露，Shield AI（护盾人工智能）洽谈按120亿美元估值融资10亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
@@ -463,6 +476,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时31分 ~ 20时37分]"
+        },
+        {
+          "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
+          "url": "https://wallstreetcn.com/livenews/3055238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -672,6 +696,18 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
+          "title": "AI初创公司Legora正洽谈融资，将其估值提升至60亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时37分]"
+        },
+        {
           "title": "AI泔水泛滥的背后成因",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%94%E6%B0%B4%E6%B3%9B%E6%BB%A5%E7%9A%84%E8%83%8C%E5%90%8E%E6%88%90%E5%9B%A0",
           "source": "bilibili 热搜",
@@ -837,17 +873,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "AI初创公司Legora正洽谈融资，将其估值提升至60亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "我的冬奥AI形象",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%86%AC%E5%A5%A5AI%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -983,8 +1008,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 17时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时47分 ~ 22时37分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -1035,8 +1060,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 21时56分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时37分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -1665,7 +1690,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1709,7 +1734,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1728,7 +1753,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
@@ -1763,6 +1788,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "欧盟将在六个月内完成对谷歌(GOOG.O)的反垄断调查程序。",
+          "url": "https://flash.jin10.com/detail/20260213215534534800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "欧盟将于4月就《数字市场法》下针对谷歌(GOOG.O)的拟议措施展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260213215318727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
@@ -1833,17 +1880,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
-          "url": "https://flash.jin10.com/detail/20260213214236124800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "周四（2月12日）纽约尾盘，ICE美元指数涨0.10%，报96.925点，日内交投区间为96.744-97.074点，整体呈现出三波V形走势。 彭博美元指数涨0.01%，报1181.99点，日内交投区间为1179.58-1183.49点。",
           "url": "https://wallstreetcn.com/livenews/3054709",
           "source": "华尔街见闻-快讯",
@@ -1854,6 +1890,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时26分]"
+        },
+        {
+          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
+          "url": "https://flash.jin10.com/detail/20260213214236124800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时37分]"
         },
         {
           "title": "美元指数12日上涨",
