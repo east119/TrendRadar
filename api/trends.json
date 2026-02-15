@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T12:14:10.831120+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-15T13:51:09.733858+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时51分]"
         },
         {
           "title": "本周，“AI颠覆一切”的狼终于来了",
@@ -58,21 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时14分]"
-        },
-        {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时51分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -89,17 +76,32 @@
           "time_info": "[00时19分 ~ 09时19分]"
         },
         {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时51分]"
+        },
+        {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
             8,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时51分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -108,11 +110,12 @@
           "ranks": [
             22,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时51分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -204,6 +207,18 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 13时51分]"
+        },
+        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -238,6 +253,18 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时51分]"
+        },
+        {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
           "url": "https://news.ifeng.com/c/8qk233NwWb6",
           "source": "凤凰网",
@@ -268,35 +295,35 @@
           "url": "https://www.zhihu.com/question/1927393488770692768",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            5
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时16分 ~ 12时14分]"
+          "time_info": "[12时13分 ~ 13时51分]"
         },
         {
-          "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
-          "source": "华尔街见闻",
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            3
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时51分]"
+        },
+        {
+          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
+          "url": "https://wallstreetcn.com/articles/3765746",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时51分]"
         },
         {
           "title": "AI智能体首次主动攻击人类维护者",
@@ -324,26 +351,27 @@
           "time_info": "[09时19分 ~ 12时14分]"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时14分]"
-        },
-        {
-          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
-          "url": "https://wallstreetcn.com/articles/3765746",
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
+          "url": "https://flash.jin10.com/detail/20260215103523505800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时51分]"
         },
         {
           "title": "杨丽萍67岁仍在学习AI",
@@ -377,17 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
-          "url": "https://flash.jin10.com/detail/20260215103523505800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         }
       ]
     },
@@ -403,8 +420,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时51分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -471,11 +488,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时51分]"
         },
         {
           "title": "泰国总理与恋爱4年女友登记结婚",
@@ -522,8 +540,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时51分]"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -553,8 +571,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 12时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时51分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -569,6 +587,19 @@
           "time_info": "[00时19分 ~ 09时19分]"
         },
         {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时51分]"
+        },
+        {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
@@ -577,20 +608,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时14分]"
-        },
-        {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时51分]"
         }
       ]
     }
