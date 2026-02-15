@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T20:30:33.788566+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-15T21:40:14.561287+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时50分 ~ 20时30分]"
+          "appearance_count": 13,
+          "time_info": "[13时50分 ~ 21时40分]"
         },
         {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
@@ -91,6 +91,22 @@
           "time_info": "[00时19分 ~ 16时23分]"
         },
         {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 21时40分]"
+        },
+        {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
           "url": "https://wallstreetcn.com/articles/3765746",
           "source": "华尔街见闻",
@@ -101,23 +117,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 20时30分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时19分 ~ 20时30分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 21时40分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -146,8 +147,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 20时30分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 21时40分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -162,8 +163,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 20时30分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 21时40分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -220,6 +221,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 09时19分]"
+        },
+        {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 21时40分]"
         },
         {
           "title": "印度AI峰会“五天赛程”安排",
@@ -329,6 +344,18 @@
           "time_info": "[12时13分 ~ 15时33分]"
         },
         {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 21时40分]"
+        },
+        {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
           "url": "https://news.ifeng.com/c/8qk233NwWb6",
           "source": "凤凰网",
@@ -338,19 +365,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时16分 ~ 12时14分]"
-        },
-        {
-          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 20时30分]"
         },
         {
           "title": "当AI可以预测你和TA的婚后十年",
@@ -366,6 +380,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 07时16分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 21时40分]"
         },
         {
           "title": "你认为 AI 编程未来真的会取代程序员吗？",
@@ -393,16 +420,16 @@
           "time_info": "[14时40分 ~ 16时23分]"
         },
         {
-          "title": "AI遇上最强春节档 Token通胀已成必然？",
-          "url": "https://www.cls.cn/detail/2290600",
-          "source": "财联社热门",
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            5
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 21时40分]"
         },
         {
           "title": "AI智能体首次主动攻击人类维护者",
@@ -418,6 +445,18 @@
           "time_info": "[02时22分 ~ 06时15分]"
         },
         {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 21时40分]"
+        },
+        {
           "title": "DeepSeek“变冷淡”不是翻车",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
@@ -429,18 +468,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时23分 ~ 19时16分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时30分]"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -467,26 +494,26 @@
           "time_info": "[18时18分 ~ 19时16分]"
         },
         {
-          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
-          "url": "https://wallstreetcn.com/articles/3765760",
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
-          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
-          "url": "https://www.cls.cn/detail/2290580",
-          "source": "财联社热门",
+          "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615186",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
@@ -585,6 +612,17 @@
           "time_info": "[00时19分 ~ 16时23分]"
         },
         {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 21时40分]"
+        },
+        {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
           "url": "https://www.cls.cn/detail/2290201",
           "source": "财联社热门",
@@ -623,15 +661,19 @@
           "time_info": "[00时19分 ~ 12时14分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            11,
+            8,
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时30分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 21时40分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -679,20 +721,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 20时30分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -744,11 +772,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时30分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时40分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -771,6 +800,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时18分]"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 21时40分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -809,17 +849,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时40分 ~ 16时23分]"
-        },
-        {
-          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -874,8 +903,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时19分 ~ 20时30分]"
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 21时40分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
