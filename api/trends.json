@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T18:18:29.377537+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-02-15T19:16:41.649598+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时16分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 19时16分]"
         },
         {
           "title": "本周，“AI颠覆一切”的狼终于来了",
@@ -81,11 +81,27 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 19时16分]"
+        },
+        {
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 19时16分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -112,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 19时16分]"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
@@ -127,22 +143,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 18时18分]"
-        },
-        {
-          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
-          "url": "https://wallstreetcn.com/articles/3765753",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时50分 ~ 18时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 19时16分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -156,8 +158,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 18时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 19时16分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -171,8 +173,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 18时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 19时16分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -361,6 +363,18 @@
           "time_info": "[14时40分 ~ 16时23分]"
         },
         {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
+        },
+        {
           "title": "AI智能体首次主动攻击人类维护者",
           "url": "https://www.toutiao.com/trending/7606527061628292649/",
           "source": "今日头条",
@@ -374,16 +388,29 @@
           "time_info": "[02时22分 ~ 06时15分]"
         },
         {
-          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
-          "source": "澎湃新闻",
+          "title": "你认为 AI 编程未来真的会取代程序员吗？",
+          "url": "https://www.zhihu.com/question/1962444467077358693",
+          "source": "知乎",
           "ranks": [
-            20,
-            18
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时18分]"
+          "time_info": "[17时23分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -398,27 +425,16 @@
           "time_info": "[09时19分 ~ 12时14分]"
         },
         {
-          "title": "你认为 AI 编程未来真的会取代程序员吗？",
-          "url": "https://www.zhihu.com/question/1962444467077358693",
-          "source": "知乎",
+          "title": "“AI交易”的关键变量：服务业敞口越高，AI颠覆风险越大，“AI基建”最有利",
+          "url": "https://wallstreetcn.com/articles/3765743",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时18分]"
-        },
-        {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
@@ -444,17 +460,6 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "“AI交易”的关键变量：服务业敞口越高，AI颠覆风险越大，“AI基建”最有利",
-          "url": "https://wallstreetcn.com/articles/3765743",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
           "source": "华尔街见闻",
@@ -464,6 +469,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "中国AI春节前为何杀疯了",
@@ -502,7 +529,7 @@
     },
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -539,8 +566,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 19时16分]"
         },
         {
           "title": "“我们每个人都超预算了”，泰国游客“买买买”哪些东西？｜Why游上海",
@@ -608,9 +635,47 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 19时16分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "19时16分"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -643,19 +708,6 @@
           "time_info": "[01时19分 ~ 05时16分]"
         },
         {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -676,18 +728,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时18分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时18分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -780,8 +820,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 19时16分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
