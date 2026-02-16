@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T09:16:57.201323+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-02-16T12:16:07.768637+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
@@ -59,11 +59,12 @@
           "url": "https://wallstreetcn.com/articles/3765760",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -76,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -89,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -111,11 +112,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -123,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -135,11 +138,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -158,22 +162,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -215,6 +221,18 @@
           "time_info": "[06时15分 ~ 07时18分]"
         },
         {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时16分]"
+        },
+        {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
           "url": "https://flash.jin10.com/detail/20260216042956745800",
           "source": "金十数据",
@@ -228,15 +246,26 @@
           "time_info": "[05时17分 ~ 07时18分]"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "AI定制祝福语惊艳你的朋友圈",
+          "url": "https://www.baidu.com/s?wd=AI%E5%AE%9A%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%AF%AD%E6%83%8A%E8%89%B3%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "AI解锁东西方经典马形象",
@@ -245,7 +274,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -256,7 +285,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -267,7 +296,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -278,7 +307,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -286,7 +315,7 @@
     },
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -372,11 +401,12 @@
           "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时16分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -435,9 +465,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "泰国股市最高上涨1.2%，至1447.68点，创下自2024年12月12日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260216110911974800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "泰国SET指数上涨1%至1,445.20。",
+          "url": "https://flash.jin10.com/detail/20260216110156236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "特朗普边境事务主管驳回民主党改革ICE的要求",
@@ -446,9 +498,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "泰国国家规划机构：泰国2026年外国游客入境人数预计达3500万人次，与11月的预期持平。",
+          "url": "https://flash.jin10.com/detail/20260216105151267800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "市场消息：特朗普政府取消了环保局为配备启停技术的车辆提供的排放积分，终止了一项旨在奖励汽车制造商安装等红灯时关闭发动机的节油系统的计划。",
@@ -457,7 +520,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -477,8 +540,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -495,6 +558,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时18分 ~ 07时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260216110854337800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     }
