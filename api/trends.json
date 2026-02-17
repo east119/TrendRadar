@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T06:22:01.253504+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-02-18T07:22:20.881309+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时50分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 07时22分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时45分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[02时45分 ~ 07时22分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时22分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时41分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[03时41分 ~ 07时22分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时41分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[03时41分 ~ 07时22分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -75,6 +75,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
+          "url": "https://flash.jin10.com/detail/20260218063655343800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -138,6 +160,18 @@
           "time_info": "[00时46分 ~ 01时50分]"
         },
         {
+          "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
+          "url": "https://flash.jin10.com/detail/20260218054627557800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
           "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
           "url": "https://flash.jin10.com/detail/20260218021023992800",
           "source": "金十数据",
@@ -174,15 +208,26 @@
           "time_info": "[03时42分 ~ 04时28分]"
         },
         {
-          "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
-          "url": "https://flash.jin10.com/detail/20260218054627557800",
-          "source": "金十数据",
+          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3056161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
+          "url": "https://flash.jin10.com/detail/20260218060047004800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -309,8 +354,20 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时22分]"
+        },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
@@ -320,19 +377,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时22分]"
         },
         {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            3
+            8,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时22分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -347,18 +406,6 @@
           "time_info": "[00时46分 ~ 06时22分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时22分]"
-        },
-        {
           "title": "王菲化妆师改口问就是AI",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -367,8 +414,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时22分]"
         },
         {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
@@ -381,6 +428,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时28分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -492,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
