@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:33:28.084017+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-02-18T20:40:16.517683+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 20时40分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 19时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 20时40分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时40分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -58,8 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 19时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 20时40分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -72,8 +72,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 19时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 20时40分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 20时40分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -98,19 +111,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 09时18分]"
-        },
-        {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 19时33分]"
         },
         {
           "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
@@ -205,6 +205,18 @@
           "time_info": "14时52分"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 20时40分]"
+        },
+        {
           "title": "化妆师回应王菲春晚妆造：问就是AI",
           "url": "https://www.toutiao.com/trending/7607001857601257508/",
           "source": "今日头条",
@@ -244,18 +256,6 @@
           "time_info": "[05时34分 ~ 06时22分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时33分]"
-        },
-        {
           "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
           "url": "https://www.zhihu.com/question/11260916280",
           "source": "知乎",
@@ -282,6 +282,17 @@
           "time_info": "[02时45分 ~ 04时28分]"
         },
         {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时40分]"
+        },
+        {
           "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
           "url": "https://wallstreetcn.com/livenews/3056080",
           "source": "华尔街见闻-快讯",
@@ -306,6 +317,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时28分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时40分]"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -367,15 +390,37 @@
           "time_info": "[03时42分 ~ 04时28分]"
         },
         {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
+          "title": "沙特AI公司Humain向xAI的E轮融资投资30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056311",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "市场消息：Humain所持XAI控股股份将转换为SpaceX股票。",
+          "url": "https://flash.jin10.com/detail/20260218201510866800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "20时40分"
+        },
+        {
+          "title": "市场消息：沙特人工智能企业Humain以30亿美元支持XAI投资。",
+          "url": "https://flash.jin10.com/detail/20260218201426477800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "Anthropic发布新AI模型：操控计算机能力大幅提升",
@@ -398,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "英伟达：英孚斯利用英伟达AI企业版构建企业级编码小型语言模型。",
@@ -546,7 +580,7 @@
     },
     {
       "keyword_group": "特朗普 泰国 柬埔寨",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -587,6 +621,17 @@
           "time_info": "[00时46分 ~ 07时22分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 20时40分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -607,17 +652,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时41分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时33分]"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -725,6 +759,19 @@
           "time_info": "[03时42分 ~ 04时28分]"
         },
         {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时40分]"
+        },
+        {
           "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
           "url": "https://wallstreetcn.com/livenews/3056166",
           "source": "华尔街见闻-快讯",
@@ -759,18 +806,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时50分]"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时33分]"
         },
         {
           "title": "特朗普女儿伊万卡中文拜年",
@@ -820,6 +855,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时28分]"
+        },
+        {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -933,7 +979,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -966,7 +1012,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -1048,6 +1094,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "泰国外交部长：泰国希望成为缅甸重返东盟的桥梁。",
+          "url": "https://flash.jin10.com/detail/20260218193757040800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260218042000423800",
           "source": "金十数据",
@@ -1057,12 +1114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "泰国外交部长：缅甸选举秩序井然。",
+          "url": "https://flash.jin10.com/detail/20260218193645064800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
@@ -1133,6 +1201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
+          "url": "https://flash.jin10.com/detail/20260218194454103800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
