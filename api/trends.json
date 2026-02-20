@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T16:32:12.605107+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-02-20T17:33:31.877447+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 17时33分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时33分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -39,8 +39,43 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 17时33分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 17时33分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时13分 ~ 16时32分]"
+          "time_info": "[12时07分 ~ 17时33分]"
+        },
+        {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时33分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -54,17 +89,6 @@
           "time_info": "[09时13分 ~ 12时07分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 16时32分]"
-        },
-        {
           "title": "在泰国度假的中国教授救下溺水幼童",
           "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%B3%B0%E5%9B%BD%E5%BA%A6%E5%81%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%99%E6%8E%88%E6%95%91%E4%B8%8B%E6%BA%BA%E6%B0%B4%E5%B9%BC%E7%AB%A5",
           "source": "百度热搜",
@@ -75,30 +99,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 07时23分]"
-        },
-        {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：石油和天然气正在增产。",
@@ -133,6 +133,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时47分 ~ 15时42分]"
+        },
+        {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 17时33分]"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -284,19 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时24分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
@@ -1173,7 +1173,7 @@
     },
     {
       "keyword_group": "AI DeepSeek StableDiffusion chatgpt openai",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -1223,8 +1223,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1237,8 +1237,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1273,8 +1273,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 17时33分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时33分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -1286,19 +1300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时32分]"
         },
         {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
@@ -1336,6 +1337,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 04时23分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 17时33分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -1388,19 +1402,6 @@
           "time_info": "[03时35分 ~ 04时23分]"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时32分]"
-        },
-        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -1439,6 +1440,18 @@
           "time_info": "[09时13分 ~ 12时07分]"
         },
         {
+          "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
+          "url": "https://wallstreetcn.com/livenews/3056892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时33分]"
+        },
+        {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
           "url": "https://wallstreetcn.com/livenews/3056737",
           "source": "华尔街见闻-快讯",
@@ -1449,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时23分]"
-        },
-        {
-          "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
-          "url": "https://wallstreetcn.com/livenews/3056892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
@@ -1473,6 +1475,28 @@
           "time_info": "05时24分"
         },
         {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://wallstreetcn.com/livenews/3056907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "港股AI应用股走强",
           "url": "https://www.toutiao.com/trending/7608512973753679914/",
           "source": "今日头条",
@@ -1482,6 +1506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
@@ -1564,7 +1599,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
@@ -1616,6 +1651,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时41分]"
+        },
+        {
+          "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3056911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
