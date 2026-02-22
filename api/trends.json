@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T03:19:39.907066+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-02-23T04:16:49.848584+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "美州长向特朗普发账单，要求退回87亿美元关税",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -70,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -82,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时16分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -105,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "泰国官方通报清迈72只老虎死亡原因",
@@ -117,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "12天72只老虎集中死亡，泰国官方通报",
@@ -128,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
@@ -141,8 +141,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时16分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -154,8 +154,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时16分]"
+        },
+        {
+          "title": "72只孟加拉虎相继死亡 泰国通报",
+          "url": "https://www.baidu.com/s?wd=72%E5%8F%AA%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E%E7%9B%B8%E7%BB%A7%E6%AD%BB%E4%BA%A1+%E6%B3%B0%E5%9B%BD%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 04时16分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -168,21 +182,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
-        },
-        {
-          "title": "72只孟加拉虎相继死亡 泰国通报",
-          "url": "https://www.baidu.com/s?wd=72%E5%8F%AA%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E%E7%9B%B8%E7%BB%A7%E6%AD%BB%E4%BA%A1+%E6%B3%B0%E5%9B%BD%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -193,8 +194,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
@@ -244,8 +245,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -255,8 +256,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -267,8 +268,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -278,8 +279,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -289,8 +290,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -300,8 +301,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -311,8 +326,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -320,24 +335,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
-        },
-        {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     }
