@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:39:21.969302+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-03-18T20:47:35.165237+08:00",
+  "total_titles_processed": 1831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 215,
+      "match_count": 227,
       "titles": [
         {
           "title": "中东油价飙破150美元！一文读懂：伊朗的威胁要成真了？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "以军空袭,伊朗最高安全官遇害",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "学者：斩首拉里贾尼，中东局势进入一个最后的分叉点",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
@@ -94,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时49分 ~ 19时39分]"
+          "appearance_count": 18,
+          "time_info": "[02时49分 ~ 20时47分]"
         },
         {
           "title": "伊朗媒体发布拉里贾尼手写悼词",
@@ -121,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 20时47分]"
         },
         {
           "title": "伊媒：伊朗已为国家关键职位指定多名替代人选",
@@ -162,6 +162,17 @@
           "time_info": "[00时57分 ~ 07时24分]"
         },
         {
+          "title": "伊朗“事实上的最高负责人”，被刺杀了",
+          "url": "https://wallstreetcn.com/articles/3767800",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 20时47分]"
+        },
+        {
           "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
           "url": "https://www.cls.cn/detail/2316118",
           "source": "财联社热门",
@@ -173,6 +184,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时24分 ~ 16时38分]"
+        },
+        {
+          "title": "中东战火下首场美联储决议：今晚鲍威尔会放出哪些猛料？",
+          "url": "https://www.cls.cn/detail/2316601",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时58分 ~ 20时47分]"
         },
         {
           "title": "哈梅内伊“托孤之臣”遇难，以色列把这事做绝了",
@@ -199,8 +225,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
@@ -210,8 +236,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "反悔+拒定居,伊朗女足3人回国",
@@ -225,11 +251,23 @@
             16,
             18,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 19时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 20时47分]"
+        },
+        {
+          "title": "伊朗誓言复仇！",
+          "url": "https://news.ifeng.com/c/8raXWTWWY2z",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时38分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -244,33 +282,25 @@
             15,
             30,
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时24分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[06时24分 ~ 20时47分]"
         },
         {
-          "title": "伊朗誓言复仇！",
-          "url": "https://news.ifeng.com/c/8raXWTWWY2z",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 19 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017376091363305103",
+          "source": "知乎",
           "ranks": [
-            4
+            6,
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 16时38分]"
-        },
-        {
-          "title": "伊朗“事实上的最高负责人”，被刺杀了",
-          "url": "https://wallstreetcn.com/articles/3767800",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 20时47分]"
         },
         {
           "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
@@ -283,19 +313,6 @@
             26,
             27,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 19时39分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 19 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017376091363305103",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            14
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -326,8 +343,24 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 20时47分]"
+        },
+        {
+          "title": "战火下的文明之殇：美以军事打击下，伊朗哪些世界遗产被毁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784550",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 20时47分]"
         },
         {
           "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
@@ -354,8 +387,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 20时47分]"
         },
         {
           "title": "伊朗发射导弹 为拉里贾尼复仇",
@@ -365,25 +398,12 @@
             12,
             15,
             18,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
-        },
-        {
-          "title": "中东战火下首场美联储决议：今晚鲍威尔会放出哪些猛料？",
-          "url": "https://www.cls.cn/detail/2316601",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时58分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "伊朗最高领袖驳回与美国议和提案",
@@ -398,20 +418,19 @@
           "time_info": "[00时57分 ~ 09时19分]"
         },
         {
-          "title": "战火下的文明之殇：美以军事打击下，伊朗哪些世界遗产被毁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32784550",
-          "source": "澎湃新闻",
+          "title": "伊朗发动空袭 疑似导弹碎片密如雨下",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD+%E7%96%91%E4%BC%BC%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E5%AF%86%E5%A6%82%E9%9B%A8%E4%B8%8B",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            17,
-            16,
-            10,
-            9,
-            8
+            26,
+            6,
+            14,
+            8,
+            28
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时58分 ~ 19时39分]"
+          "time_info": "[14时58分 ~ 20时47分]"
         },
         {
           "title": "欧盟理事会：对伊朗16名个人和3个实体实施制裁",
@@ -427,18 +446,15 @@
           "time_info": "[00时57分 ~ 09时19分]"
         },
         {
-          "title": "伊朗发动空袭 疑似导弹碎片密如雨下",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD+%E7%96%91%E4%BC%BC%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E5%AF%86%E5%A6%82%E9%9B%A8%E4%B8%8B",
-          "source": "百度热搜",
+          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
+          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
+          "source": "凤凰网",
           "ranks": [
-            26,
-            6,
-            14,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时58分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时47分]"
         },
         {
           "title": "外媒：伊朗向印度提条件",
@@ -532,15 +548,19 @@
           "time_info": "[00时57分 ~ 07时24分]"
         },
         {
-          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
-          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
-          "source": "凤凰网",
+          "title": "以军威胁“追杀”伊朗新任最高领袖",
+          "url": "https://www.toutiao.com/trending/7617343027990183945/",
+          "source": "今日头条",
           "ranks": [
-            2
+            24,
+            26,
+            27,
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 20时47分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -582,6 +602,21 @@
           "time_info": "[18时42分 ~ 18时43分]"
         },
         {
+          "title": "伊朗官方证实拉里贾尼死于空袭，其子、副手一同遇害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786281",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 20时47分]"
+        },
+        {
           "title": "中方：向伊朗等4国提供人道主义援助",
           "url": "https://www.toutiao.com/trending/7617738403773382710/",
           "source": "今日头条",
@@ -611,6 +646,17 @@
           "time_info": "[00时57分 ~ 07时24分]"
         },
         {
+          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2017533900855984294",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 20时47分]"
+        },
+        {
           "title": "中方向伊朗等4国提供人道主义援助",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E7%AD%894%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
           "source": "百度热搜",
@@ -626,19 +672,15 @@
           "time_info": "[00时57分 ~ 07时24分]"
         },
         {
-          "title": "以军威胁“追杀”伊朗新任最高领袖",
-          "url": "https://www.toutiao.com/trending/7617343027990183945/",
-          "source": "今日头条",
+          "title": "以色列防长：所有伊朗人都是打击目标",
+          "url": "https://news.ifeng.com/c/8rbCv5P8s0O",
+          "source": "凤凰网",
           "ranks": [
-            24,
-            26,
-            27,
-            29,
-            30
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时47分]"
         },
         {
           "title": "美以伊战争丨伊朗总统证实拉里贾尼已遇难",
@@ -723,29 +765,17 @@
           "time_info": "[02时49分 ~ 17时43分]"
         },
         {
-          "title": "伊朗官方证实拉里贾尼死于空袭，其子、副手一同遇害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786281",
-          "source": "澎湃新闻",
+          "title": "以防长称伊朗情报部长身亡",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%83%85%E6%8A%A5%E9%83%A8%E9%95%BF%E8%BA%AB%E4%BA%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            19,
-            13,
-            14
+            3,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时39分]"
-        },
-        {
-          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2017533900855984294",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时47分]"
         },
         {
           "title": "伊朗外交部：白宫发言人在对美国国家反恐中心主任辞职的反应中再次撒谎。美国官员为了为其对伊朗的非法战争辩护，反复提到一个“谎言”，即“伊朗试图获取核武器”。",
@@ -847,18 +877,6 @@
           "time_info": "15时51分"
         },
         {
-          "title": "以防长称伊朗情报部长身亡",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%83%85%E6%8A%A5%E9%83%A8%E9%95%BF%E8%BA%AB%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时39分]"
-        },
-        {
           "title": "伊朗议长：霍尔木兹海峡不会恢复到战前状态",
           "url": "https://flash.jin10.com/detail/20260318032506649800",
           "source": "金十数据",
@@ -904,17 +922,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时58分 ~ 16时38分]"
-        },
-        {
-          "title": "以色列防长：所有伊朗人都是打击目标",
-          "url": "https://news.ifeng.com/c/8rbCv5P8s0O",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "阿联酋高级官员Gargash：我们目前与伊朗没有进行积极的对话。",
@@ -983,6 +990,17 @@
           "time_info": "17时43分"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗将对能源基础设施遭袭一事进行报复。伊朗将打击此前被认为安全的敌方目标。",
+          "url": "https://flash.jin10.com/detail/20260318204335791800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
           "url": "https://wallstreetcn.com/livenews/3071854",
           "source": "华尔街见闻-快讯",
@@ -1022,9 +1040,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗媒体称美以袭击伊朗一处重要天然气设施",
+          "url": "https://wallstreetcn.com/livenews/3072452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "以色列刺杀伊朗情报部长",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%88%BA%E6%9D%80%E4%BC%8A%E6%9C%97%E6%83%85%E6%8A%A5%E9%83%A8%E9%95%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            6,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
         },
         {
           "title": "伊朗革命卫队报复行动升级",
@@ -1039,6 +1082,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时51分 ~ 18时43分]"
+        },
+        {
+          "title": "以色列遭空袭 疑似导弹碎片密如雨下",
+          "url": "https://www.toutiao.com/trending/7618513261599772206/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
         },
         {
           "title": "伊朗处决一名为以工作间谍",
@@ -1064,6 +1119,41 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时15分 ~ 15时51分]"
+        },
+        {
+          "title": "泽连斯基：乌专家团队已抵达海湾多国应对伊朗无人机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32785071",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
+        },
+        {
+          "title": "曝美军拟大规模仿制伊朗无人机",
+          "url": "https://www.toutiao.com/trending/7618157912195763775/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
+        },
+        {
+          "title": "以防长说伊朗情报部长身亡",
+          "url": "https://www.toutiao.com/trending/7618510618282430002/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时47分]"
         },
         {
           "title": "泽连斯基：乌克兰向中东派出200余名反无人机专家",
@@ -1177,19 +1267,6 @@
           "time_info": "[03时50分 ~ 04时31分]"
         },
         {
-          "title": "以色列刺杀伊朗情报部长",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%88%BA%E6%9D%80%E4%BC%8A%E6%9C%97%E6%83%85%E6%8A%A5%E9%83%A8%E9%95%BF%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社报道，伊朗最高国家安全委员会秘书阿里·拉里贾尼与其子、资深安全官员莫尔特扎·拉里贾尼以及一组随行保镖一同遇害。伊朗最高国家安全委员会在一份声明中确认阿里·拉里贾尼死亡，称其与其子、副安全官员阿里雷扎·巴亚特以及其安保团队成员一同遇害。",
           "url": "https://flash.jin10.com/detail/20260318051148630800",
           "source": "金十数据",
@@ -1274,40 +1351,16 @@
           "time_info": "[17时43分 ~ 18时43分]"
         },
         {
-          "title": "以色列遭空袭 疑似导弹碎片密如雨下",
-          "url": "https://www.toutiao.com/trending/7618513261599772206/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
-        },
-        {
-          "title": "泽连斯基：乌专家团队已抵达海湾多国应对伊朗无人机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32785071",
+          "title": "释新闻｜拉里贾尼遭以色列“斩首”后，伊朗强硬派会乘势而上吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787891",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            15
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
-        },
-        {
-          "title": "曝美军拟大规模仿制伊朗无人机",
-          "url": "https://www.toutiao.com/trending/7618157912195763775/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
+          "time_info": "[18时42分 ~ 20时47分]"
         },
         {
           "title": "如何看待美国、英国、以色列、意大利、澳大利亚等多国爆发大规模抗议？会影响美以伊局势吗？",
@@ -1321,17 +1374,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时55分 ~ 07时24分]"
-        },
-        {
-          "title": "以防长说伊朗情报部长身亡",
-          "url": "https://www.toutiao.com/trending/7618510618282430002/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时39分]"
         },
         {
           "title": "伊朗议长：封锁霍尔木兹海峡是为了自卫",
@@ -1350,18 +1392,6 @@
           "source": "抖音",
           "ranks": [
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时39分]"
-        },
-        {
-          "title": "释新闻｜拉里贾尼遭以色列“斩首”后，伊朗强硬派会乘势而上吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787891",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
             9
           ],
           "is_new": false,
@@ -1537,6 +1567,18 @@
           "time_info": "[03时50分 ~ 04时31分]"
         },
         {
+          "title": "哈马斯发表声明悼念拉里贾尼，强调将与伊朗保持团结",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时47分]"
+        },
+        {
           "title": "美军拟大规模仿制伊朗自杀式无人机",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BB%BF%E5%88%B6%E4%BC%8A%E6%9C%97%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1632,7 +1674,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1654,9 +1696,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗发动第62波攻势打击美以军事基地",
+          "url": "https://wallstreetcn.com/livenews/3072451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "以防长称伊朗情报部长身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%83%85%E6%8A%A5%E9%83%A8%E9%95%BF%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "泽连斯基：乌专家团队已抵达海湾多国应对伊朗无人机",
@@ -1723,6 +1787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "伊朗为拉里贾尼举行葬礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%BA%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E4%B8%BE%E8%A1%8C%E8%91%AC%E7%A4%BC%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国中央司令部：数小时前，美军在霍尔木兹海峡附近伊朗沿海的伊朗导弹基地使用了5000磅级深穿透炸弹。",
@@ -2011,6 +2086,17 @@
           "time_info": "18时43分"
         },
         {
+          "title": "德国政府发言人：（就伊朗局势发表讲话）我们必须努力确保这场战争尽快结束，并制定明确的行动计划。",
+          "url": "https://flash.jin10.com/detail/20260318203713951800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "据路透：伊朗媒体证实，伊朗最高国家安全委员会秘书拉里贾尼遇害。",
           "url": "https://flash.jin10.com/detail/20260318045229455800",
           "source": "金十数据",
@@ -2061,7 +2147,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2083,7 +2169,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2121,6 +2207,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "伊朗发动第62波攻势打击美以军事基地",
+          "url": "https://flash.jin10.com/detail/20260318203536561800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "以军称伊朗向以色列发射导弹",
           "url": "https://wallstreetcn.com/livenews/3072173",
           "source": "华尔街见闻-快讯",
@@ -2130,6 +2227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "伊朗最高安全官员拉里贾尼的葬礼在德黑兰举行",
+          "url": "https://wallstreetcn.com/livenews/3072438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "伊朗称敌方击中布什尔核电站厂区",
@@ -2143,15 +2251,15 @@
           "time_info": "12时15分"
         },
         {
-          "title": "哈马斯发表声明悼念拉里贾尼，强调将与伊朗保持团结",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787673",
+          "title": "以色列外长：以色列在当前军事行动中“已经胜利”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783864",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "20时47分"
         },
         {
           "title": "以色列国防军：我们正在为伊朗人民掌握自己的命运创造条件。",
@@ -2209,6 +2317,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "欧洲天然气价格上涨，此前报道称伊朗南帕斯气田部分设施停止作业。 布伦特原油日内涨幅达2.0%，报101.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3072437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "声明显示：受伊朗支持的组织发表声明，要求所有“外国士兵”离开伊拉克。",
           "url": "https://flash.jin10.com/detail/20260318022051150800",
           "source": "金十数据",
@@ -2248,7 +2367,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2363,6 +2482,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "伊朗南帕尔斯气田的多个部分将停产。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3072431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "伊朗称可合法打击允许美以利用其领土实施侵略的国家",
           "url": "https://flash.jin10.com/detail/20260318063246542800",
           "source": "金十数据",
@@ -2402,7 +2532,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2501,7 +2631,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2512,7 +2642,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2526,6 +2656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "阿联酋称伊朗袭击已致2名军人和6名平民死亡",
+          "url": "https://wallstreetcn.com/livenews/3072422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "伊朗对美以发动58波打击",
@@ -2553,7 +2694,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -2579,8 +2720,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时24分 ~ 19时39分]"
+          "appearance_count": 14,
+          "time_info": "[06时24分 ~ 20时47分]"
         },
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -2619,6 +2760,17 @@
           "time_info": "[07时24分 ~ 16时38分]"
         },
         {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
           "url": "https://www.cls.cn/detail/2316263",
           "source": "财联社热门",
@@ -2641,17 +2793,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
         },
         {
           "title": "国台办回应特朗普或将批准对台军售案",
@@ -2795,6 +2936,43 @@
           "time_info": "09时19分"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
           "source": "澎湃新闻",
@@ -2806,6 +2984,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时58分 ~ 16时38分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时47分]"
         },
         {
           "title": "中方回应特朗普确认推迟访华",
@@ -2832,18 +3022,6 @@
           "time_info": "[01时55分 ~ 02时49分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
-        },
-        {
           "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
           "url": "https://news.ifeng.com/c/8radF7mAvMh",
           "source": "凤凰网",
@@ -2855,16 +3033,16 @@
           "time_info": "[12时15分 ~ 14时59分]"
         },
         {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
+          "time_info": "[18时42分 ~ 20时47分]"
         },
         {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
@@ -2876,42 +3054,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时15分 ~ 14时59分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
-        },
-        {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时39分]"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时39分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -3054,6 +3196,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "美国民主党参议员沃伦：美国总统特朗普在限制美联储降息空间。",
+          "url": "https://wallstreetcn.com/livenews/3072450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "特朗普称应考虑美国退出北约的可能性",
           "url": "https://flash.jin10.com/detail/20260318003433795800",
           "source": "金十数据",
@@ -3120,6 +3273,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国民主党参议员沃伦声称特朗普正在限制美联储降息的空间。",
+          "url": "https://flash.jin10.com/detail/20260318203629754800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
           "url": "https://wallstreetcn.com/livenews/3071801",
           "source": "华尔街见闻-快讯",
@@ -3159,7 +3323,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -3186,6 +3350,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国民主党参议员沃伦：美国总统特朗普在阻挠美联储降息。",
+          "url": "https://flash.jin10.com/detail/20260318203318142800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
           "url": "https://wallstreetcn.com/livenews/3071796",
           "source": "华尔街见闻-快讯",
@@ -3197,6 +3372,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "白宫称特朗普拒绝重启与伊朗谈判，希望军事行动继续推进，伊朗战事还将持续多久？未来将如何变化？",
+          "url": "https://www.zhihu.com/question/2017167860183609549",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：全世界都应该感谢我对伊朗的行动。",
           "url": "https://flash.jin10.com/detail/20260318002454473800",
           "source": "金十数据",
@@ -3206,6 +3392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "爱尔兰总理当着特朗普的面抨击关税",
+          "url": "https://www.toutiao.com/trending/7617743216013606954/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国总统特朗普：伊朗战争很快就会结束。而战争一结束，油价就会断崖式下跌。",
@@ -3252,6 +3449,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：美联储主席鲍威尔什么时候降息？",
+          "url": "https://wallstreetcn.com/livenews/3072430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：再过不久，船只就能通过霍尔木兹海峡了。",
           "url": "https://flash.jin10.com/detail/20260318002052131800",
           "source": "金十数据",
@@ -3285,6 +3493,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "特朗普称正考虑进一步打击伊朗现政权",
+          "url": "https://wallstreetcn.com/livenews/3072425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：在美国和盟友采取行动之前，伊朗距离拥有核武器大约还有两周的时间。",
           "url": "https://flash.jin10.com/detail/20260318020045740800",
           "source": "金十数据",
@@ -3302,7 +3521,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -3355,11 +3574,12 @@
             7,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时47分]"
         },
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -3567,6 +3787,69 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3071867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时31分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
+          "url": "https://wallstreetcn.com/livenews/3071821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时49分]"
+        },
+        {
+          "title": "美国2月PPI数据公布后，美股三大股指期货跌幅扩大，均跌至日内低点；美元指数短线拉升，日内涨0.2%。现货黄金回落至4890美元/盎司下方，日内跌2.36%。美国国债走低，10年期国债收益率快速拉升，现报4.206%。",
+          "url": "https://wallstreetcn.com/livenews/3072449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌超2%，续创2月18日以来新低。 美股三大股指期货集体跳水，纳指期货日内转跌，现跌0.04%，标普500指数期货跌0.07%，道指期货跌0.05%。 美国2年期国债收益率升至日内高点3.70%。",
+          "url": "https://wallstreetcn.com/livenews/3072433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "美元指数17日下跌",
+          "url": "https://flash.jin10.com/detail/20260318051816405800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -3618,8 +3901,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 20时47分]"
         },
         {
           "title": "金价银价下跌原因找到了",
@@ -3661,8 +3944,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 20时47分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -3686,47 +3969,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
-          "url": "https://wallstreetcn.com/livenews/3071867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时31分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
-          "url": "https://wallstreetcn.com/livenews/3071821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时49分]"
-        },
-        {
-          "title": "美元指数17日下跌",
-          "url": "https://flash.jin10.com/detail/20260318051816405800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         }
       ]
     }
