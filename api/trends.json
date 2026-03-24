@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T16:42:11.792509+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-03-24T17:47:34.053626+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 77,
+      "match_count": 93,
       "titles": [
         {
           "title": "伊朗否认议长与美国谈判，指假消息为暗杀创造条件，称美曾试图通过中间方谈、伊未回应",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
         },
         {
           "title": "以媒：美方同伊朗议长进行会谈",
@@ -30,6 +31,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时15分 ~ 14时55分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 25 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019540758806357531",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
+        {
+          "title": "中东冲突持续升级！伊朗：若岛屿遭袭将在波斯湾布设水雷",
+          "url": "https://wallstreetcn.com/articles/3768158",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
         },
         {
           "title": "外交部：如果中东战事持续扩大，整个地区将陷入不可收拾的局面",
@@ -54,6 +80,49 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时50分 ~ 16时42分]"
+        },
+        {
+          "title": "以高级官员：伊朗和美国本周将在巴基斯坦举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816295",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            16,
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
+        {
+          "title": "伊朗称美以多层防御网络已崩溃，整体战局正在扭转，是这样吗？美以在战略上出了哪些问题？",
+          "url": "https://www.zhihu.com/question/2019466928133993290",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
+        {
+          "title": "从霍尔木兹到曼德海峡，伊朗手里还有哪些「王炸」未出？战事还有可能升级吗？",
+          "url": "https://www.zhihu.com/question/2016907566488266478",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
         },
         {
           "title": "韩总理因中东局势取消访华",
@@ -81,29 +150,17 @@
           "time_info": "[09时15分 ~ 16时42分]"
         },
         {
-          "title": "美以袭击伊朗进入第 25 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019540758806357531",
-          "source": "知乎",
+          "title": "伊朗公布美军基地遭袭前后对比照片",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E7%85%A7%E7%89%87",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            6
+            24,
+            6,
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
-          "title": "中东冲突持续升级！伊朗：若岛屿遭袭将在波斯湾布设水雷",
-          "url": "https://wallstreetcn.com/articles/3768158",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
+          "time_info": "[12时11分 ~ 17时47分]"
         },
         {
           "title": "白宫：不会确认本周是否会与伊朗方面进行谈判",
@@ -113,48 +170,6 @@
             13,
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
-          "title": "以高级官员：伊朗和美国本周将在巴基斯坦举行会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816295",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            16,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
-          "title": "伊朗称美以多层防御网络已崩溃，整体战局正在扭转，是这样吗？美以在战略上出了哪些问题？",
-          "url": "https://www.zhihu.com/question/2019466928133993290",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
-          "title": "从霍尔木兹到曼德海峡，伊朗手里还有哪些「王炸」未出？战事还有可能升级吗？",
-          "url": "https://www.zhihu.com/question/2016907566488266478",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            11,
-            16
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -172,16 +187,16 @@
           "time_info": "[09时15分 ~ 12时11分]"
         },
         {
-          "title": "伊朗公布美军基地遭袭前后对比照片",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E7%85%A7%E7%89%87",
-          "source": "百度热搜",
+          "title": "以色列被打穿了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AB%E6%89%93%E7%A9%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            24,
-            6
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时42分]"
+          "time_info": "[13时55分 ~ 17时47分]"
         },
         {
           "title": "为对抗中国而开战？围绕伊朗战事的“反华阴谋论”",
@@ -195,6 +210,20 @@
           "time_info": "[09时15分 ~ 12时11分]"
         },
         {
+          "title": "伊朗公布美军基地遭袭前后对比照",
+          "url": "https://www.toutiao.com/trending/7619582263617781823/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时47分]"
+        },
+        {
           "title": "美以伊战争丨伊朗最高领袖顾问：将打到获全额赔偿",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -206,6 +235,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "美以伊战争丨俄被曝试图拿伊朗问题与美国做交易",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "伊朗能源部长：电力与供水保障未受影响",
           "url": "https://flash.jin10.com/detail/20260324090409866800",
           "source": "金十数据",
@@ -215,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "以色列被打穿了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AB%E6%89%93%E7%A9%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时42分]"
         },
         {
           "title": "据福克斯新闻记者：以色列特拉维夫响起警报。更多伊朗导弹来袭。",
@@ -245,22 +274,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
         {
-          "title": "伊朗公布美军基地遭袭前后对比照",
-          "url": "https://www.toutiao.com/trending/7619582263617781823/",
-          "source": "今日头条",
+          "title": "以军称已累计打击超3000个伊朗目标",
+          "url": "https://flash.jin10.com/detail/20260324173053462800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            9,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "伊朗最高领袖顾问重申结束战争条件",
+          "url": "https://news.ifeng.com/c/8rkxTHQw3OI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗逮捕30名从事间谍活动的人员",
@@ -341,6 +379,19 @@
           "time_info": "[15时50分 ~ 16时42分]"
         },
         {
+          "title": "美军将继续对伊朗实施打击 “暂停打击”仅适用于对伊朗能源设施的攻击",
+          "url": "https://www.cls.cn/detail/2322798",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时47分]"
+        },
+        {
           "title": "机构：中东冲突对市场的影响正进入一个新阶段",
           "url": "https://wallstreetcn.com/livenews/3075675",
           "source": "华尔街见闻-快讯",
@@ -387,18 +438,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时15分 ~ 13时55分]"
-        },
-        {
-          "title": "美军将继续对伊朗实施打击 “暂停打击”仅适用于对伊朗能源设施的攻击",
-          "url": "https://www.cls.cn/detail/2322798",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 16时42分]"
         },
         {
           "title": "伊朗已准备对关键设施遭袭作强力回应",
@@ -449,6 +488,18 @@
           "time_info": "[09时15分 ~ 12时11分]"
         },
         {
+          "title": "中东战火击碎降息梦！市场开始谈论加息 德银：美联储将避免重蹈覆辙",
+          "url": "https://www.cls.cn/detail/2322301",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时47分]"
+        },
+        {
           "title": "外交部谈中东局势：呼吁立即停火止战",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%EF%BC%9A%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98",
           "source": "百度热搜",
@@ -484,6 +535,28 @@
           "time_info": "[09时15分 ~ 12时11分]"
         },
         {
+          "title": "伊朗最高领袖顾问重申结束战争条件",
+          "url": "https://www.toutiao.com/trending/7620128550913916974/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "伊朗重申结束战争条件",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%87%8D%E7%94%B3%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "以色列南部多地报告遭袭 正展开搜救",
           "url": "https://flash.jin10.com/detail/20260324133108288800",
           "source": "金十数据",
@@ -517,6 +590,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "以前议长：以色列视所有对手为“希特勒”",
+          "url": "https://news.ifeng.com/c/8rl1nEjSBc7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "报道：伊朗已通过调解人收到美国信息",
           "url": "https://wallstreetcn.com/livenews/3075704",
           "source": "华尔街见闻-快讯",
@@ -537,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "伊朗最高领袖顾问重申结束战争条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A1%BE%E9%97%AE%E9%87%8D%E7%94%B3%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗否认与美国沟通",
@@ -578,9 +673,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗警方逮捕与敌方有关联者466人",
+          "url": "https://wallstreetcn.com/livenews/3075830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "绝密通话曝光！内塔尼亚胡一通电话，成功把美国拉进伊朗战火",
@@ -605,15 +711,26 @@
           "time_info": "14时55分"
         },
         {
-          "title": "中东战火击碎降息梦！市场开始谈论加息 德银：美联储将避免重蹈覆辙",
-          "url": "https://www.cls.cn/detail/2322301",
-          "source": "财联社热门",
+          "title": "中方回应美方推迟打击伊朗发电设施",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%8E%A8%E8%BF%9F%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E8%AE%BE%E6%96%BD",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时55分"
+          "time_info": "17时47分"
+        },
+        {
+          "title": "以媒：沙特和阿联酋“正逐步”考虑加入对抗伊朗的行动中",
+          "url": "https://flash.jin10.com/detail/20260324172528412800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗向以色列发动新一轮导弹袭击",
@@ -748,6 +865,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "伊朗西北部两处居民区遭袭 致6死9伤",
+          "url": "https://wallstreetcn.com/livenews/3075814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "伊朗称近日摧毁美方一油轮",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%BF%91%E6%97%A5%E6%91%A7%E6%AF%81%E7%BE%8E%E6%96%B9%E4%B8%80%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
@@ -768,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "以色列国防军：在一次针对性的行动中，以色列国防军部队定位到一个真主党的隧道井。在另一项行动中，部队摧毁了一个真主党的武器库。",
+          "url": "https://flash.jin10.com/detail/20260324171743529800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗媒体：美以袭击伊两处能源基础设施",
@@ -792,6 +931,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "以色列媒体称「美国计划于 4 月 9 日结束对伊朗战争」，为什么选在这一天？美国真的会停战吗？",
+          "url": "https://www.zhihu.com/question/2019733255260217583",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "澳新银行：与俄乌冲突相比，亚洲经济体更具备能力应对中东冲突的影响",
           "url": "https://flash.jin10.com/detail/20260324112220257800",
           "source": "金十数据",
@@ -812,6 +962,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "伊朗警方逮捕与敌方有关联者466人",
+          "url": "https://flash.jin10.com/detail/20260324171530102800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "伊朗称逮捕30名受以色列雇佣人员",
+          "url": "https://www.toutiao.com/trending/7620255610336526378/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗媒体：美以袭击伊两处能源基础设施",
@@ -869,6 +1041,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "欧元区增长几乎停滞，中东冲突导致通胀飙升",
+          "url": "https://flash.jin10.com/detail/20260324171052260800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "以总理称又暗杀2名伊朗核科学家",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%80%BB%E7%90%86%E7%A7%B0%E5%8F%88%E6%9A%97%E6%9D%802%E5%90%8D%E4%BC%8A%E6%9C%97%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -905,25 +1088,38 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
+          "url": "https://wallstreetcn.com/articles/3768172",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
         {
           "title": "【早报】特朗普：美伊或在5天内达成协议；国际油价重挫逾10%",
           "url": "https://www.cls.cn/detail/2322228",
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
-          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
-          "url": "https://wallstreetcn.com/articles/3768172",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -942,29 +1138,30 @@
           "time_info": "[09时15分 ~ 16时42分]"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
-          "url": "https://wallstreetcn.com/articles/3768191",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
           "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
           "url": "https://www.cls.cn/detail/2322286",
           "source": "财联社热门",
           "ranks": [
             9,
             5,
-            4
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
+        {
+          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
+          "url": "https://wallstreetcn.com/articles/3768213",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
+          "time_info": "[12时11分 ~ 17时47分]"
         },
         {
           "title": "巴基斯坦调解美伊：总理致电伊朗总统，陆军参谋长与特朗普通话",
@@ -978,16 +1175,31 @@
           "time_info": "[13时55分 ~ 16时42分]"
         },
         {
-          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
-          "url": "https://wallstreetcn.com/articles/3768213",
-          "source": "华尔街见闻",
+          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            5
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816091",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -1002,16 +1214,32 @@
           "time_info": "[09时15分 ~ 13时55分]"
         },
         {
-          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
-          "source": "澎湃新闻",
+          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
+          "url": "https://www.cls.cn/detail/2322532",
+          "source": "财联社热门",
           "ranks": [
             9,
-            6
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时47分]"
+        },
+        {
+          "title": "又现内幕交易？特朗普发表缓和言论前 6亿美元原油期货合约被抛售",
+          "url": "https://www.cls.cn/detail/2322371",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
+          "time_info": "[12时11分 ~ 17时47分]"
         },
         {
           "title": "美以伊战争丨特朗普甩锅防长：你带头表态要打伊朗",
@@ -1025,33 +1253,6 @@
           "time_info": "[13时55分 ~ 14时55分]"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816091",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
-        },
-        {
-          "title": "又现内幕交易？特朗普发表缓和言论前 6亿美元原油期货合约被抛售",
-          "url": "https://www.cls.cn/detail/2322371",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时42分]"
-        },
-        {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
           "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
           "source": "澎湃新闻",
@@ -1060,11 +1261,12 @@
             18,
             16,
             15,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时47分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -1076,19 +1278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
-          "url": "https://www.cls.cn/detail/2322532",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时42分]"
         },
         {
           "title": "韩前国家情报院长答凤凰：特朗普实质承认朝鲜拥核",
@@ -1110,8 +1299,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时47分]"
         },
         {
           "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
@@ -1135,6 +1324,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时55分 ~ 15时50分]"
+        },
+        {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时47分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时47分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -1161,28 +1374,6 @@
           "time_info": "[13时55分 ~ 14时55分]"
         },
         {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
           "title": "特朗普不顾伊朗否认称已完美对话",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E9%A1%BE%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E7%A7%B0%E5%B7%B2%E5%AE%8C%E7%BE%8E%E5%AF%B9%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -1203,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -1238,6 +1440,17 @@
           "time_info": "15时50分"
         },
         {
+          "title": "以官员：特朗普希望与伊朗达成协议 但成功的可能性不大",
+          "url": "https://flash.jin10.com/detail/20260324171901863800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "特朗普发文前已泄密？预测市场异常押注直指美伊下周前停火！",
           "url": "https://flash.jin10.com/detail/20260324084234167800",
           "source": "金十数据",
@@ -1249,13 +1462,24 @@
           "time_info": "09时15分"
         },
         {
+          "title": "翻脸比翻书快！特朗普“口炮”再反转，华尔街为何还信他？",
+          "url": "https://flash.jin10.com/detail/20260324171357159800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "特朗普称正与伊朗官员沟通，外交部：停火对话是唯一的出路",
           "url": "https://wallstreetcn.com/livenews/3075762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1288,7 +1512,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
@@ -1379,7 +1603,7 @@
     },
     {
       "keyword_group": "DeepSeek Minimax GLM Kimi Doubao Qwen OpenClaw 龙虾",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -1390,8 +1614,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
         },
         {
           "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
@@ -1436,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "OpenClaw升级现严重事故 激进重构致用户全线报错",
+          "url": "https://wallstreetcn.com/livenews/3075809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     },
@@ -1448,11 +1683,12 @@
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时47分]"
         },
         {
           "title": "特朗普TACO效果有限，原油强势反弹，美债承压下跌，现货黄金跌幅收窄",
