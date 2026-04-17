@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T14:31:56.235184+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-04-17T16:23:40.646348+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "美方对伊朗启动代号为“经济狂怒”的行动",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "由于中东战争导致医疗物资短缺，日本首相高市早苗计划从储备中释放5000万副医用手套。日本医生警告说，如果海湾石油和石脑油的供应中断，可能会在两个月内导致医疗用品严重短缺，甚至可能迫使资金紧张、无力承担飙升价格的医疗机构关闭。",
@@ -118,32 +129,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
-        },
-        {
-          "title": "以色列剧本被撕了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%89%A7%E6%9C%AC%E8%A2%AB%E6%92%95%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时31分]"
         },
         {
           "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
@@ -155,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
@@ -168,8 +156,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗：欢迎黎以停火",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%AC%A2%E8%BF%8E%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "time_info": "[09时47分 ~ 16时23分]"
+        },
+        {
+          "title": "以色列剧本被撕了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%89%A7%E6%9C%AC%E8%A2%AB%E6%92%95%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时23分]"
         },
         {
           "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
@@ -192,17 +204,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
-        },
-        {
-          "title": "伊朗：欢迎黎以停火",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%AC%A2%E8%BF%8E%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[09时47分 ~ 14时31分]"
         },
         {
@@ -293,7 +294,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -359,7 +360,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
@@ -367,7 +368,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
@@ -379,20 +380,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
-        },
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -401,6 +390,18 @@
           "ranks": [
             7,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -425,8 +426,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时23分]"
         },
         {
           "title": "特朗普称黎以停火10天",
@@ -440,17 +452,6 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时31分]"
-        },
-        {
           "title": "特朗普称伊朗同意几乎所有要求",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E8%A6%81%E6%B1%82%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -460,6 +461,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普淡化伊朗战争延宕：“才两个月而已”",
@@ -482,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "古巴被曝曾借富商向白宫私递信件，赌特朗普愿“谈生意”、保现政权",
+          "url": "https://flash.jin10.com/detail/20260417154432950800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普：美伊可能本周末谈 如达成协议或亲自去巴基斯坦签",
@@ -520,8 +543,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "OpenAI将投入超过200亿美元购买Cerebras芯片。（The Information）",
