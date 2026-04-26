@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-26T19:34:47.629126+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-04-26T20:45:08.329968+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 91,
       "titles": [
+        {
+          "title": "特朗普：枪手已被捕；枪击现场视频曝光",
+          "url": "https://www.cls.cn/detail/2355838",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
+        },
         {
           "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
           "url": "https://www.cls.cn/detail/2355806",
@@ -17,8 +29,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 20时45分]"
+        },
+        {
+          "title": "美国白宫记者晚宴发生枪击事件，特朗普被紧急撤离，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2031656383213302686",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
         },
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -29,31 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 19时34分]"
-        },
-        {
-          "title": "美国白宫记者晚宴发生枪击事件，特朗普被紧急撤离，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2031656383213302686",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
-        },
-        {
-          "title": "特朗普：枪手已被捕；枪击现场视频曝光",
-          "url": "https://www.cls.cn/detail/2355838",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 20时45分]"
         },
         {
           "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
@@ -65,8 +66,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
+        },
+        {
+          "title": "枪声响起，万斯被特勤人员一把拽走，比特朗普先撤离",
+          "url": "https://v.ifeng.com/c/8sdaZ1eZgcX",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
+          "time_info": "[16时13分 ~ 20时45分]"
         },
         {
           "title": "特朗普被伊朗气坏了",
@@ -80,6 +93,44 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时53分 ~ 19时34分]"
+        },
+        {
+          "title": "枪击是否与伊朗战争有关？特朗普回应",
+          "url": "https://news.ifeng.com/c/8sdOgZksONK",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时56分 ~ 20时45分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
+        },
+        {
+          "title": "高市早苗：得知特朗普总统安然无恙，我如释重负",
+          "url": "https://news.ifeng.com/c/8sdl8wGF36Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 20时45分]"
         },
         {
           "title": "特朗普撤离白宫晚宴现场画面",
@@ -96,53 +147,17 @@
           "time_info": "[12时54分 ~ 19时34分]"
         },
         {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
+          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
+          "url": "https://www.cls.cn/detail/2355864",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
-        },
-        {
-          "title": "枪声响起，万斯被特勤人员一把拽走，比特朗普先撤离",
-          "url": "https://v.ifeng.com/c/8sdaZ1eZgcX",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时13分 ~ 19时34分]"
-        },
-        {
-          "title": "特朗普欲报复英国、西班牙，欧盟烦了：搞不懂，还要怎样？",
-          "url": "https://news.ifeng.com/c/8scZYkdWAx4",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            10,
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时53分 ~ 19时34分]"
-        },
-        {
-          "title": "枪击是否与伊朗战争有关？特朗普回应",
-          "url": "https://news.ifeng.com/c/8sdOgZksONK",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时34分]"
+          "time_info": "[14时56分 ~ 20时45分]"
         },
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -156,31 +171,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
         },
         {
-          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
-          "url": "https://www.cls.cn/detail/2355864",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时34分]"
-        },
-        {
-          "title": "高市早苗：得知特朗普总统安然无恙，我如释重负",
-          "url": "https://news.ifeng.com/c/8sdl8wGF36Y",
+          "title": "特朗普欲报复英国、西班牙，欧盟烦了：搞不懂，还要怎样？",
+          "url": "https://news.ifeng.com/c/8scZYkdWAx4",
           "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 19时34分]"
         },
         {
           "title": "白宫晚宴枪击事件后特朗普首次发声",
@@ -240,6 +243,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时54分 ~ 18时39分]"
+        },
+        {
+          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
+          "url": "https://wallstreetcn.com/articles/3770913",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 20时45分]"
         },
         {
           "title": "特朗普紧急撤离时摔倒",
@@ -329,6 +359,17 @@
           "time_info": "[12时54分 ~ 16时14分]"
         },
         {
+          "title": "特朗普遇刺为何万斯先撤离",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA%E4%B8%BA%E4%BD%95%E4%B8%87%E6%96%AF%E5%85%88%E6%92%A4%E7%A6%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "同地点遇袭：45年前里根45年后特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%9C%B0%E7%82%B9%E9%81%87%E8%A2%AD%EF%BC%9A45%E5%B9%B4%E5%89%8D%E9%87%8C%E6%A0%B945%E5%B9%B4%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -412,6 +453,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3094509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "白宫记者晚宴传出“枪声”，特朗普被紧急疏散",
           "url": "https://wallstreetcn.com/livenews/3094424",
           "source": "华尔街见闻-快讯",
@@ -469,42 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-26）",
-          "url": "https://flash.jin10.com/detail/20260426190158272800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
-          "url": "https://wallstreetcn.com/articles/3770913",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 19时34分]"
-        },
-        {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 19时34分]"
         },
         {
           "title": "因突发事件撤离晚宴后 特朗普发帖：已建议“让活动继续进行”",
@@ -571,6 +587,18 @@
           "time_info": "[14时56分 ~ 16时14分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-26）",
+          "url": "https://flash.jin10.com/detail/20260426190158272800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普陷入新麻烦 底牌为何接连失效",
           "url": "https://www.toutiao.com/trending/7632221016841158682/",
           "source": "今日头条",
@@ -630,6 +658,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 14时56分]"
+        },
+        {
+          "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
+          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 20时45分]"
         },
         {
           "title": "特朗普撤离枪击案现场时摔了一跤",
@@ -761,6 +813,17 @@
           "time_info": "[12时54分 ~ 14时56分]"
         },
         {
+          "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "美国总统特朗普：他们认为他是独狼式袭击者，我也这么认为。",
           "url": "https://flash.jin10.com/detail/20260426105648444800",
           "source": "金十数据",
@@ -771,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 14时56分]"
+        },
+        {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普：（在被问及自己是否是袭击目标时表示）我猜是吧。",
@@ -838,7 +912,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -898,17 +972,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "据AXIOS记者：美国总统特朗普被其安保人员从白宫记者晚宴上撤离。",
           "url": "https://flash.jin10.com/detail/20260426084111105800",
           "source": "金十数据",
@@ -931,17 +994,6 @@
           "time_info": "12时54分"
         },
         {
-          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普和第一夫人梅拉尼娅·特朗普抵达白宫记者晚宴。",
           "url": "https://flash.jin10.com/detail/20260426083021579800",
           "source": "金十数据",
@@ -951,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：与美国总统特朗普进行了通话，以表达我对其遭遇袭击后的声援。",
+          "url": "https://flash.jin10.com/detail/20260426193425378800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "加拿大总理卡尼：很欣慰得知美国总统特朗普、第一夫人和所有嘉宾在今晚白宫记者晚宴的枪击事件中都安然无恙。",
@@ -973,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "英国白金汉宫发言人：国王查尔斯已全面了解白宫枪击案的相关情况，听到特朗普总统和第一夫人安然无恙的消息后，他感到非常欣慰。",
+          "url": "https://flash.jin10.com/detail/20260426191956060800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美国总统特朗普：（嫌疑人）很可能是单独行动的，但我们会查清楚。",
@@ -1055,7 +1129,7 @@
     },
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 52,
+      "match_count": 67,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -1063,11 +1137,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 20时45分]"
         },
         {
           "title": "摩根大通：中东虽未解决但谈判路径可见，宏观焦点已从风险溢价转向残余“滞胀”风险",
@@ -1080,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时53分 ~ 17时46分]"
+        },
+        {
+          "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2031646484894937327",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
         },
         {
           "title": "伊朗最高领袖敦促海湾国家保持警惕",
@@ -1102,17 +1188,6 @@
           "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
-        },
-        {
-          "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
-          "url": "https://www.zhihu.com/question/2031646484894937327",
-          "source": "知乎",
           "ranks": [
             6
           ],
@@ -1145,17 +1220,6 @@
           "time_info": "[09时53分 ~ 12时54分]"
         },
         {
-          "title": "伊朗议员：霍尔木兹海峡不会恢复到战前状态",
-          "url": "https://wallstreetcn.com/livenews/3094500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
           "url": "https://wallstreetcn.com/articles/3770880",
           "source": "华尔街见闻",
@@ -1167,70 +1231,62 @@
           "time_info": "09时53分"
         },
         {
-          "title": "伊朗外交部：伊朗外长阿拉格齐强调，地区国家需要建立不受“美国干预”的集体安全机制。",
-          "url": "https://flash.jin10.com/detail/20260426191702240800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "伊朗外交部：外长与阿曼官员讨论安全问题、霍尔木兹海峡的安全、以及地区安全。",
           "url": "https://wallstreetcn.com/livenews/3094498",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "伊朗外交部：伊朗外交部长与阿曼苏丹讨论了霍尔木兹海峡的安全及安全通行问题，还有地区安全事宜。",
-          "url": "https://flash.jin10.com/detail/20260426191626695800",
+          "title": "伊朗外长：呼吁建立“不受美国干预”的集体安全机制",
+          "url": "https://wallstreetcn.com/livenews/3094508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "伊朗外长呼吁建立“不受美国干预”的集体安全机制",
+          "url": "https://flash.jin10.com/detail/20260426200021680800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "中东股市收盘播报｜周日（4月26日），阿曼MSM 30指数收跌0.44%，连续六个交易日下跌（4月16日结束交易以来累计回撤2.59%），报8123.73点，4月16日曾涨至8388.28点——逼近2008年9月29日顶部8563.41点和当年7月8日顶部11957.75点。 卡塔尔证交所指数收涨0.05%，报10668.05点。 科威特证交所超级市场价格回报指数收涨0.26%，报946903点。",
-          "url": "https://wallstreetcn.com/livenews/3094499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "伊朗：已成功摧毁三枚美国巨型钻地弹",
-          "url": "https://wallstreetcn.com/livenews/3094494",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时45分"
         },
         {
-          "title": "恒力石化：从未与伊朗发生任何贸易往来，美国财政部此次将恒力炼化列入SDN清单的决定缺乏事实与法律依据",
-          "url": "https://wallstreetcn.com/livenews/3094491",
-          "source": "华尔街见闻-快讯",
+          "title": "美国代理司法部长布兰奇：不确定（枪击案）是否与伊朗有关。",
+          "url": "https://flash.jin10.com/detail/20260426195852525800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时45分"
+        },
+        {
+          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
+          "url": "https://wallstreetcn.com/livenews/3094478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时45分]"
         },
         {
           "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
@@ -1260,17 +1316,16 @@
           "time_info": "[17时45分 ~ 19时34分]"
         },
         {
-          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
-          "url": "https://wallstreetcn.com/livenews/3094478",
+          "title": "伊朗议员：霍尔木兹海峡不会恢复到战前状态",
+          "url": "https://wallstreetcn.com/livenews/3094500",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7,
-            14
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时34分]"
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
         },
         {
           "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
@@ -1299,6 +1354,54 @@
           "time_info": "[16时14分 ~ 18时39分]"
         },
         {
+          "title": "伊朗外交部：伊朗外长阿拉格齐强调，地区国家需要建立不受“美国干预”的集体安全机制。",
+          "url": "https://flash.jin10.com/detail/20260426191702240800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部长与阿曼苏丹讨论了霍尔木兹海峡的安全及安全通行问题，还有地区安全事宜。",
+          "url": "https://flash.jin10.com/detail/20260426191626695800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周日（4月26日），阿曼MSM 30指数收跌0.44%，连续六个交易日下跌（4月16日结束交易以来累计回撤2.59%），报8123.73点，4月16日曾涨至8388.28点——逼近2008年9月29日顶部8563.41点和当年7月8日顶部11957.75点。 卡塔尔证交所指数收涨0.05%，报10668.05点。 科威特证交所超级市场价格回报指数收涨0.26%，报946903点。",
+          "url": "https://wallstreetcn.com/livenews/3094499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
+          "title": "伊朗：已成功摧毁三枚美国巨型钻地弹",
+          "url": "https://wallstreetcn.com/livenews/3094494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
           "title": "市场消息：以色列军方对利塔尼河以北的七个黎巴嫩城镇发布撤离警告。",
           "url": "https://flash.jin10.com/detail/20260426175503018800",
           "source": "金十数据",
@@ -1309,6 +1412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时39分 ~ 19时34分]"
+        },
+        {
+          "title": "恒力石化：从未与伊朗发生任何贸易往来，美国财政部此次将恒力炼化列入SDN清单的决定缺乏事实与法律依据",
+          "url": "https://wallstreetcn.com/livenews/3094491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
         },
         {
           "title": "巴基斯坦总理同伊朗总统通电话 讨论地区局势",
@@ -1381,6 +1496,18 @@
           "time_info": "[09时53分 ~ 16时14分]"
         },
         {
+          "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E6%88%90%E5%8A%9F%E6%91%A7%E6%AF%813%E6%9E%9A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%9C%B0%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 20时45分]"
+        },
+        {
           "title": "美知名学者说伊朗想要协议而非核武器",
           "url": "https://wallstreetcn.com/livenews/3094414",
           "source": "华尔街见闻-快讯",
@@ -1394,6 +1521,28 @@
           "time_info": "[09时53分 ~ 14时56分]"
         },
         {
+          "title": "伊朗：已成功摧毁3枚美国巨型钻地弹",
+          "url": "https://news.ifeng.com/c/8sdwwvxNzJq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "伊朗：美以伊战争导致伊朗3468人死亡、34060人受伤",
+          "url": "https://news.ifeng.com/c/8sdyahOqRKw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "据阿曼国家通讯社：阿会晤期间，阿曼国家元首与伊朗外长就地区形势的发展和调解努力进行了磋商。",
           "url": "https://flash.jin10.com/detail/20260426151121805800",
           "source": "金十数据",
@@ -1404,6 +1553,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时14分 ~ 17时46分]"
+        },
+        {
+          "title": "经济学家们认为：虽然伊朗战争助燃通胀，但英国央行“几乎肯定会”在下周维持利率政策不变。（PA Media/dpa）",
+          "url": "https://wallstreetcn.com/livenews/3094489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时45分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼国家元首在马斯喀特会见了伊朗外长阿拉格奇。",
@@ -1430,6 +1591,17 @@
           "time_info": "[09时53分 ~ 12时54分]"
         },
         {
+          "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
+          "url": "https://www.toutiao.com/trending/7632586297932238355/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "乌克兰称中东部遭俄袭击 数十人死伤",
           "url": "https://wallstreetcn.com/livenews/3094412",
           "source": "华尔街见闻-快讯",
@@ -1454,6 +1626,17 @@
           "time_info": "[09时53分 ~ 12时54分]"
         },
         {
+          "title": "伊朗提出新条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E6%96%B0%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "伊朗代表团已离开巴基斯坦",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B7%B2%E7%A6%BB%E5%BC%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
           "source": "百度热搜",
@@ -1463,17 +1646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E6%88%90%E5%8A%9F%E6%91%A7%E6%AF%813%E6%9E%9A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%9C%B0%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
           "title": "伊朗战争丨伊朗官员：美伊未来几天或举行第二轮谈判",
@@ -1487,26 +1659,48 @@
           "time_info": "09时53分"
         },
         {
+          "title": "伊朗总统指示伊央行智能管理流动性，保护本币币值",
+          "url": "https://wallstreetcn.com/livenews/3094503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
           "url": "https://flash.jin10.com/detail/20260426185159124800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "经济学家们认为：虽然伊朗战争助燃通胀，但英国央行“几乎肯定会”在下周维持利率政策不变。（PA Media/dpa）",
-          "url": "https://wallstreetcn.com/livenews/3094489",
+          "title": "伊朗：美以伊战争导致伊朗3468人死亡，34060人受伤",
+          "url": "https://wallstreetcn.com/livenews/3094502",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时45分"
+        },
+        {
+          "title": "伊朗外交部：外交部长阿拉格齐与阿曼苏丹讨论安全问题、霍尔木兹海峡的安全、以及地区安全。 伊朗外长强调，地区国家有必要构建摆脱“美国干预”的集体安全机制。",
+          "url": "https://wallstreetcn.com/livenews/3094498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "以色列封锁巴勒斯坦孩子上学路遭抗议",
@@ -1529,6 +1723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "美媒：以色列在伊朗冲突期间向阿联酋提供了“铁穹”防御系统",
+          "url": "https://flash.jin10.com/detail/20260426193933027800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
@@ -1564,6 +1769,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "据AXIOS：在伊朗战争期间，以色列向阿联酋提供了“铁穹”防空系统及部队。",
+          "url": "https://flash.jin10.com/detail/20260426193302727800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗有关停火原则立场",
           "url": "https://wallstreetcn.com/livenews/3094405",
           "source": "华尔街见闻-快讯",
@@ -1586,6 +1802,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "伊朗总统指示伊央行智能管理流动性 保护本币币值",
+          "url": "https://flash.jin10.com/detail/20260426193028562800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "伊朗克尔曼沙阿防空系统启动",
           "url": "https://flash.jin10.com/detail/20260426055251082800",
           "source": "金十数据",
@@ -1597,6 +1824,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "伊朗称美以伊战争导致伊朗3468人死亡 34060人受伤",
+          "url": "https://flash.jin10.com/detail/20260426192951260800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗将通过巴基斯坦作为调解方与美国进行间接磋商。伊朗方面表示，希望达成一项旨在“彻底终结战争”的框架协议。",
           "url": "https://flash.jin10.com/detail/20260426055139108800",
           "source": "金十数据",
@@ -1606,6 +1844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "以色列国防军：在以色列北部多个地区响起敌机入侵警报后，以色列空军拦截了三架无人机，以防止它们进入以色列领土。",
+          "url": "https://flash.jin10.com/detail/20260426192917566800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "伊朗克尔曼沙赫地区拉响防空警报，原因不明。",
@@ -1677,8 +1926,22 @@
     },
     {
       "keyword_group": "DeepSeek Minimax GLM Kimi Doubao Qwen OpenClaw 龙虾",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时56分 ~ 20时45分]"
+        },
         {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
@@ -1690,21 +1953,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 19时34分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 20时45分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -1712,11 +1962,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时45分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -1744,22 +1995,24 @@
             7,
             12,
             15,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 20时45分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 20时45分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -1811,6 +2064,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 14时56分]"
+        },
+        {
+          "title": "DeepSeek多位核心骨干离职去大厂",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
