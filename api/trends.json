@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-04-27T20:17:46.057505+08:00",
-  "total_titles_processed": 972,
-  "failed_sources": [],
+  "generated_at": "2026-04-27T23:01:46.862516+08:00",
+  "total_titles_processed": 1118,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 49,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 23时01分]"
+        },
         {
           "title": "美国：已收到伊朗谈判新方案",
           "url": "https://www.cls.cn/detail/2356393",
@@ -25,24 +41,26 @@
           "url": "https://www.toutiao.com/trending/7632821618738167818/",
           "source": "今日头条",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时17分]"
-        },
-        {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
+            1,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时19分 ~ 20时17分]"
+          "time_info": "[18时55分 ~ 23时01分]"
+        },
+        {
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 23时01分]"
         },
         {
           "title": "伊朗议会要员：所有通过霍尔木兹海峡的船只必须缴纳通行费",
@@ -119,7 +137,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -149,25 +167,24 @@
           "time_info": "[09时57分 ~ 13时19分]"
         },
         {
+          "title": "拒绝与以色列直接谈判，黎真主党领导人提出5点要求",
+          "url": "https://news.ifeng.com/c/8sfUke8wwkP",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 23时01分]"
+        },
+        {
           "title": "伊朗外长抵俄，将同普京举行会谈",
           "url": "https://news.ifeng.com/c/8sf1sT66OmC",
           "source": "凤凰网",
           "ranks": [
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 20时17分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -209,6 +226,50 @@
           "time_info": "[13时19分 ~ 18时55分]"
         },
         {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.toutiao.com/trending/7633444247001189938/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E6%96%B9%E8%AF%B7%E6%B1%82%E8%B0%88%E5%88%A4+%E4%BC%8A%E6%96%B9%E6%AD%A3%E8%80%83%E8%99%91",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
+          "url": "https://www.zhihu.com/question/2032051759590397567",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
           "title": "伊朗外长折返伊斯兰堡内情披露",
           "url": "https://news.ifeng.com/c/8sep2SLcTLv",
           "source": "凤凰网",
@@ -220,15 +281,15 @@
           "time_info": "[09时57分 ~ 13时19分]"
         },
         {
-          "title": "拒绝与以色列直接谈判，黎真主党领导人提出5点要求",
-          "url": "https://news.ifeng.com/c/8sfUke8wwkP",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031863204075106462",
+          "source": "知乎",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时17分]"
+          "time_info": "[22时59分 ~ 23时01分]"
         },
         {
           "title": "美国已收到伊朗谈判新方案",
@@ -241,6 +302,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 16时07分]"
+        },
+        {
+          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "普京：已收到伊朗最高领袖传来的信息",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%A0%E6%9D%A5%E7%9A%84%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
         },
         {
           "title": "美国已收到伊朗谈判新方案",
@@ -320,13 +403,24 @@
           "time_info": "16时07分"
         },
         {
+          "title": "伊朗外长：美方请求谈判 伊方正在考虑",
+          "url": "https://flash.jin10.com/detail/20260427222147904800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "伊朗战争丨伊外长：美方过分要求令谈判无果而终",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -348,7 +442,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -364,13 +458,24 @@
           "time_info": "16时07分"
         },
         {
+          "title": "罗素投资：美元的避险地位在中东冲突中重新显现。",
+          "url": "https://flash.jin10.com/detail/20260427221703573800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "以色列国防军：开始打击黎巴嫩南部贝卡谷地的真主党目标。",
           "url": "https://wallstreetcn.com/livenews/3094981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -403,7 +508,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -507,13 +612,24 @@
           "time_info": "13时19分"
         },
         {
+          "title": "伊朗外长阿拉格齐表示，美国已提议与伊朗进行会谈，德黑兰目前正在考虑这一可能性。",
+          "url": "https://flash.jin10.com/detail/20260427220714296800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "以色列国防军开始对黎巴嫩南部贝卡地区的主党目标进行打击。",
           "url": "https://flash.jin10.com/detail/20260427193458881800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -557,7 +673,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         }
@@ -565,8 +681,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 23时01分]"
+        },
         {
           "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
           "url": "https://v.ifeng.com/c/8sendYSbNWy",
@@ -579,16 +707,30 @@
           "time_info": "[09时57分 ~ 18时55分]"
         },
         {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
           "source": "凤凰网",
           "ranks": [
-            5,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 20时17分]"
+          "appearance_count": 3,
+          "time_info": "[20时17分 ~ 23时01分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            23,
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 23时01分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -652,17 +794,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
           "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
           "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
           "source": "凤凰网",
@@ -708,19 +839,17 @@
           "time_info": "[09时57分 ~ 16时07分]"
         },
         {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
           "ranks": [
+            16,
             13,
-            23,
-            27,
-            28,
-            29
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时57分 ~ 20时17分]"
+          "time_info": "[16时07分 ~ 23时01分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -787,18 +916,6 @@
           "time_info": "[09时57分 ~ 16时07分]"
         },
         {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 20时17分]"
-        },
-        {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
@@ -823,13 +940,24 @@
           "time_info": "[09时57分 ~ 13时19分]"
         },
         {
+          "title": "美国第一夫人梅拉尼娅·特朗普：（关于吉米·基梅尔笑称梅拉尼娅看起来像寡妇）是美国广播公司ABC采取立场的时候了。",
+          "url": "https://flash.jin10.com/detail/20260427222640325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
           "url": "https://wallstreetcn.com/livenews/3094993",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -884,7 +1012,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -925,7 +1053,7 @@
     },
     {
       "keyword_group": "DeepSeek Minimax GLM Kimi Doubao Qwen OpenClaw 龙虾",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
@@ -989,6 +1117,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
@@ -1011,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 16时07分]"
+        },
+        {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
         },
         {
           "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
@@ -1082,6 +1232,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
+          "url": "https://wallstreetcn.com/livenews/3094729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1092,7 +1270,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1103,7 +1281,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         }
@@ -1123,23 +1301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
-          "url": "https://wallstreetcn.com/livenews/3094729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         }
       ]
     }
