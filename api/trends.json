@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T18:56:39.227275+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-04-28T20:22:37.438548+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 20时22分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -29,8 +29,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 20时22分]"
+        },
+        {
+          "title": "美媒：中东美军基地受损程度远比美国公开承认的严重",
+          "url": "https://v.ifeng.com/c/8sfXZIUBNe9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时56分]"
+          "time_info": "[13时51分 ~ 20时22分]"
         },
         {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
@@ -45,15 +56,15 @@
           "time_info": "[10时04分 ~ 16时09分]"
         },
         {
-          "title": "美媒：中东美军基地受损程度远比美国公开承认的严重",
-          "url": "https://v.ifeng.com/c/8sfXZIUBNe9",
-          "source": "凤凰网",
+          "title": "阿联酋航空公司陆续恢复部分中东航线",
+          "url": "https://wallstreetcn.com/livenews/3095783",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 18时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
@@ -65,8 +76,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 20时22分]"
         },
         {
           "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
@@ -76,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 20时22分]"
         },
         {
           "title": "伊朗“蚊子舰队”如何控制海峡",
@@ -86,11 +97,25 @@
           "ranks": [
             14,
             13,
-            17
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 20时22分]"
+        },
+        {
+          "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时51分 ~ 18时56分]"
+          "time_info": "[16时09分 ~ 20时22分]"
         },
         {
           "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
@@ -105,16 +130,39 @@
           "time_info": "[10时04分 ~ 13时51分]"
         },
         {
-          "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062443",
-          "source": "澎湃新闻",
+          "title": "断联42天的8岁伊朗男孩回绍兴上学",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%9442%E5%A4%A9%E7%9A%848%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E7%BB%8D%E5%85%B4%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            12
+            18,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 18时56分]"
+          "time_info": "[18时56分 ~ 20时22分]"
+        },
+        {
+          "title": "伊朗称在间谍活动基地发现“星链”",
+          "url": "https://www.toutiao.com/trending/7633725221346328627/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时22分]"
+        },
+        {
+          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2032385595960451834",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时22分]"
         },
         {
           "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
@@ -139,13 +187,24 @@
           "time_info": "10时04分"
         },
         {
+          "title": "伊朗战争丨伊朗黑客对美方发出一次“小小的警告”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国能源部长Wright：美国不考虑禁止出口本国能源产品。 今日将在欧洲宣布具有历史意义的协议。 动态增长将出现在中欧和东欧。 如果我们不出口，将不得不让炼油厂减产。 伊朗剩下的石油储存“并不多了”。 伊朗没有大量的存储能力。",
           "url": "https://wallstreetcn.com/livenews/3095697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -183,13 +242,24 @@
           "time_info": "16时09分"
         },
         {
+          "title": "无视伊朗战争冲击，西班牙维持2026年经济增长预测",
+          "url": "https://flash.jin10.com/detail/20260428195349012800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "伊朗储油能力即将达到极限 减产或永久性损害油田产能",
           "url": "https://www.cls.cn/detail/2357977",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -211,7 +281,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -225,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "伊朗警方发现“星链”设备等间谍装备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
@@ -255,7 +336,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -282,28 +363,6 @@
           "time_info": "13时51分"
         },
         {
-          "title": "断联42天的8岁伊朗男孩回绍兴上学",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%9442%E5%A4%A9%E7%9A%848%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E7%BB%8D%E5%85%B4%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "伊朗称在间谍活动基地发现“星链”",
-          "url": "https://www.toutiao.com/trending/7633725221346328627/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "美国务卿称伊朗仍保有半数战前导弹库存",
           "url": "https://wallstreetcn.com/livenews/3095438",
           "source": "华尔街见闻-快讯",
@@ -313,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2032385595960451834",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -368,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "据伊朗学生通讯社：政府发言人表示，随着情况的正常化，伊朗互联网状况必将发生变化。",
@@ -454,17 +513,6 @@
           "time_info": "[13时51分 ~ 16时09分]"
         },
         {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 18时56分]"
-        },
-        {
           "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
           "url": "https://news.ifeng.com/c/8sgnalbK6o8",
           "source": "凤凰网",
@@ -472,8 +520,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 20时22分]"
         },
         {
           "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
@@ -482,6 +530,17 @@
           "ranks": [
             18,
             19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 20时22分]"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -500,13 +559,25 @@
           "time_info": "[10时04分 ~ 13时51分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时22分]"
+        },
+        {
           "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
           "url": "https://wallstreetcn.com/livenews/3095689",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -531,17 +602,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "主持人读枪手宣言让特朗普破防",
@@ -602,7 +662,7 @@
     },
     {
       "keyword_group": "DeepSeek Minimax GLM Kimi Doubao Qwen OpenClaw 龙虾",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro优惠官宣延期，活动持续至今年5月31日",
@@ -635,8 +695,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 20时22分]"
+        },
+        {
+          "title": "DeepSeek还是最强国产AI吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 18时56分]"
+          "time_info": "[18时56分 ~ 20时22分]"
         },
         {
           "title": "白宫晚宴提前结束 2600份龙虾去哪了",
@@ -645,9 +717,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
@@ -694,15 +777,66 @@
           "time_info": "10时04分"
         },
         {
-          "title": "DeepSeek还是最强国产AI吗",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek V4有多强 普通人咋用",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E6%9C%89%E5%A4%9A%E5%BC%BA+%E6%99%AE%E9%80%9A%E4%BA%BA%E5%92%8B%E7%94%A8",
+          "source": "百度热搜",
           "ranks": [
-            21
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "20时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘前跌超1%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时22分]"
+        },
+        {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -728,7 +862,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -739,7 +873,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -750,48 +884,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "报道称OpenAI未达销售目标 相关股票下跌",
-          "url": "https://wallstreetcn.com/livenews/3095675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "18时56分"
         }
       ]
     },
