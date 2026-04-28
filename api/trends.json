@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T20:22:37.438548+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-04-28T23:20:49.995727+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 23时20分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -26,11 +27,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 23时20分]"
         },
         {
           "title": "美媒：中东美军基地受损程度远比美国公开承认的严重",
@@ -56,17 +58,6 @@
           "time_info": "[10时04分 ~ 16时09分]"
         },
         {
-          "title": "阿联酋航空公司陆续恢复部分中东航线",
-          "url": "https://wallstreetcn.com/livenews/3095783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
           "url": "https://www.toutiao.com/trending/7632898398869474879/",
           "source": "今日头条",
@@ -76,8 +67,41 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 23时20分]"
+        },
+        {
+          "title": "伊朗政府授权最高国家安全委员会根据其法定职责，采取行动公布恐怖主义个人、团体和组织的名单。",
+          "url": "https://flash.jin10.com/detail/20260428231112339800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "阿联酋航空公司陆续恢复部分中东航线",
+          "url": "https://wallstreetcn.com/livenews/3095783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "伊朗陆军发言人：战争尚未结束 军队严阵以待",
+          "url": "https://flash.jin10.com/detail/20260428230706670800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
@@ -98,11 +122,12 @@
             14,
             13,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 23时20分]"
         },
         {
           "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
@@ -111,11 +136,12 @@
           "ranks": [
             15,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 23时20分]"
         },
         {
           "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
@@ -152,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时56分 ~ 20时22分]"
+        },
+        {
+          "title": "伊朗警方发现“星链”设备等间谍装备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 23时20分]"
         },
         {
           "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
@@ -193,9 +230,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
+        },
+        {
+          "title": "伊朗战争丨伊朗革命卫队：已实现对霍尔木兹海峡的绝对控制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "以色列国防军：初步报告Misgav Am地区响起警报。具体情况正在审查中。",
+          "url": "https://flash.jin10.com/detail/20260428230602091800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国能源部长Wright：美国不考虑禁止出口本国能源产品。 今日将在欧洲宣布具有历史意义的协议。 动态增长将出现在中欧和东欧。 如果我们不出口，将不得不让炼油厂减产。 伊朗剩下的石油储存“并不多了”。 伊朗没有大量的存储能力。",
@@ -207,6 +266,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "伊朗料将迅速递交修订版和平建议。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3095902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "以媒：欧盟考虑制裁以色列，但理由和俄罗斯有关",
+          "url": "https://news.ifeng.com/c/8shSxbFKo1N",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
@@ -248,9 +329,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
+        },
+        {
+          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
+          "url": "https://www.cls.cn/detail/2358468",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "消息人士：伊朗预计将很快提交修订版和平提案",
+          "url": "https://flash.jin10.com/detail/20260428225908232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "伊朗储油能力即将达到极限 减产或永久性损害油田产能",
@@ -297,17 +400,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "伊朗警方发现“星链”设备等间谍装备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
           "url": "https://wallstreetcn.com/livenews/3095328",
           "source": "华尔街见闻-快讯",
@@ -350,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "普京：俄罗斯将全力推动中东尽快实现和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33066226",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "以色列国防军：在黎巴嫩南部地区活动的部队发现可疑空中目标，已进行拦截，拦截结果正在检查中。该目标未进入以色列领土，防空系统未发出警报。",
@@ -424,7 +527,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -465,7 +568,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
@@ -477,6 +580,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 13时51分]"
+        },
+        {
+          "title": "美国总统特朗普：美国人没有比英国人更亲密的朋友了。",
+          "url": "https://flash.jin10.com/detail/20260428231128764800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美国总统特朗普：今天真是个美丽的英国日。",
+          "url": "https://flash.jin10.com/detail/20260428230959747800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
@@ -547,6 +672,19 @@
           "time_info": "[13时51分 ~ 18时56分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时20分]"
+        },
+        {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
           "source": "澎湃新闻",
@@ -557,18 +695,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 13时51分]"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时22分]"
         },
         {
           "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
@@ -593,6 +719,28 @@
           "time_info": "10时04分"
         },
         {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "英国查尔斯国王会见了特朗普内阁成员，包括美国副总统万斯、美国国务卿鲁比奥和美国财长贝森特。",
+          "url": "https://flash.jin10.com/detail/20260428225630277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
           "url": "https://wallstreetcn.com/livenews/3095326",
           "source": "华尔街见闻-快讯",
@@ -615,6 +763,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "美国总统特朗普走出白宫迎接英国国王查尔斯。",
+          "url": "https://flash.jin10.com/detail/20260428225258398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美媒：特朗普对伊朗新方案不满意",
           "url": "https://www.toutiao.com/trending/7633339570876170294/",
           "source": "今日头条",
@@ -624,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "特朗普渲染伊朗困境，分析师却称伊朗仍能扛住美方封锁",
+          "url": "https://flash.jin10.com/detail/20260428225034033800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "特朗普政府解散美国国家科学委员会",
@@ -662,7 +832,7 @@
     },
     {
       "keyword_group": "DeepSeek Minimax GLM Kimi Doubao Qwen OpenClaw 龙虾",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro优惠官宣延期，活动持续至今年5月31日",
@@ -676,6 +846,19 @@
           "time_info": "13时51分"
         },
         {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 23时20分]"
+        },
+        {
           "title": "DeepSeekV4Pro优惠官宣延期，活动持续至今年5月31日",
           "url": "https://flash.jin10.com/detail/20260428133827472800",
           "source": "金十数据",
@@ -685,18 +868,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 20时22分]"
         },
         {
           "title": "DeepSeek还是最强国产AI吗",
@@ -711,6 +882,18 @@
           "time_info": "[18时56分 ~ 20时22分]"
         },
         {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 23时20分]"
+        },
+        {
           "title": "白宫晚宴提前结束 2600份龙虾去哪了",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E6%99%9A%E5%AE%B4%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F+2600%E4%BB%BD%E9%BE%99%E8%99%BE%E5%8E%BB%E5%93%AA%E4%BA%86",
           "source": "百度热搜",
@@ -720,17 +903,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
-        },
-        {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
@@ -777,13 +949,24 @@
           "time_info": "10时04分"
         },
         {
+          "title": "如何评价 DeepSeek V4 降价的事？",
+          "url": "https://www.zhihu.com/question/2032100000558229357",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "DeepSeek V4有多强 普通人咋用",
           "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E6%9C%89%E5%A4%9A%E5%BC%BA+%E6%99%AE%E9%80%9A%E4%BA%BA%E5%92%8B%E7%94%A8",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         }
@@ -791,8 +974,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘前跌超1%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -800,7 +994,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -813,8 +1007,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时20分]"
+        },
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "马斯克抵达加利福尼亚州奥克兰联邦法院，进行针对OpenAI的诉讼开庭陈述。",
+          "url": "https://flash.jin10.com/detail/20260428230101976800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "报道称OpenAI未达销售目标 相关股票下跌",
