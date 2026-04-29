@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T18:48:59.884086+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-29T20:12:57.257409+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中东 伊朗 以色列",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 20时12分]"
         },
         {
           "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
@@ -49,11 +49,12 @@
           "ranks": [
             16,
             17,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 20时12分]"
         },
         {
           "title": "8岁伊朗男孩回到中国学校 全班沸腾",
@@ -107,7 +108,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -119,8 +120,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时12分]"
         },
         {
           "title": "伊朗战争丨伊官员：霍尔木兹海峡仅对美以有关船只关闭",
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 20时12分]"
         },
         {
           "title": "世界银行预测：受中东战争影响，今年全球能源价格将大涨24%",
@@ -167,17 +179,6 @@
           "time_info": "[10时05分 ~ 10时06分]"
         },
         {
-          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "阿迪达斯：由于冲突影响，中东多个国家的销售额出现下滑。",
           "url": "https://flash.jin10.com/detail/20260429133151648800",
           "source": "金十数据",
@@ -206,7 +207,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -228,9 +229,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "乌克兰外交部长宣布，乌克兰已要求以色列在以色列港口扣押一艘俄罗斯船只。",
+          "url": "https://flash.jin10.com/detail/20260429194030611800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "伊朗官员：希望伊美谈判取得积极成果 伊方仍保留“底牌”",
@@ -272,7 +284,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -294,7 +306,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -313,7 +325,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
@@ -325,8 +337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 18时48分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 20时12分]"
         },
         {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
@@ -340,6 +352,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时05分 ~ 16时03分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 20时12分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -367,6 +390,17 @@
           "time_info": "[10时05分 ~ 16时03分]"
         },
         {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 20时12分]"
+        },
+        {
           "title": "民调：特朗普支持率跌至任内新低",
           "url": "https://www.toutiao.com/trending/7633688125021634602/",
           "source": "今日头条",
@@ -377,17 +411,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时05分 ~ 13时48分]"
-        },
-        {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
@@ -421,18 +444,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -536,9 +548,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "特朗普：美国准备长期封锁伊朗",
@@ -569,7 +592,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -577,7 +600,7 @@
     },
     {
       "keyword_group": "DeepSeek Minimax GLM Kimi Doubao Qwen OpenClaw 龙虾",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "Minimax 股价几乎腰斩，其背后有哪些原因？对市场有何影响？",
@@ -599,11 +622,12 @@
           "ranks": [
             9,
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 18时48分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 20时12分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -611,11 +635,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时12分]"
         },
         {
           "title": "DeepSeekV4Pro优惠延期",
@@ -635,9 +660,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 20时12分]"
         },
         {
           "title": "港股AI股回升，智谱(02513.HK)涨超2%，MINIMAX-W(00100.HK)、美团(03690.HK)、网易-S(09999.HK)、迅策(03317.HK)、阿里巴巴(09988.HK)等个股跟涨。",
@@ -649,12 +674,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "华为终端：华为小艺Claw上线自进化能力，同时接入DeepSeek V4实现逻辑推理跃迁。",
+          "url": "https://flash.jin10.com/detail/20260429192700676800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -664,8 +711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 20时12分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -676,8 +723,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 20时12分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -700,8 +747,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 18时48分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 20时12分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -713,6 +760,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         }
       ]
     },
@@ -742,6 +800,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
+          "url": "https://flash.jin10.com/detail/20260429194814328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         }
       ]
     }
